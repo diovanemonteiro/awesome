@@ -1,4 +1,4 @@
-# Lista de sites, tutoriais e artigos Favoritos
+# Lista de sites, tutoriais e artigos sobre diversos assuntos relacionados a desenvolvimento de software.
 
 ## Table of Content
  - [Laravel](#laravel)
@@ -18,6 +18,7 @@
 ## Scrum
 
 ## Git
+ - [Git: Alterando seus commits com rebase - parte 2/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-2/)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
