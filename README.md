@@ -1,5 +1,13 @@
-# Lista de Sites e Artigos Favoritos
+# Lista de sites, tutoriais e artigos Favoritos
 
 ## Laravel
- - [Larave News](http://laravel-news.com/blog)
+ - [Laravel News](http://laravel-news.com/blog)
  - [Laravel Feed](http://laravelfeed.com)
+
+## Angular
+
+## Vue
+
+## Scrum
+
+## Git
