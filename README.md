@@ -1,4 +1,5 @@
-# Lista de sites, tutoriais e artigos sobre diversos assuntos relacionados a desenvolvimento de software.
+# Awesome General.
+ > Lista de sites, tutoriais e artigos sobre diversos assuntos relacionados a  desenvolvimento aplicações web.
 
 ## Table of Content
  - [Laravel](#laravel)
