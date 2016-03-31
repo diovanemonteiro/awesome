@@ -1,8 +1,15 @@
 # Lista de sites, tutoriais e artigos Favoritos
 
+## Table of Content
+ - [Laravel](#laravel)
+ - [Angular](#angular)
+ - [Vue](#vue)
+ - [Scrum](#scrum)
+ - [Jekyll](#jekyll)
+
 ## Laravel
- - [Laravel News](http://laravel-news.com/blog)
- - [Laravel Feed](http://laravelfeed.com)
+ - [Laravel News](http://laravel-news.com/blog) - Blog oficial do framework Laravel
+ - [Laravel Feed](http://laravelfeed.com) - Feed de artigos, dicas, tutoriais e pacotes. sobre laravel.
 
 ## Angular
 
@@ -14,4 +21,4 @@
 
 ## Jekyll
  - [Sites](#sites-jekyll)
-     + [Blog Willian Justen](http://willianjusten.com.br/)
+     - [Blog Willian Justen](http://willianjusten.com.br/)
