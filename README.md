@@ -23,6 +23,6 @@
 
 ## Jekyll
  - [Sites](#sites-jekyll)
-      [Blog Willian Justen](http://willianjusten.com.br/)
+     + [Blog Willian Justen](http://willianjusten.com.br/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/) 
