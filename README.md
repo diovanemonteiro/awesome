@@ -1,5 +1,5 @@
-# Awesome General.
- > Lista de sites, tutoriais e artigos sobre diversos assuntos relacionados a  desenvolvimento aplicações web.
+# Awesome Web Development.
+ > Lista favoritos, sites, tutoriais, postagens, artigos e vídeos sobre diversos assuntos relacionados a desenvolvimento web.
 
 ## Table of Content
  - [Laravel](#laravel)
@@ -23,4 +23,6 @@
 
 ## Jekyll
  - [Sites](#sites-jekyll)
-     - [Blog Willian Justen](http://willianjusten.com.br/)
+      [Blog Willian Justen](http://willianjusten.com.br/)
+ - [Themes](http://jekyllthemes.org/) 
+     + [Hydejack](http://jekyllthemes.org/themes/hydejack/) 
