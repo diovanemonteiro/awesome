@@ -2,9 +2,13 @@
  > Lista de sites favoritos, tutoriais, postagens, artigos e vídeos sobre diversos assuntos relacionados a desenvolvimento web.
 
 ## Table of Contents
+ - [PHP](#php)
  - [Laravel](#laravel)
+ - [JavaScript](#javascript)
+ - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angular)
  - [Vue.js](#vue)
+ - [Java](#java)
  - [Agile](#agile)
  - [Scrum](#scrum)
  - [kanban](#kanban)
@@ -15,6 +19,9 @@
  - [Object Oriented](#object-oriented)
  - [Markdown](#markdown)
  - [Vagrant](#vagrant)
+ - [English](#english)
+
+## PHP
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Blog oficial do framework Laravel
@@ -23,6 +30,13 @@
  - [Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
  - [Ajax - Cross-Origin Request Blocked in Larave 5](http://itsolutionstuff.com/post/ajax-cross-origin-request-blocked-in-larave-5example.html)
+ - [Important features of Laravel which make it the finest PHP framework ever](http://www.conversionbug.com/important-features-of-laravel-which-make-it-the-finest-php-framework-ever)
+
+## JavaScript
+ - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
+ - [Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/)
+
+## Single Page Applications
 
 ## AngularJS
  - [An Introduction to AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
@@ -31,6 +45,12 @@
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
+
+## CSS
+ - [FlexBox](#flexbox)
+	 + [Repensando layouts com FlexBox](http://lucasmaiaesilva.com.br/repensando-layouts-com-flexbox/)
+
+## Java
 
 ## Agile
  - [Desenvolvimento ágil e o software incremental](https://medium.com/codigo-cafeina/desenvolvimento-agil-e-o-software-incremental-c877d394dc00#.v59qhs4a2)
@@ -65,20 +85,28 @@
  - [Utilizando o Trello como Helpdesk com integração ao Telegram](https://medium.com/telegram-brasil/usando-o-trello-como-helpdesk-com-integra%C3%A7%C3%A3o-ao-telegram-e0f98e2b0d02#.4utz0is76)
  - [11 Useful Tips for Getting the Most out of Slack](https://medium.com/@slackhq/11-useful-tips-for-getting-the-most-of-slack-5dfb3d1af77#.drdrkfkew)
  - [Using Trello to Track and Manage your Reading](https://medium.com/@juvoni/using-trello-to-track-and-manage-your-reading-2fbdc4da88e#.c3anbselp)
+ - [5 apps para aumentar a sua produtividade](https://medium.com/@lucascguedes/5-apps-para-aumentar-a-sua-produtividade-6dd2fd70860e#.xj17vprql)
+ - [Slack reminders: Sua secretaria pessoal](https://medium.com/@madsonmac/slack-reminders-sua-secretaria-pessoal-5bac58b92a96#.aoiuvf6cz)
+ - [7 Coisas Que Você Precisa Parar de Fazer Para Ser Mais Produtivo, Comprovado Pela Ciência](https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.3gj1w7wd8)
 
 ## Git and Github
+ - [Git: Alterando seus commits com rebase - parte 1/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
  - [Git: Alterando seus commits com rebase - parte 2/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-2/)
  - [An Intro to Git and GitHub](https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f#.jhyvxq751)
+ - [GitHub: Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
      + [Blog Willian Justen](http://willianjusten.com.br/)
+     + [Raphael Fabeni Front-end Developer](http://www.raphaelfabeni.com.br/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
 
 ## Mobile
- - [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
+ - [Ionic](#ionic)
+	 + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
+	 + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
 
 ## Object Oriented
  - [Objects Calesthenics](https://medium.com/@rogeriozambon/object-calisthenics-fea3b5c2d9c#.297b7iu3w)
@@ -86,9 +114,16 @@
 
 ## Markdown
  - [Adicionando Markdown ao seu kit de sobrevivência na web](https://medium.com/nomads-on-rails/adicionando-markdown-ao-seu-kit-de-sobrevivencia-na-web-5e7ff9b2b3bb#.5oxie9lxn)
+ - [Aprensa Markdown](http://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+
+## Docker
 
 ## Vagrant
  - [Vagrant](https://medium.com/@joaovagner/vagrant-58e623d131ba#.jwfri0dee)
  - [Várias máquinas dentro de uma — Parte 1](https://medium.com/@henriquemoreno/v%C3%A1rias-m%C3%A1quinas-dentro-de-uma-parte-1-bd80d3e05b8f#.rbqclm4hk)
  - [Várias máquinas dentro de uma — Parte 2](https://medium.com/@henriquemoreno/v%C3%A1rias-m%C3%A1quinas-dentro-de-uma-parte-2-e8fa6de8f4f#.sj0jkbcv8)
  - [Instalando Vagrant no Ubuntu 14.04 para desenvolvedores PHP](https://medium.com/@guiseek/instalando-vagrant-no-ubuntu-14-04-para-desenvolvedores-php-aab3ddfd588d#.mzou6ocmt)
+ - [How to install and use Vagrant](https://medium.com/learn-laravel-5/vagrant-eb404fa7725c#.aszoyincg)
+
+## English
+ - [Para aprender Inglês… você precisa aprender a ouvir!](https://medium.com/@maestrocursos/para-aprender-ingl%C3%AAs-voc%C3%AA-precisa-aprender-a-ouvir-3a6bd01fc586#.qfa7ssf64)
