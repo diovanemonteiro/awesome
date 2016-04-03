@@ -22,6 +22,7 @@
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
+ - [Ajax - Cross-Origin Request Blocked in Larave 5](http://itsolutionstuff.com/post/ajax-cross-origin-request-blocked-in-larave-5example.html)
 
 ## AngularJS
  - [An Introduction to AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
