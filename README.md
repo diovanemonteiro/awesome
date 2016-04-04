@@ -1,5 +1,5 @@
 # Awesome Web Development.
- > Lista de sites favoritos, tutoriais, postagens, artigos e vídeos sobre diversos assuntos relacionados a desenvolvimento web.
+ > Uma coleção de links, sites favoritos, tutoriais, dicas, postagens, artigos e vídeos sobre diversos tecnologias relacionadas ao desenvolvimento web.
 
 ## Table of Contents
  - [PHP](#php)
@@ -42,6 +42,7 @@
  - [Setting up UUIDs in Laravel 5+](https://medium.com/@steveazz/setting-up-uuids-in-laravel-5-552412db2088#.v173beman)
  - [How to craft a digital e-shop with Laravel – Part1](https://www.codetutorial.io/how-to-craft-a-digital-e-shop-with-laravel/)
  - [A Guide to Using Eloquent ORM in Laravel](https://scotch.io/tutorials/a-guide-to-using-eloquent-orm-in-laravel)
+ - [Understanding Laravel Environment Variables](https://scotch.io/tutorials/understanding-laravel-environment-variables)
  - [Artesaos\Warehouse e Repository Patterns — Parte 2](https://medium.com/@gilvaju/artesaos-warehouse-e-repository-patterns-parte-2-ca3cbb8f216c#.mhcb15pns)
  - [Workshop API 5 — oAuth2 server](https://medium.com/@Joselfonseca/workshop-api-5-oauth2-server-ef3b81b22b4a#.ezyect4e6)
  - [Creating Laravel 5 Packages for dummies](https://medium.com/@tabacitu/creating-laravel-5-packages-for-dummies-ec6a4ded2e93#.w55a1tcyi)
@@ -116,6 +117,7 @@
  - [Pequeno glossário ágil](https://medium.com/@Aerochimps/pequeno-gloss%C3%A1rio-%C3%A1gil-c82721d6313f#.tg3qjgogq)
 
 ## Scrum
+ - [Scrum - Visão Geral](http://www.desenvolvimentoagil.com.br/scrum/) 
  - [Scrum: Gerencie projetos de forma ágil e eficaz](https://medium.com/@lpprodutividade/scrum-gerencie-projetos-de-forma-%C3%A1gil-e-eficaz-99d5fe9798e7#.vcwn6l5z2)
  - [Scrum: seu time já deveria estar em outra](https://medium.com/@jcemer/scrum-seu-time-ja-deveria-estar-em-outra-4b11715e2a26#.rdgn7c3x8)
  - [Scrum — Dicas para uma Daily mais eficaz](https://medium.com/@eabreusantos/scrum-dicas-para-uma-daily-mais-eficaz-3c8911d61264#.m6q8kt53k)
@@ -144,6 +146,7 @@
  - [7 Coisas Que Você Precisa Parar de Fazer Para Ser Mais Produtivo, Comprovado Pela Ciência](https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.3gj1w7wd8)
 
 ## Git and Github
+ - [Tudo que você queria saber sobre git e github, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
  - [Git: Alterando seus commits com rebase - parte 1/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
  - [Git: Alterando seus commits com rebase - parte 2/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-2/)
  - [An Intro to Git and GitHub](https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f#.jhyvxq751)
