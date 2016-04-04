@@ -4,6 +4,7 @@
 ## Table of Contents
  - [PHP](#php)
  - [Laravel](#laravel)
+ - [CakePHP](#cakephp)
  - [JavaScript](#javascript)
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angular)
@@ -24,12 +25,14 @@
 ## PHP
  - [The Beauty of Interfaces in PHP](https://medium.com/@bradynpoulsen/the-beauty-of-interfaces-in-php-7c815ab84606#.dhhr1opii)
  - [Simplifying Conditional Expressions](http://zaengle.com/blog/simplifying-conditional-expressions)
+ - [Intermediate to Advanced PHP - Intro](https://medium.com/@hidiegomariani/intermediate-to-advanced-php-intro-9d341b1129c2#.vpm3tgwm2)
+ - [Intermediate to Advanced PHP - SOLID Principles](https://medium.com/@hidiegomariani/intermediate-to-advanced-php-solid-principles-b2c5bd8360ce#.x5p6sq52f)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
  - [Laravel Feed](http://laravelfeed.com) - Tudo sobre laravel em um lugar.
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
- - [Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
+ - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
  - [Ajax - Cross-Origin Request Blocked in Larave 5](http://itsolutionstuff.com/post/ajax-cross-origin-request-blocked-in-larave-5example.html)
  - [Important features of Laravel which make it the finest PHP framework ever](http://www.conversionbug.com/important-features-of-laravel-which-make-it-the-finest-php-framework-ever)
@@ -67,6 +70,15 @@
  - [Why Laravel is the Best PHP Framework for Web Development](https://www.whatech.com/web-design/press-release/140498-why-laravel-is-the-best-php-framework-for-web-development)
  - [PT-BR — Organização de Rotas no Laravel](https://medium.com/@cbcaio/pt-br-organiza%C3%A7%C3%A3o-de-rotas-no-laravel-e2e89b5c3d8b#.ptq07r1gt)
  - [A dificuldade em aderir um Framework](https://medium.com/@srdavidsilva/a-dificuldade-em-aderir-um-framework-dfc2539a54ef#.a379g9v0b)
+ - [Descobrindo o Laravel](https://medium.com/@andrenba/descobrindo-o-laravel-em-3-passos-82e0de9c6fe3#.mc3gxwtgc)
+ - [Por favor, não crie abstrações desnecessárias](https://medium.com/@gabrielkoerich/por-favor-n%C3%A3o-crie-abstra%C3%A7%C3%B5es-desnecess%C3%A1rias-96e97ad2a51b#.lcja2q14t)
+ - [Vida em comunidades: Aqui tem biscoito!](https://medium.com/by-vinicius-reis/vida-em-comunidades-aqui-tem-biscoito-f199709dab8#.2dlcn4h87)
+ - [Defender & Laravel ACL: Permissões de Grupo](https://medium.com/@andreovieira/defender-laravel-acl-permiss%C3%B5es-de-grupo-3b200cbd83f4#.wjsu5hlm8)
+ - [Laravel Multitenancy — Part 3](https://medium.com/@gamerwalt/laravel-multitenancy-part-3-12bb5e5284b7#.tef4yv6or)
+ - [Instalando Laravel 5.2](https://medium.com/@eabreusantos/instalando-laravel-5-2-d9a270cfeed6#.bk6eyp6e4)
+ - [Laravel : Repositories the right way](https://medium.com/laravel-news/laravel-repositories-the-right-way-2aad04c48913#.fqt71g3qp)
+ - [Laravel 5 and AngularJS Tutorial reloaded – Part 1](https://www.codetutorial.io/laravel-5-and-angularjs-tutorial-reloaded-part-1/)
+ - [Laravel and Vue JS: Advanced Frontend Webapp Architecture](https://medium.com/laravel-news/advanced-front-end-setup-with-vue-js-laravel-e9fbd7e89fe2#.bem4cgprr)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -85,6 +97,8 @@
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
+ - [Using Vue.js for non SPA’s](https://medium.com/@weblee/using-vue-js-for-non-spa-s-c2bd93f69d32#.c2ij4b5uy)
+ - [How to use Vue.js with Laravel for the First Time](https://medium.com/looped-in/how-to-use-vue-js-with-laravel-for-the-first-time-fde8c59c8c85#.srto3i3pj)
 
 ## CSS
  - [FlexBox](#flexbox)
