@@ -22,15 +22,55 @@
  - [English](#english)
 
 ## PHP
+ - [The Beauty of Interfaces in PHP](https://medium.com/@bradynpoulsen/the-beauty-of-interfaces-in-php-7c815ab84606#.dhhr1opii)
+ - [Simplifying Conditional Expressions](http://zaengle.com/blog/simplifying-conditional-expressions)
 
 ## Laravel
- - [Laravel News](http://laravel-news.com/blog) - Blog oficial do framework Laravel
- - [Laravel Feed](http://laravelfeed.com) - Feed de artigos, dicas, tutoriais e pacotes. sobre laravel.
+ - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
+ - [Laravel Feed](http://laravelfeed.com) - Tudo sobre laravel em um lugar.
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
  - [Ajax - Cross-Origin Request Blocked in Larave 5](http://itsolutionstuff.com/post/ajax-cross-origin-request-blocked-in-larave-5example.html)
  - [Important features of Laravel which make it the finest PHP framework ever](http://www.conversionbug.com/important-features-of-laravel-which-make-it-the-finest-php-framework-ever)
+ - [Eloquent Create, Update, New...the Untold Story](http://codebyjeff.com/blog/2016/04/eloquent-create-update-new-the-untold-story)
+ - [Adding Foreign Key References Using a Laravel Migration](http://www.easylaravelbook.com/blog/2016/03/31/adding-foreign-key-references-using-a-laravel-migration/)
+ - [Intro & Referências de Conteúdo Sobre Laravel](https://medium.com/@cbcaio/intro-refer%C3%AAncias-de-conte%C3%BAdo-66485ecdadf8#.m6srndghi)]
+ - [Setting up UUIDs in Laravel 5+](https://medium.com/@steveazz/setting-up-uuids-in-laravel-5-552412db2088#.v173beman)
+ - [How to craft a digital e-shop with Laravel – Part1](https://www.codetutorial.io/how-to-craft-a-digital-e-shop-with-laravel/)
+ - [A Guide to Using Eloquent ORM in Laravel](https://scotch.io/tutorials/a-guide-to-using-eloquent-orm-in-laravel)
+ - [Artesaos\Warehouse e Repository Patterns — Parte 2](https://medium.com/@gilvaju/artesaos-warehouse-e-repository-patterns-parte-2-ca3cbb8f216c#.mhcb15pns)
+ - [Workshop API 5 — oAuth2 server](https://medium.com/@Joselfonseca/workshop-api-5-oauth2-server-ef3b81b22b4a#.ezyect4e6)
+ - [Creating Laravel 5 Packages for dummies](https://medium.com/@tabacitu/creating-laravel-5-packages-for-dummies-ec6a4ded2e93#.w55a1tcyi)
+ - [**Por que Laravel? Uma entrevista exclusiva com Vedovelli!**](https://medium.com/@andrenba/por-que-laravel-uma-entrevista-exclusiva-com-vedovelli-b2bf022183dc#.llhozyqnr)
+ - [Laravel 5— Elixir (Browserify) e Ecmascript 6](https://medium.com/@angelorubin/laravel-5-elixir-browserify-e-ecmascript-6-641f601d79d7#.5zca3pux2)
+ - [Laravel 5.2 is released](https://medium.com/laravel-news/laravel-5-2-is-released-36980c4d5239#.wgqmssbvy)
+ - [Laravel API Starter Kit](https://medium.com/@Joselfonseca/laravel-api-starter-kit-431ecb35943c#.tc30clqfz)
+ - [Migrations: o porque e como usar](https://medium.com/@juniorb2s/migrations-o-porque-e-como-usar-12d98c6d9269#.cwtrmsji7)
+ - [Novidades Laravel 5.2](https://medium.com/@juniorb2s/novidades-laravel-5-2-4e0ca48340c7#.v1qn74t7m)
+ - [CSRF Protection in Laravel explained](https://medium.com/@barryvdh/csrf-protection-in-laravel-explained-146d89ff1357#.pxflzmmta)
+ - [Minha experiência ao utilizar o Laravel Shift](https://medium.com/@gabrielpiccin/minha-experi%C3%AAncia-ao-utilizar-o-laravel-shift-e2e35aef7bee#.iez3b2opi)
+ - [Criando Packages com migrations no Laravel 5](https://medium.com/@f.h.ferreira/criando-packages-com-migrations-no-laravel-5-aa0a1922f365#.sev9pohcv)
+ - [**Laravel Response Macros for APIs**](https://blog.jadjoubran.io/2016/03/27/laravel-response-macros-api/)
+ - [LARAVEL – IS IT A GOOD FRAMEWORK FOR PHP DEVELOPERS TO WORK?](http://www.allaboutweb.biz/laravel-is-it-a-good-framework-for-php-developers-to-work/)
+ - [How to print query or debug queries in Laravel](http://skpaul.me/how-to-print-query-or-debug-queries-in-laravel/)
+ - [Authorization in Laravel 5.2](http://www.tisuchi.com/authorization-laravel-5-2/)
+ - [Laravel em profundo 01: “WTF is a Service Provider?”](https://medium.com/by-vinicius-reis/laravel-em-profundo-01-wtf-is-service-provider-a9bd817c4a7d#.hsv31a7lm)
+ - [Repository Pattern não precisa ser chato, principalmente com Laravel](https://medium.com/by-vinicius-reis/repository-pattern-n%C3%A3o-precisa-ser-chato-principalmente-com-laravel-d97235b31c7e#.gx99qxpuh)
+ - [Configuring Multiple Laravel Homestead Sites and Databases](http://www.easylaravelbook.com/blog/2016/03/23/configuring-multiple-laravel-homestead-sites-and-databases/)
+ - [Handling Laravel's ModelNotFoundException (Nonexistent Records)](http://www.easylaravelbook.com/blog/2016/03/29/handling-laravels-modelnotfoundexception-nonexistent-records/)
+ - [Laravel 5 and AngularJS token based authentication Part 2](https://www.codetutorial.io/laravel-and-angularjs-token-based-authentication-part-2/)
+ - [https://blog.sriraman.in/laravel-eloquent-vs-fluent-query-builder/](https://blog.sriraman.in/laravel-eloquent-vs-fluent-query-builder/)
+ - [Por que facades são um problema seu e não do Laravel?](https://medium.com/by-vinicius-reis/por-que-facades-%C3%A9-um-problema-seu-e-n%C3%A3o-do-laravel-8672bb80c74c#.txahrylkr)
+ - [Trabalhando com seeds no Laravel 5](https://medium.com/by-vinicius-reis/trabalhando-com-seeds-no-laravel-5-142829ddc32e#.mrbab174g)
+ - [Quick Start Guide: Laravel 5, vue.js & Bootstrap 3](https://asked.io/quick-start-guide--laravel-5--vue-js---bootstrap-3)
+ - [Why Laravel is the Best PHP Framework for Web Development](https://www.whatech.com/web-design/press-release/140498-why-laravel-is-the-best-php-framework-for-web-development)
+ - [PT-BR — Organização de Rotas no Laravel](https://medium.com/@cbcaio/pt-br-organiza%C3%A7%C3%A3o-de-rotas-no-laravel-e2e89b5c3d8b#.ptq07r1gt)
+ - [A dificuldade em aderir um Framework](https://medium.com/@srdavidsilva/a-dificuldade-em-aderir-um-framework-dfc2539a54ef#.a379g9v0b)
+
+## CakePHP
+ - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
+ - [Populando sua aplicação em CakePHP 3 com dados de teste](https://medium.com/@lemos/populando-sua-aplica%C3%A7%C3%A3o-em-cakephp-3-com-dados-de-teste-c266b52e9421#.1y166jjpf)
 
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
