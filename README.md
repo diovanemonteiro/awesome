@@ -14,6 +14,7 @@
  - [Scrum](#scrum)
  - [kanban](#kanban)
  - [Productivity](#productivity)
+ - [Database](#database)
  - [Git and Github](#git-and-github)
  - [Jekyll](#jekyll)
  - [Mobile](#mobile)
@@ -80,6 +81,7 @@
  - [Laravel : Repositories the right way](https://medium.com/laravel-news/laravel-repositories-the-right-way-2aad04c48913#.fqt71g3qp)
  - [Laravel 5 and AngularJS Tutorial reloaded – Part 1](https://www.codetutorial.io/laravel-5-and-angularjs-tutorial-reloaded-part-1/)
  - [Laravel and Vue JS: Advanced Frontend Webapp Architecture](https://medium.com/laravel-news/advanced-front-end-setup-with-vue-js-laravel-e9fbd7e89fe2#.bem4cgprr)
+ - [Static Sites for Laravel Developers](http://laravelfeed.com/blog/static-sites-for-laravel-developers)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -95,6 +97,7 @@
  - [An Introduction to AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
  - [When and how to validate forms in AngularJS](https://medium.com/@tomsu/when-and-how-to-validate-form-in-angularjs-95e83d6ad41c#.n8o59cims)
  - [Best Resource Sites for Beginner Web Developers to Learn Angular.js](https://medium.com/@AliyahChoudhry/best-resource-sites-for-beginner-web-developers-to-learn-angular-js-85d87d746753#.mq2ba1uka)
+ - [Introduction to http APIs in angularjs for beginners](https://www.dunebook.com/intoduction-to-http-apis-in-angularjs-for-beginners/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
@@ -144,6 +147,10 @@
  - [5 apps para aumentar a sua produtividade](https://medium.com/@lucascguedes/5-apps-para-aumentar-a-sua-produtividade-6dd2fd70860e#.xj17vprql)
  - [Slack reminders: Sua secretaria pessoal](https://medium.com/@madsonmac/slack-reminders-sua-secretaria-pessoal-5bac58b92a96#.aoiuvf6cz)
  - [7 Coisas Que Você Precisa Parar de Fazer Para Ser Mais Produtivo, Comprovado Pela Ciência](https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.3gj1w7wd8)
+ - [Tentando corrigir minhas deficiências](https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.htdqvkwkl)
+
+## Database
+ - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
 
 ## Git and Github
  - [Tudo que você queria saber sobre git e github, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
@@ -151,6 +158,7 @@
  - [Git: Alterando seus commits com rebase - parte 2/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-2/)
  - [An Intro to Git and GitHub](https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f#.jhyvxq751)
  - [GitHub: Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
+ - [Pensando em URLs no Github](https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0#.z9yahnf98)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
@@ -159,6 +167,9 @@
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
+ - [Como fazer seu blog no github com o Jekyll!](https://medium.com/@juliocarneiro/como-fazer-seu-blog-no-github-com-o-jekyll-6dacb377678d#.42cc90u2y)
+ - [Migrar para o Medium é o passo certo?](https://medium.com/blogging-platforms/migrar-para-o-medium-%C3%A9-o-passo-certo-285bb637b298#.qeqsi9dil)
+ - [Um dia, Roselma conheceu o Jekyll no Github, então viu que era bom](http://roselmamendes.github.io/jekyll-github-pages/)
 
 ## Mobile
  - [Ionic](#ionic)
