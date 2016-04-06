@@ -1,5 +1,5 @@
 # Awesome Web Development.
- > Uma coleção de links, sites favoritos, tutoriais, dicas, postagens, artigos e vídeos sobre diversos tecnologias relacionadas ao desenvolvimento web.
+ > Uma coleção de links, sites favoritos, tutoriais, dicas, postagens, artigos e vídeos sobre diversas tecnologias relacionadas ao desenvolvimento web.
 
 ## Table of Contents
  - [PHP](#php)
@@ -32,6 +32,8 @@
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
  - [Laravel Feed](http://laravelfeed.com) - Tudo sobre laravel em um lugar.
+ - [Laravelista](https://laravelista.com/) - Saiba como usar o Laravel.
+ - [Learning Laravel](http://learninglaravel.net) - Laravel Book and Learning Center
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -98,6 +100,8 @@
  - [When and how to validate forms in AngularJS](https://medium.com/@tomsu/when-and-how-to-validate-form-in-angularjs-95e83d6ad41c#.n8o59cims)
  - [Best Resource Sites for Beginner Web Developers to Learn Angular.js](https://medium.com/@AliyahChoudhry/best-resource-sites-for-beginner-web-developers-to-learn-angular-js-85d87d746753#.mq2ba1uka)
  - [Introduction to http APIs in angularjs for beginners](https://www.dunebook.com/intoduction-to-http-apis-in-angularjs-for-beginners/)
+ - [30+ Responsive Free AngularJS Admin Themes](http://www.cssauthor.com/responsive-free-angularjs-admin-themes/)
+ - [Top 10 Resources to learn AngularJS — From March 2016](https://medium.mybridge.co/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.xfjwrfniu)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
@@ -123,7 +127,7 @@
  - [Scrum - Visão Geral](http://www.desenvolvimentoagil.com.br/scrum/) 
  - [Scrum: Gerencie projetos de forma ágil e eficaz](https://medium.com/@lpprodutividade/scrum-gerencie-projetos-de-forma-%C3%A1gil-e-eficaz-99d5fe9798e7#.vcwn6l5z2)
  - [Scrum: seu time já deveria estar em outra](https://medium.com/@jcemer/scrum-seu-time-ja-deveria-estar-em-outra-4b11715e2a26#.rdgn7c3x8)
- - [Scrum — Dicas para uma Daily mais eficaz](https://medium.com/@eabreusantos/scrum-dicas-para-uma-daily-mais-eficaz-3c8911d61264#.m6q8kt53k)
+ - [Scrum - Dicas para uma Daily mais eficaz](https://medium.com/@eabreusantos/scrum-dicas-para-uma-daily-mais-eficaz-3c8911d61264#.m6q8kt53k)
  - [SCRUM é o meio, não o fim](https://medium.com/@handrus/scrum-e-o-meio-nao-o-fim-19434461e91e#.alvulkv52)
  - [Gerenciamento de Projeto com Metodologias Agéis — Parte 1 de 2](https://medium.com/@joaovagner/gerenciamento-de-projeto-com-metodologias-ageis-parte-1-de-2-e45db7dbcdb4#.8ezh03jby)
 
@@ -147,7 +151,7 @@
  - [5 apps para aumentar a sua produtividade](https://medium.com/@lucascguedes/5-apps-para-aumentar-a-sua-produtividade-6dd2fd70860e#.xj17vprql)
  - [Slack reminders: Sua secretaria pessoal](https://medium.com/@madsonmac/slack-reminders-sua-secretaria-pessoal-5bac58b92a96#.aoiuvf6cz)
  - [7 Coisas Que Você Precisa Parar de Fazer Para Ser Mais Produtivo, Comprovado Pela Ciência](https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.3gj1w7wd8)
- - [Tentando corrigir minhas deficiências](https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.htdqvkwkl)
+ - [**Tentando corrigir minhas deficiências**](https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.htdqvkwkl)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
@@ -170,11 +174,13 @@
  - [Como fazer seu blog no github com o Jekyll!](https://medium.com/@juliocarneiro/como-fazer-seu-blog-no-github-com-o-jekyll-6dacb377678d#.42cc90u2y)
  - [Migrar para o Medium é o passo certo?](https://medium.com/blogging-platforms/migrar-para-o-medium-%C3%A9-o-passo-certo-285bb637b298#.qeqsi9dil)
  - [Um dia, Roselma conheceu o Jekyll no Github, então viu que era bom](http://roselmamendes.github.io/jekyll-github-pages/)
+ - [Servindo sites estáticos com Jekyll](http://tableless.com.br/jekyll-servindo-sites-estaticos/)
 
 ## Mobile
  - [Ionic](#ionic)
 	 + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
 	 + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
+     + [Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
 
 ## Object Oriented
  - [Objects Calesthenics](https://medium.com/@rogeriozambon/object-calisthenics-fea3b5c2d9c#.297b7iu3w)
