@@ -9,6 +9,7 @@
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angular)
  - [Vue.js](#vue)
+ - [Front-end](#front-end)
  - [Java](#java)
  - [Agile](#agile)
  - [Scrum](#scrum)
@@ -28,12 +29,15 @@
  - [Simplifying Conditional Expressions](http://zaengle.com/blog/simplifying-conditional-expressions)
  - [Intermediate to Advanced PHP - Intro](https://medium.com/@hidiegomariani/intermediate-to-advanced-php-intro-9d341b1129c2#.vpm3tgwm2)
  - [Intermediate to Advanced PHP - SOLID Principles](https://medium.com/@hidiegomariani/intermediate-to-advanced-php-solid-principles-b2c5bd8360ce#.x5p6sq52f)
+ - [Programadores PHP: 10 Coisas que você NÃO deve Fazer!](https://medium.com/@hernandev/programadores-php-10-coisas-que-voce-nao-deve-fazer-67a537029cbb#.stvg5lg9t)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
  - [Laravel Feed](http://laravelfeed.com) - Tudo sobre laravel em um lugar.
  - [Laravelista](https://laravelista.com/) - Saiba como usar o Laravel.
  - [Learning Laravel](http://learninglaravel.net) - Laravel Book and Learning Center
+ - [Laravel Spark](https://laravel-news.com/2015/09/laravel-spark/)
+ - [Laravel Best Practices](http://www.laravelbestpractices.com/)
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -84,6 +88,7 @@
  - [Laravel 5 and AngularJS Tutorial reloaded – Part 1](https://www.codetutorial.io/laravel-5-and-angularjs-tutorial-reloaded-part-1/)
  - [Laravel and Vue JS: Advanced Frontend Webapp Architecture](https://medium.com/laravel-news/advanced-front-end-setup-with-vue-js-laravel-e9fbd7e89fe2#.bem4cgprr)
  - [Static Sites for Laravel Developers](http://laravelfeed.com/blog/static-sites-for-laravel-developers)
+ - [API Token Authentication in Laravel 5.2](https://gistlog.co/JacobBennett/090369fbab0b31130b51)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -92,6 +97,8 @@
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
  - [Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/)
+ - [Design Pattern Basics in JavaScript](https://medium.com/@nupoor_neha/design-pattern-basics-in-javascript-2aa38fcbb0f0#.cebpmzdee)
+ - [Top 10 JavaScript Articles from Last Month](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.tr52xp4dq)
 
 ## Single Page Applications
 
@@ -108,9 +115,14 @@
  - [Using Vue.js for non SPA’s](https://medium.com/@weblee/using-vue-js-for-non-spa-s-c2bd93f69d32#.c2ij4b5uy)
  - [How to use Vue.js with Laravel for the First Time](https://medium.com/looped-in/how-to-use-vue-js-with-laravel-for-the-first-time-fde8c59c8c85#.srto3i3pj)
 
-## CSS
+## Front-end
+ - [CSS](#css)
+     + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
  - [FlexBox](#flexbox)
 	 + [Repensando layouts com FlexBox](http://lucasmaiaesilva.com.br/repensando-layouts-com-flexbox/)
+ - [Bootstrap](#bootstrap)
+     + [Design multitelas com Bootstrap](https://vinyanalista.github.io/blog/2015/07/05/bootstrap/#.VwViXJwrLcs)
+     + [Free Themes for Bootstrap](https://bootswatch.com/)
 
 ## Java
 
@@ -152,9 +164,11 @@
  - [Slack reminders: Sua secretaria pessoal](https://medium.com/@madsonmac/slack-reminders-sua-secretaria-pessoal-5bac58b92a96#.aoiuvf6cz)
  - [7 Coisas Que Você Precisa Parar de Fazer Para Ser Mais Produtivo, Comprovado Pela Ciência](https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.3gj1w7wd8)
  - [**Tentando corrigir minhas deficiências**](https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.htdqvkwkl)
+ - [5 motivos para sua empresa usar Slack](https://tecnoblog.net/179267/slack-motivos-para-usar/)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
+ - [Building the optimal user database model for your application](https://www.getdonedone.com/building-the-optimal-user-database-model-for-your-application/)
 
 ## Git and Github
  - [Tudo que você queria saber sobre git e github, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
