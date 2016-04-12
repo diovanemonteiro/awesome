@@ -30,6 +30,9 @@
  - [Intermediate to Advanced PHP - Intro](https://medium.com/@hidiegomariani/intermediate-to-advanced-php-intro-9d341b1129c2#.vpm3tgwm2)
  - [Intermediate to Advanced PHP - SOLID Principles](https://medium.com/@hidiegomariani/intermediate-to-advanced-php-solid-principles-b2c5bd8360ce#.x5p6sq52f)
  - [Programadores PHP: 10 Coisas que você NÃO deve Fazer!](https://medium.com/@hernandev/programadores-php-10-coisas-que-voce-nao-deve-fazer-67a537029cbb#.stvg5lg9t)
+ - [Novidades do PHP 7](http://blog.caelum.com.br/novidades-do-php-7/)
+ - [Cleaner Database Queries with Repositories](http://taha-sh.com/blog/cleaner-database-queries-with-repositories)
+ - [Novidade PHP 7 – Operador Null Coalesce](http://tableless.com.br/novidade-php-7-operador-null-coalesce/)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
@@ -38,6 +41,7 @@
  - [Learning Laravel](http://learninglaravel.net) - Laravel Book and Learning Center
  - [Laravel Spark](https://laravel-news.com/2015/09/laravel-spark/)
  - [Laravel Best Practices](http://www.laravelbestpractices.com/)
+ - [Laravel Tips](https://laraveltips.wordpress.com/)
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -89,6 +93,7 @@
  - [Laravel and Vue JS: Advanced Frontend Webapp Architecture](https://medium.com/laravel-news/advanced-front-end-setup-with-vue-js-laravel-e9fbd7e89fe2#.bem4cgprr)
  - [Static Sites for Laravel Developers](http://laravelfeed.com/blog/static-sites-for-laravel-developers)
  - [API Token Authentication in Laravel 5.2](https://gistlog.co/JacobBennett/090369fbab0b31130b51)
+ - [More helper functions in Laravel 5.2](http://goodheads.io/2015/12/22/more-helper-functions-in-laravel-5-2/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -109,11 +114,15 @@
  - [Introduction to http APIs in angularjs for beginners](https://www.dunebook.com/intoduction-to-http-apis-in-angularjs-for-beginners/)
  - [30+ Responsive Free AngularJS Admin Themes](http://www.cssauthor.com/responsive-free-angularjs-admin-themes/)
  - [Top 10 Resources to learn AngularJS — From March 2016](https://medium.mybridge.co/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.xfjwrfniu)
+ - [Angular JS – Service x Factory](http://tableless.com.br/angular-js-service-x-factory/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
  - [Using Vue.js for non SPA’s](https://medium.com/@weblee/using-vue-js-for-non-spa-s-c2bd93f69d32#.c2ij4b5uy)
  - [How to use Vue.js with Laravel for the First Time](https://medium.com/looped-in/how-to-use-vue-js-with-laravel-for-the-first-time-fde8c59c8c85#.srto3i3pj)
+ - [Quick Tip: How to Use VueJS to Preview Images Before Uploading](http://taha-sh.com/blog/quick-tip-how-to-use-vuejs-to-preview-images-before-uploading)
+ - [How to Create a Reusable Modal Box in Laravel & VueJS](http://taha-sh.com/blog/how-to-create-a-reusable-modal-box-in-laravel-vuejs)
+ - [Setting Up Ajax Validation with Laravel & VueJS in No Time](http://taha-sh.com/blog/setting-up-ajax-validation-with-laravel-vuejs-in-no-time)
 
 ## Front-end
  - [CSS](#css)
@@ -165,6 +174,7 @@
  - [7 Coisas Que Você Precisa Parar de Fazer Para Ser Mais Produtivo, Comprovado Pela Ciência](https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.3gj1w7wd8)
  - [**Tentando corrigir minhas deficiências**](https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.htdqvkwkl)
  - [5 motivos para sua empresa usar Slack](https://tecnoblog.net/179267/slack-motivos-para-usar/)
+ - [Did you know most people only use 10% of Slack?](https://premium.wpmudev.org/blog/slack-tips/)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
@@ -177,6 +187,7 @@
  - [An Intro to Git and GitHub](https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f#.jhyvxq751)
  - [GitHub: Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
  - [Pensando em URLs no Github](https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0#.z9yahnf98)
+ - [Dicas de Git](https://vinyanalista.github.io/blog/2015/09/27/dicas-de-git/#.VwgVetQrLcv)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
@@ -189,12 +200,15 @@
  - [Migrar para o Medium é o passo certo?](https://medium.com/blogging-platforms/migrar-para-o-medium-%C3%A9-o-passo-certo-285bb637b298#.qeqsi9dil)
  - [Um dia, Roselma conheceu o Jekyll no Github, então viu que era bom](http://roselmamendes.github.io/jekyll-github-pages/)
  - [Servindo sites estáticos com Jekyll](http://tableless.com.br/jekyll-servindo-sites-estaticos/)
+ - [Mind the End of Your Line](http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
 
 ## Mobile
  - [Ionic](#ionic)
 	 + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
 	 + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
      + [Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
+ - [Android](#android)
+     + [Login com a API do GooglePlus no Android](http://tableless.com.br/login-com-api-do-googleplus-no-android/)
 
 ## Object Oriented
  - [Objects Calesthenics](https://medium.com/@rogeriozambon/object-calisthenics-fea3b5c2d9c#.297b7iu3w)
