@@ -99,6 +99,7 @@
  - [More helper functions in Laravel 5.2](http://goodheads.io/2015/12/22/more-helper-functions-in-laravel-5-2/)
  - [6 Reasons to Choose Laravel PHP Framework for Web Development](http://www.solutionanalysts.com/blog/6-reasons-to-choose-laravel-php-framework-for-web-development/)
  - [How to Add Wysiwyg Editor in Laravel?](http://www.technig.com/how-to-add-wysiwyg-editor-in-laravel/)
+ - [CREATING RESTFUL API USING LARAVEL 5.1 - BEGINNING OAUTH 2.0](http://laravelfeed.com/blog/Creating-Restful-API-using-Laravel-5-1-Beginning-OAuth-2-0)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -157,6 +158,7 @@
  - [Scrum - Dicas para uma Daily mais eficaz](https://medium.com/@eabreusantos/scrum-dicas-para-uma-daily-mais-eficaz-3c8911d61264#.m6q8kt53k)
  - [SCRUM é o meio, não o fim](https://medium.com/@handrus/scrum-e-o-meio-nao-o-fim-19434461e91e#.alvulkv52)
  - [Gerenciamento de Projeto com Metodologias Agéis — Parte 1 de 2](https://medium.com/@joaovagner/gerenciamento-de-projeto-com-metodologias-ageis-parte-1-de-2-e45db7dbcdb4#.8ezh03jby)
+ - [Como funciona o Scrum?](http://www.culturaagil.com.br/como-funciona-o-scrum/)
 
 ## Kanban
  - [Kanbam Pessoal: Como visualizar seu trabalho de forma simples e efetiva](https://medium.com/@lpprodutividade/kanbam-pessoal-como-visualizar-seu-trabalho-de-forma-simples-e-efetiva-9eea24c05939#.o43v4rl1y)
@@ -203,6 +205,7 @@
  - [Sites](#sites-jekyll)
      + [Blog Willian Justen](http://willianjusten.com.br/)
      + [Raphael Fabeni Front-end Developer](http://www.raphaelfabeni.com.br/)
+     + [WILSON LUIZ PROSDOCIMO](http://wprosdocimo.com.br/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
