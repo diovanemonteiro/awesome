@@ -106,6 +106,7 @@
  - [Top 10 JavaScript Articles from Last Month](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.tr52xp4dq)
 
 ## Single Page Applications
+ - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
 
 ## AngularJS
  - [An Introduction to AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
@@ -157,6 +158,9 @@
  - [O que é Kanban — Uma explicação simples](https://pensamentoenxuto.com/o-que-%C3%A9-kanban-uma-explica%C3%A7%C3%A3o-simples-5b0f5d9caf1c#.h1pn6fbjt)
  - [Yes, You Kanban!](https://medium.com/purple-rock-scissors/yes-you-kanban-307ff0ccc2c4#.875c3x8s7)
 
+## TDD
+ - [Iniciando com TDD #1 - Minha motivação e primeiro contato](http://phpba.com.br/iniciando-com-tdd-1/)
+
 ## Productivity
  - [**Cronograma de estudos com foco em produtividade**](https://medium.com/nomads-on-rails/challenge-accepted-cronograma-de-estudos-com-foco-em-produtividade-72e50d17fc57#.au8u2j9dk)
  - [Produtividade e alta performance: 25 dicas transformadoras que pessoas brilhantes usam para instalar hábitos de sucesso](https://medium.com/@viverdeblog/produtividade-e-alta-performance-25-dicas-transformadoras-que-pessoas-brilhantes-usam-para-e9070ea4ab2#.jrusbyrcm)
@@ -188,6 +192,7 @@
  - [GitHub: Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
  - [Pensando em URLs no Github](https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0#.z9yahnf98)
  - [Dicas de Git](https://vinyanalista.github.io/blog/2015/09/27/dicas-de-git/#.VwgVetQrLcv)
+ - [GIST – UM MODO DE COMPARTILHAR BLOCOS DE CÓDIGO](http://www.profissionaisti.com.br/2011/03/gist-um-modo-de-compartilhar-blocos-de-codigo/)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
