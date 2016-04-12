@@ -33,6 +33,8 @@
  - [Novidades do PHP 7](http://blog.caelum.com.br/novidades-do-php-7/)
  - [Cleaner Database Queries with Repositories](http://taha-sh.com/blog/cleaner-database-queries-with-repositories)
  - [Novidade PHP 7 – Operador Null Coalesce](http://tableless.com.br/novidade-php-7-operador-null-coalesce/)
+ - [Easy Deployment of PHP Applications with Deployer](http://www.sitepoint.com/deploying-php-applications-with-deployer/)
+ - [Usando PHP 7](http://phpba.com.br/usando-PHP-7/)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
@@ -42,6 +44,7 @@
  - [Laravel Spark](https://laravel-news.com/2015/09/laravel-spark/)
  - [Laravel Best Practices](http://www.laravelbestpractices.com/)
  - [Laravel Tips](https://laraveltips.wordpress.com/)
+ - [ItSolutionsStuff](http://itsolutionstuff.com/)
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -94,6 +97,8 @@
  - [Static Sites for Laravel Developers](http://laravelfeed.com/blog/static-sites-for-laravel-developers)
  - [API Token Authentication in Laravel 5.2](https://gistlog.co/JacobBennett/090369fbab0b31130b51)
  - [More helper functions in Laravel 5.2](http://goodheads.io/2015/12/22/more-helper-functions-in-laravel-5-2/)
+ - [6 Reasons to Choose Laravel PHP Framework for Web Development](http://www.solutionanalysts.com/blog/6-reasons-to-choose-laravel-php-framework-for-web-development/)
+ - [How to Add Wysiwyg Editor in Laravel?](http://www.technig.com/how-to-add-wysiwyg-editor-in-laravel/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
