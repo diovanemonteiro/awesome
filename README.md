@@ -130,6 +130,9 @@
  - [Quick Tip: How to Use VueJS to Preview Images Before Uploading](http://taha-sh.com/blog/quick-tip-how-to-use-vuejs-to-preview-images-before-uploading)
  - [How to Create a Reusable Modal Box in Laravel & VueJS](http://taha-sh.com/blog/how-to-create-a-reusable-modal-box-in-laravel-vuejs)
  - [Setting Up Ajax Validation with Laravel & VueJS in No Time](http://taha-sh.com/blog/setting-up-ajax-validation-with-laravel-vuejs-in-no-time)
+ - [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
+ - [VueFire - Firebase meets Vue.js](https://www.firebase.com/blog/2016-04-13-vuefire.html)
+ - [Vue.js Slots: Why would you need them?](http://www.skyronic.com/2016/04/13/vue-slots-example/)
 
 ## Front-end
  - [CSS](#css)
