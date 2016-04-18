@@ -145,6 +145,7 @@
  - [Bootstrap](#bootstrap)
      + [Design multitelas com Bootstrap](https://vinyanalista.github.io/blog/2015/07/05/bootstrap/#.VwViXJwrLcs)
      + [Free Themes for Bootstrap](https://bootswatch.com/)
+ - [Best Front-end frameworks to try in 2016](https://hashnode.com/post/best-front-end-frameworks-to-try-in-2016-cin1unmcn00tvrb535out1y08)
 
 ## Java
 
@@ -221,6 +222,7 @@
  - [Um dia, Roselma conheceu o Jekyll no Github, então viu que era bom](http://roselmamendes.github.io/jekyll-github-pages/)
  - [Servindo sites estáticos com Jekyll](http://tableless.com.br/jekyll-servindo-sites-estaticos/)
  - [Mind the End of Your Line](http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
+ - [Blog estático com Jekyll + Amazon Web Service S3](http://www.improdutivo.com/2015/05/25/Blog-estatico-com-Jekyll-e-Amazon-Web-Service-S3/)
 
 ## Mobile
  - [Ionic](#ionic)
