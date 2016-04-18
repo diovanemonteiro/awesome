@@ -39,12 +39,14 @@
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
  - [Laravel Feed](http://laravelfeed.com) - Tudo sobre laravel em um lugar.
- - [Laravelista](https://laravelista.com/) - Saiba como usar o Laravel.
  - [Learning Laravel](http://learninglaravel.net) - Laravel Book and Learning Center
+ - [Laravek Daily](http://laraveldaily.com/)
+ - [Styde](https://styde.net/)
+ - [ItSolutionsStuff](http://itsolutionstuff.com/)
  - [Laravel Spark](https://laravel-news.com/2015/09/laravel-spark/)
+ - [Laravelista](https://laravelista.com/) - Saiba como usar o Laravel.
  - [Laravel Best Practices](http://www.laravelbestpractices.com/)
  - [Laravel Tips](https://laraveltips.wordpress.com/)
- - [ItSolutionsStuff](http://itsolutionstuff.com/)
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -100,6 +102,7 @@
  - [6 Reasons to Choose Laravel PHP Framework for Web Development](http://www.solutionanalysts.com/blog/6-reasons-to-choose-laravel-php-framework-for-web-development/)
  - [How to Add Wysiwyg Editor in Laravel?](http://www.technig.com/how-to-add-wysiwyg-editor-in-laravel/)
  - [CREATING RESTFUL API USING LARAVEL 5.1 - BEGINNING OAUTH 2.0](http://laravelfeed.com/blog/Creating-Restful-API-using-Laravel-5-1-Beginning-OAuth-2-0)
+ - [Using the Repository Pattern in Laravel 5](https://dericcain.com/blog/using-the-repository-pattern-in-laravel-5)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -209,6 +212,7 @@
      + [Blog Willian Justen](http://willianjusten.com.br/)
      + [Raphael Fabeni Front-end Developer](http://www.raphaelfabeni.com.br/)
      + [WILSON LUIZ PROSDOCIMO](http://wprosdocimo.com.br/)
+     + [Dries Vints Web Developer](https://driesvints.com/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
