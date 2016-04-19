@@ -167,6 +167,7 @@
  - [SCRUM é o meio, não o fim](https://medium.com/@handrus/scrum-e-o-meio-nao-o-fim-19434461e91e#.alvulkv52)
  - [Gerenciamento de Projeto com Metodologias Agéis — Parte 1 de 2](https://medium.com/@joaovagner/gerenciamento-de-projeto-com-metodologias-ageis-parte-1-de-2-e45db7dbcdb4#.8ezh03jby)
  - [Como funciona o Scrum?](http://www.culturaagil.com.br/como-funciona-o-scrum/)
+ - [**Scrum Guide**](http://www.scrumguides.org/scrum-guide.html)
 
 ## Kanban
  - [Kanbam Pessoal: Como visualizar seu trabalho de forma simples e efetiva](https://medium.com/@lpprodutividade/kanbam-pessoal-como-visualizar-seu-trabalho-de-forma-simples-e-efetiva-9eea24c05939#.o43v4rl1y)
@@ -225,6 +226,7 @@
  - [Mind the End of Your Line](http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
  - [Blog estático com Jekyll + Amazon Web Service S3](http://www.improdutivo.com/2015/05/25/Blog-estatico-com-Jekyll-e-Amazon-Web-Service-S3/)
  - [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
+ - [JEKYLL:SYNTAX HIGHLIGHTING IN GITHUB FAVOURED MARKDOWN CODEBLOCKS](http://blog.championswimmer.in/2015/10/jekyllsyntax-highlighting-in-github-favoured-markdown-codeblocks)
 
 ## Mobile
  - [Ionic](#ionic)
