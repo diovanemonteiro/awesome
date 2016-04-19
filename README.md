@@ -114,6 +114,7 @@
  - [Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/)
  - [Design Pattern Basics in JavaScript](https://medium.com/@nupoor_neha/design-pattern-basics-in-javascript-2aa38fcbb0f0#.cebpmzdee)
  - [Top 10 JavaScript Articles from Last Month](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.tr52xp4dq)
+ - [ES6 - Promises](http://nipher.io/es6-promises)
 
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
@@ -209,6 +210,7 @@
  - [Pensando em URLs no Github](https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0#.z9yahnf98)
  - [Dicas de Git](https://vinyanalista.github.io/blog/2015/09/27/dicas-de-git/#.VwgVetQrLcv)
  - [GIST – UM MODO DE COMPARTILHAR BLOCOS DE CÓDIGO](http://www.profissionaisti.com.br/2011/03/gist-um-modo-de-compartilhar-blocos-de-codigo/)
+ - [Getting Git right, with tutorials, news and tips](https://www.atlassian.com/git/)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
@@ -227,6 +229,9 @@
  - [Blog estático com Jekyll + Amazon Web Service S3](http://www.improdutivo.com/2015/05/25/Blog-estatico-com-Jekyll-e-Amazon-Web-Service-S3/)
  - [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
  - [JEKYLL:SYNTAX HIGHLIGHTING IN GITHUB FAVOURED MARKDOWN CODEBLOCKS](http://blog.championswimmer.in/2015/10/jekyllsyntax-highlighting-in-github-favoured-markdown-codeblocks)
+ - [O que é Jekyll - e para que ele serve](http://blog.virtuacreative.com.br/jekyll-for-beginners-introduction.html)
+ - [Criando blogs com Jekyll no Windows](http://blog.virtuacreative.com.br/jekyll-github-blog.html)
+ - [Jekyll e GitHub Markdown](http://blog.virtuacreative.com.br/jekyll-github-markdown.html)
 
 ## Mobile
  - [Ionic](#ionic)
