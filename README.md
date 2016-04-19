@@ -35,6 +35,7 @@
  - [Novidade PHP 7 – Operador Null Coalesce](http://tableless.com.br/novidade-php-7-operador-null-coalesce/)
  - [Easy Deployment of PHP Applications with Deployer](http://www.sitepoint.com/deploying-php-applications-with-deployer/)
  - [Usando PHP 7](http://phpba.com.br/usando-PHP-7/)
+ - [TIPOS DE RETORNOS DO PHP 7: POR QUE NÃO USÁ-LOS?](https://merorafael.wordpress.com/2016/04/17/tipos-de-retornos-do-php-7-por-que-nao-usa-los/)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
@@ -223,6 +224,7 @@
  - [Servindo sites estáticos com Jekyll](http://tableless.com.br/jekyll-servindo-sites-estaticos/)
  - [Mind the End of Your Line](http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
  - [Blog estático com Jekyll + Amazon Web Service S3](http://www.improdutivo.com/2015/05/25/Blog-estatico-com-Jekyll-e-Amazon-Web-Service-S3/)
+ - [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
 
 ## Mobile
  - [Ionic](#ionic)
