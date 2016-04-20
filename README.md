@@ -14,6 +14,7 @@
  - [Agile](#agile)
  - [Scrum](#scrum)
  - [kanban](#kanban)
+ - [TDD](#tdd)
  - [Productivity](#productivity)
  - [Database](#database)
  - [Git and Github](#git-and-github)
@@ -21,6 +22,7 @@
  - [Mobile](#mobile)
  - [Object Oriented](#object-oriented)
  - [Markdown](#markdown)
+ - [Docker](#docker)
  - [Vagrant](#vagrant)
  - [English](#english)
 
@@ -36,6 +38,7 @@
  - [Easy Deployment of PHP Applications with Deployer](http://www.sitepoint.com/deploying-php-applications-with-deployer/)
  - [Usando PHP 7](http://phpba.com.br/usando-PHP-7/)
  - [TIPOS DE RETORNOS DO PHP 7: POR QUE NÃO USÁ-LOS?](https://merorafael.wordpress.com/2016/04/17/tipos-de-retornos-do-php-7-por-que-nao-usa-los/)
+ - [Some New Tips About PHP7](http://mydnic.be/post/some-new-tips-about-php7)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
