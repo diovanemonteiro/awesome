@@ -22,6 +22,7 @@
  - [Mobile](#mobile)
  - [Object Oriented](#object-oriented)
  - [Markdown](#markdown)
+ - [DevOps](#devops)
  - [Docker](#docker)
  - [Vagrant](#vagrant)
  - [English](#english)
@@ -172,11 +173,13 @@
  - [Gerenciamento de Projeto com Metodologias Agéis — Parte 1 de 2](https://medium.com/@joaovagner/gerenciamento-de-projeto-com-metodologias-ageis-parte-1-de-2-e45db7dbcdb4#.8ezh03jby)
  - [Como funciona o Scrum?](http://www.culturaagil.com.br/como-funciona-o-scrum/)
  - [**Scrum Guide**](http://www.scrumguides.org/scrum-guide.html)
+ - [O básico sobre Sprints no Scrum](https://medium.com/@diegoeis/o-b%C3%A1sico-sobre-sprints-no-scrum-c2f2856fcf49#.tmls0yhnp)
 
 ## Kanban
  - [Kanbam Pessoal: Como visualizar seu trabalho de forma simples e efetiva](https://medium.com/@lpprodutividade/kanbam-pessoal-como-visualizar-seu-trabalho-de-forma-simples-e-efetiva-9eea24c05939#.o43v4rl1y)
  - [O que é Kanban — Uma explicação simples](https://pensamentoenxuto.com/o-que-%C3%A9-kanban-uma-explica%C3%A7%C3%A3o-simples-5b0f5d9caf1c#.h1pn6fbjt)
  - [Yes, You Kanban!](https://medium.com/purple-rock-scissors/yes-you-kanban-307ff0ccc2c4#.875c3x8s7)
+ - [Kanban: Do início ao fim!](http://www.culturaagil.com.br/kanban-do-inicio-ao-fim/)
 
 ## TDD
  - [Iniciando com TDD #1 - Minha motivação e primeiro contato](http://phpba.com.br/iniciando-com-tdd-1/)
@@ -235,6 +238,8 @@
  - [O que é Jekyll - e para que ele serve](http://blog.virtuacreative.com.br/jekyll-for-beginners-introduction.html)
  - [Criando blogs com Jekyll no Windows](http://blog.virtuacreative.com.br/jekyll-github-blog.html)
  - [Jekyll e GitHub Markdown](http://blog.virtuacreative.com.br/jekyll-github-markdown.html)
+ - [Como eu criei meu blog usando Jekyll](http://samuelreichert.com/programming/2015/09/11/how-to-create-jekyll-blog.html)
+ - [Escrevendo em Jekyll](http://dialeti.co/2015/02/12/jekyll/)
 
 ## Mobile
  - [Ionic](#ionic)
@@ -250,9 +255,13 @@
 
 ## Markdown
  - [Adicionando Markdown ao seu kit de sobrevivência na web](https://medium.com/nomads-on-rails/adicionando-markdown-ao-seu-kit-de-sobrevivencia-na-web-5e7ff9b2b3bb#.5oxie9lxn)
- - [Aprensa Markdown](http://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+ - [Aprenda Markdown](http://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+
+## DevOps
+ - [Os Padrões dos Gigantes da Web – DevOps](http://blog.octo.com/pt-br/os-padroes-dos-gigantes-da-web-devops/)
 
 ## Docker
+ - [Iniciando com o Docker: dicas práticas para começar a usar agora mesmo](http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/)
 
 ## Vagrant
  - [Vagrant](https://medium.com/@joaovagner/vagrant-58e623d131ba#.jwfri0dee)
