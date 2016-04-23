@@ -124,6 +124,8 @@
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
 
 ## AngularJS
+ - [Themes](#themes)
+     + [Transform](http://iarouse.com/admin-transform-alt/v2/index.html#/dashboard)
  - [An Introduction to AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
  - [When and how to validate forms in AngularJS](https://medium.com/@tomsu/when-and-how-to-validate-form-in-angularjs-95e83d6ad41c#.n8o59cims)
  - [Best Resource Sites for Beginner Web Developers to Learn Angular.js](https://medium.com/@AliyahChoudhry/best-resource-sites-for-beginner-web-developers-to-learn-angular-js-85d87d746753#.mq2ba1uka)
@@ -131,6 +133,9 @@
  - [30+ Responsive Free AngularJS Admin Themes](http://www.cssauthor.com/responsive-free-angularjs-admin-themes/)
  - [Top 10 Resources to learn AngularJS — From March 2016](https://medium.mybridge.co/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.xfjwrfniu)
  - [Angular JS – Service x Factory](http://tableless.com.br/angular-js-service-x-factory/)
+ - [Top 8 AngularJS Seed Templates and Boilerplates](http://themesforangular.com/top-8-angularjs-seed-templates-and-boilerplates/)
+ - [7 Fantastic Modern AngularJS Admin Templates](http://themesforangular.com/7-modern-angularjs-admin-templates/)
+ - [10+ Free AngularJS and HTML Templates for Your Next Web Application](http://themesforangular.com/10-free-angularjs-templates/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
@@ -146,6 +151,13 @@
 ## Front-end
  - [CSS](#css)
      + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
+ - [CSS Frameworks]
+     + [Spectre.css](https://picturepan2.github.io/spectre/)
+     + [Primer](http://primercss.io/)
+     + [Normalize.css](https://necolas.github.io/normalize.css/)
+     + [Introducing Pure.css – A Lightweight Responsive Framework](http://www.sitepoint.com/introducing-pure-css-lightweight-responsive-framework/)
+     + [Skeleton](http://getskeleton.com/)
+     + [Pure.css](http://purecss.io/)
  - [FlexBox](#flexbox)
 	 + [Repensando layouts com FlexBox](http://lucasmaiaesilva.com.br/repensando-layouts-com-flexbox/)
  - [Bootstrap](#bootstrap)
