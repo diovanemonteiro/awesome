@@ -52,6 +52,12 @@
  - [Laravelista](https://laravelista.com/) - Saiba como usar o Laravel.
  - [Laravel Best Practices](http://www.laravelbestpractices.com/)
  - [Laravel Tips](https://laraveltips.wordpress.com/)
+ - [Packages](#packages)
+     + [Easy Flash Messages](https://github.com/laracasts/flash)
+     + [Eloquent Triple Pivot](https://github.com/jarektkaczyk/Eloquent-triple-pivot)
+     + [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer)
+     + [User email verification for Laravel 5](https://github.com/edvinaskrucas/laravel-user-email-verification)
+     + [Laravel Router](https://github.com/sebastiaanluca/laravel-router)
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -108,6 +114,22 @@
  - [How to Add Wysiwyg Editor in Laravel?](http://www.technig.com/how-to-add-wysiwyg-editor-in-laravel/)
  - [CREATING RESTFUL API USING LARAVEL 5.1 - BEGINNING OAUTH 2.0](http://laravelfeed.com/blog/Creating-Restful-API-using-Laravel-5-1-Beginning-OAuth-2-0)
  - [Using the Repository Pattern in Laravel 5](https://dericcain.com/blog/using-the-repository-pattern-in-laravel-5)
+ - [10 features of Laravel 5.2](http://www.krishaweb.com/blog/10-features-of-laravel-5-dot-2)
+ - [7 key features of Laravel 5 PHP framework](http://www.krishaweb.com/blog/7-key-features-of-laravel-5-php-framework)
+ - [Better readability using Enumerators](http://themsaid.github.io/better-readability-enumerators-php-20160420/)
+ - [Integrating a Bootstrap Modal Into Your Laravel Application](http://www.easylaravelbook.com/blog/2016/04/11/integrating-a-bootstrap-modal-into-your-laravel-application/)
+ - [Laravel 5.2 Email Verification with Activation Code](http://blog.damirmiladinov.com/laravel/laravel-5.2-email-verification-with-activation-code.html#.Vxvg8agrKUk)
+ - [How to Implement Infinite Scroll in Laravel](http://wern-ancheta.com/blog/2015/03/01/how-to-implement-scroll-in-laravel/)
+ - [Review: Top 5 Laravel-based CMSs](http://laraveldaily.com/review-top-5-laravel-based-cmss/)
+ - [Laravel 5 Repository Pattern Tutorial from scratch](http://itsolutionstuff.com/post/laravel-5-repository-pattern-tutorial-from-scratchexample.html)
+ - [Eloquent Create, Update, New...the Untold Story](http://codebyjeff.com/blog/2016/04/eloquent-create-update-new-the-untold-story)
+ - [Hello, Mr. asdfgh qweefg! Welcome to kgjhjgjh!](http://codebyjeff.com/blog/2016/04/hello-mr-asdfgh-qweefg-welcome-to-kgjhjgjh)
+ - [User email verification for Laravel 5](http://www.krucas.com/2016/04/user-email-verification-for-laravel-5/)
+ - [Logging Guzzle Requests](https://michaelstivala.com/logging-guzzle-requests/)
+ - [**Laravel Generator - Get your APIs and Admin Panel ready in minutes**](http://learninglaravel.net/laravel-generator-get-your-apis-and-admin-panel-ready-in-minutes)
+ - [**Laravel Generator to generate CRUD, APIs, Test Cases and Swagger Documentation**](http://labs.infyom.com/laravelgenerator/)
+ - [Quick Admin Generator](http://quickadmin.webcoderpro.com/)
+ - [Curso Primeros Pasos con Laravel 5.*](https://styde.net/curso-primeros-pasos-con-laravel-5/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -119,6 +141,7 @@
  - [Design Pattern Basics in JavaScript](https://medium.com/@nupoor_neha/design-pattern-basics-in-javascript-2aa38fcbb0f0#.cebpmzdee)
  - [Top 10 JavaScript Articles from Last Month](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.tr52xp4dq)
  - [ES6 - Promises](http://nipher.io/es6-promises)
+ - [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
@@ -147,23 +170,42 @@
  - [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
  - [VueFire - Firebase meets Vue.js](https://www.firebase.com/blog/2016-04-13-vuefire.html)
  - [Vue.js Slots: Why would you need them?](http://www.skyronic.com/2016/04/13/vue-slots-example/)
+ - [Instalación y primeros pasos con Vue.js](https://styde.net/introduccion-a-vue-js/)
+ - [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
 
 ## Front-end
+ - [HTML](#html)
+     + [HTML semântico e posicionamento no CSS](https://www.caelum.com.br/apostila-html-css-javascript/html-semantico-e-posicionamento-no-css)
+     + [HTML5: entendendo a estrutura e a semântica](http://www.uxdesign.blog.br/front-end/html5-estrutura-semantica/)
+     + [Como desenvolver sites utilizando o Bootstrap 3](http://thiagonasc.com/geral/como-desenvolver-sites-utilizando-o-bootstrap-3)
+     + [Curso de HTML5 e CSS](http://www.leandroguarino.com.br/index.php?p=curso_html5_css&aula=layout)
  - [CSS](#css)
      + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
- - [CSS Frameworks]
+ - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
      + [Normalize.css](https://necolas.github.io/normalize.css/)
      + [Introducing Pure.css – A Lightweight Responsive Framework](http://www.sitepoint.com/introducing-pure-css-lightweight-responsive-framework/)
      + [Skeleton](http://getskeleton.com/)
      + [Pure.css](http://purecss.io/)
+ - [Resources](#resources)
+     + [Mockaroo  - Random Data Generator | CSV / JSON / SQL / Excel](https://www.mockaroo.com/)
  - [FlexBox](#flexbox)
 	 + [Repensando layouts com FlexBox](http://lucasmaiaesilva.com.br/repensando-layouts-com-flexbox/)
  - [Bootstrap](#bootstrap)
      + [Design multitelas com Bootstrap](https://vinyanalista.github.io/blog/2015/07/05/bootstrap/#.VwViXJwrLcs)
      + [Free Themes for Bootstrap](https://bootswatch.com/)
+     + [15 Dúvidas Comuns que Você pode Ter Sobre o Bootstrap](http://webdevacademy.com.br/artigos/15-duvidas-comuns-sobre-bootstrap/)
+     + [Bootstrap: Template de Layout Simples](http://webdevacademy.com.br/tutoriais/bootstrap-template-layout-simples/)
+     + [Bootstrap 3: Template de Layout com Três Colunas](http://webdevacademy.com.br/tutoriais/bootstrap-template-layout-tres-colunas/)
+     + [Bootstrap 3 Datepicker](http://eonasdan.github.io/bootstrap-datetimepicker/)
+     + [Bootstrap Validator](http://eonasdan.github.io/bootstrap-datetimepicker/)
  - [Best Front-end frameworks to try in 2016](https://hashnode.com/post/best-front-end-frameworks-to-try-in-2016-cin1unmcn00tvrb535out1y08)
+ - [Usability](#usability)
+     + [A importância dos protótipos no desenvolvimento de sistemas](http://thiagonasc.com/desenvolvimento-web/a-importancia-dos-prototipos-no-desenvolvimento-de-sistemas)
+     + [Usabilidade: 10 regras para você desenvolver interfaces agradáveis aos usuários](http://thiagonasc.com/usabilidade/usabilidade-10-regras-desenvolver-interfaces-agradaveis)
+     + [Os equipamentos e ferramentas essenciais de um Web Designer](http://thiagonasc.com/webdesign/os-equipamentos-e-ferramentas-essenciais-de-um-web-designer)
+ - [Sobre o básico que você precisa aprender para ser um front-end](https://medium.com/@diegoeis/sobre-o-basico-que-voce-precisa-aprender-para-ser-um-front-end-6f4bf792c7e7#.v07gt7krh)
 
 ## Java
 
@@ -192,6 +234,7 @@
  - [O que é Kanban — Uma explicação simples](https://pensamentoenxuto.com/o-que-%C3%A9-kanban-uma-explica%C3%A7%C3%A3o-simples-5b0f5d9caf1c#.h1pn6fbjt)
  - [Yes, You Kanban!](https://medium.com/purple-rock-scissors/yes-you-kanban-307ff0ccc2c4#.875c3x8s7)
  - [Kanban: Do início ao fim!](http://www.culturaagil.com.br/kanban-do-inicio-ao-fim/)
+ - [Scrum e/ou Kanban – Por onde começar?](http://blog.aspercom.com.br/2014/09/05/scrum-kanban-por-onde-comecar/)
 
 ## TDD
  - [Iniciando com TDD #1 - Minha motivação e primeiro contato](http://phpba.com.br/iniciando-com-tdd-1/)
@@ -229,6 +272,7 @@
  - [Dicas de Git](https://vinyanalista.github.io/blog/2015/09/27/dicas-de-git/#.VwgVetQrLcv)
  - [GIST – UM MODO DE COMPARTILHAR BLOCOS DE CÓDIGO](http://www.profissionaisti.com.br/2011/03/gist-um-modo-de-compartilhar-blocos-de-codigo/)
  - [Getting Git right, with tutorials, news and tips](https://www.atlassian.com/git/)
+ - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ## Jekyll
  - [Sites](#sites-jekyll)
@@ -236,6 +280,7 @@
      + [Raphael Fabeni Front-end Developer](http://www.raphaelfabeni.com.br/)
      + [WILSON LUIZ PROSDOCIMO](http://wprosdocimo.com.br/)
      + [Dries Vints Web Developer](https://driesvints.com/)
+     + [Nando Vieira](https://nandovieira.com.br/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
@@ -252,6 +297,7 @@
  - [Jekyll e GitHub Markdown](http://blog.virtuacreative.com.br/jekyll-github-markdown.html)
  - [Como eu criei meu blog usando Jekyll](http://samuelreichert.com/programming/2015/09/11/how-to-create-jekyll-blog.html)
  - [Escrevendo em Jekyll](http://dialeti.co/2015/02/12/jekyll/)
+ - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
 
 ## Mobile
  - [Ionic](#ionic)
