@@ -63,6 +63,8 @@
      + [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer)
      + [User email verification for Laravel 5](https://github.com/edvinaskrucas/laravel-user-email-verification)
      + [Laravel Router](https://github.com/sebastiaanluca/laravel-router)
+     + [Defender](https://github.com/artesaos/defender)
+     + [A modern backup solution for Laravel apps](https://github.com/spatie/laravel-backup)
  - [Aprendendo Laravel 5.1 e escrevendo sobre o processo — Parte 1](https://medium.com/@thiagosiqueiralovatine/aprendendo-laravel-e-escrevendo-sobre-o-processo-parte-1-8db43ed23916#.m9mu47fvy)
  - [**Como instalar Vagrant e Homestead para desenvolver aplicações com o Laravel**](https://medium.com/@duarteq/como-instalar-vagrant-e-homestead-para-desenvolver-aplica%C3%A7%C3%B5es-com-o-laravel-aef0eed6ff05#.560pn14ja)
  - [Laravel 5.2 API using JWT authentication tutorial from scratch example](http://itsolutionstuff.com/post/laravel-52-api-using-jwt-authentication-tutorial-from-scratch-exampleexample.html)
@@ -137,6 +139,16 @@
  - [Curso Primeros Pasos con Laravel 5.*](https://styde.net/curso-primeros-pasos-con-laravel-5/)
  - [Instalando Laravel 5.2](http://tableless.com.br/instalando-laravel-5-2/)
  - [Building an API for 3rd party applications](http://themsaid.github.io/laravel-api-3rd-party-20160327/)
+ - [**Build a Time Tracker with Laravel 5 and AngularJS – Part 1**](https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-1)
+ - [Build a Time Tracker with Laravel 5 and AngularJS – Part 2](https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-2)
+ - [How to add charts in Laravel 5 using Chart JS](http://itsolutionstuff.com/post/how-to-add-charts-in-laravel-5-using-chart-js-example.html)
+ - [Create an autocomplete text input in laravel](https://www.dunebook.com/create-an-autocomplete-text-input-in-laravel/)
+ - [10 Most Useful Laravel Packages Can Help You to code easier](https://www.dunebook.com/10-most-useful-laravel-packages-can-help-you-to-code-easier/)
+ - [What’s New in Laravel 5](http://code.tutsplus.com/tutorials/whats-new-in-laravel-5--cms-21842)
+ - [20 Useful Laravel Packages Available on CodeCanyon](http://code.tutsplus.com/articles/20-useful-laravel-packages-available-on-codecanyon--cms-25334)
+ - [What Are Laravel 5.0 Facades?](http://code.tutsplus.com/tutorials/what-are-laravel-50-facades--cms-25347)
+ - [Step by Step Guide to building your first Laravel Application](https://dotdev.co/step-by-step-guide-to-building-your-first-laravel-application/)
+ - [Validate (almost) anything in Laravel](https://murze.be/2015/11/validate-almost-anything-in-laravel/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -151,6 +163,7 @@
  - [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
  - [O que todo desenvolvedor JavaScript precisa saber](http://imasters.com.br/front-end/javascript/o-que-todo-desenvolvedor-javascript-precisa-saber/)
  - [Depois de 20 anos é que as pessoas começaram a levar JavaScript a sério](http://imasters.com.br/front-end/javascript/zeno-rocha-depois-de-20-anos-e-que-as-pessoas-comecaram-a-levar-javascript-a-serio/)
+ - [Better JavaScript with ES6, Pt. III: Cool Collections & Slicker Strings](https://scotch.io/tutorials/better-javascript-with-es6-pt-iii-cool-collections-slicker-strings)
 
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
@@ -168,6 +181,7 @@
  - [Top 8 AngularJS Seed Templates and Boilerplates](http://themesforangular.com/top-8-angularjs-seed-templates-and-boilerplates/)
  - [7 Fantastic Modern AngularJS Admin Templates](http://themesforangular.com/7-modern-angularjs-admin-templates/)
  - [10+ Free AngularJS and HTML Templates for Your Next Web Application](http://themesforangular.com/10-free-angularjs-templates/)
+ - [How to implement loaders for an AngularJS app](https://sc5.io/posts/how-to-implement-loaders-for-an-angularjs-app/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
@@ -183,6 +197,10 @@
  - [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
  - [Multiple file uploads with Vue.js and Laravel](https://dericcain.com/blog/multiple-file-uploads-with-vue-js-and-laravel)
  - [VUE.JS: A (RE)INTRODUCTION](http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/)
+ - [**Build a Single Page Time Tracking App with Vue.js: Introduction**](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction)
+ - [**Build a Single Page Time Tracking App with Vue.js, Part II**](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-part-ii)
+ - [**Create a GitHub File Explorer Using Vue.js**](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js)
+ - [A guestbook using Lumen and Vue.js](https://unnikked.ga/a-guestbook-using-lumen-and-vuejs/)
 
 ## Front-end
  - [HTML](#html)
@@ -300,6 +318,10 @@
  - [GIST – UM MODO DE COMPARTILHAR BLOCOS DE CÓDIGO](http://www.profissionaisti.com.br/2011/03/gist-um-modo-de-compartilhar-blocos-de-codigo/)
  - [Getting Git right, with tutorials, news and tips](https://www.atlassian.com/git/)
  - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+ - [__Contribuindo em projetos open source com o github__](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+ - [**Contribuindo em projetos Open Source utilizando git parte 1**](https://medium.com/@pragmaticivan/contribuindo-em-projetos-open-source-utilizando-git-parte-1-d2b160e0abb5#.7wv2mg91w)
+ - [**Forking workflow Contribuindo em projetos Open Source utilizando git parte 2**](https://medium.com/@pragmaticivan/forking-workflow-contribuindo-em-projetos-open-source-utilizando-git-parte-2-a1849204d02e#.nm6nxtj83)
+ - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
@@ -334,6 +356,7 @@
 	 + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
 	 + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
      + [Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
+     + [Create a Mobile Application Using WordPress, Ionic, and AngularJS](http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170)
  - [Android](#android)
      + [Login com a API do GooglePlus no Android](http://tableless.com.br/login-com-api-do-googleplus-no-android/)
 
@@ -344,6 +367,7 @@
 ## Markdown
  - [Adicionando Markdown ao seu kit de sobrevivência na web](https://medium.com/nomads-on-rails/adicionando-markdown-ao-seu-kit-de-sobrevivencia-na-web-5e7ff9b2b3bb#.5oxie9lxn)
  - [Aprenda Markdown](http://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+ - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
 
 ## DevOps
  - [Os Padrões dos Gigantes da Web – DevOps](http://blog.octo.com/pt-br/os-padroes-dos-gigantes-da-web-devops/)
