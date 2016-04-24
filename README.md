@@ -3,6 +3,7 @@
 
 ## Table of Contents
  - [PHP](#php)
+ - [Composer](#composer)
  - [Laravel](#laravel)
  - [CakePHP](#cakephp)
  - [JavaScript](#javascript)
@@ -40,6 +41,10 @@
  - [Usando PHP 7](http://phpba.com.br/usando-PHP-7/)
  - [TIPOS DE RETORNOS DO PHP 7: POR QUE NÃO USÁ-LOS?](https://merorafael.wordpress.com/2016/04/17/tipos-de-retornos-do-php-7-por-que-nao-usa-los/)
  - [Some New Tips About PHP7](http://mydnic.be/post/some-new-tips-about-php7)
+ - [PHP não presta?!](http://imasters.com.br/linguagens/php/php-nao-presta/)
+ 
+## Composer
+ - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
 
 ## Laravel
  - [Laravel News](http://laravel-news.com/blog) - Site que reúne novidades sobre laravel.
@@ -130,6 +135,8 @@
  - [**Laravel Generator to generate CRUD, APIs, Test Cases and Swagger Documentation**](http://labs.infyom.com/laravelgenerator/)
  - [Quick Admin Generator](http://quickadmin.webcoderpro.com/)
  - [Curso Primeros Pasos con Laravel 5.*](https://styde.net/curso-primeros-pasos-con-laravel-5/)
+ - [Instalando Laravel 5.2](http://tableless.com.br/instalando-laravel-5-2/)
+ - [Building an API for 3rd party applications](http://themsaid.github.io/laravel-api-3rd-party-20160327/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -142,6 +149,8 @@
  - [Top 10 JavaScript Articles from Last Month](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.tr52xp4dq)
  - [ES6 - Promises](http://nipher.io/es6-promises)
  - [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+ - [O que todo desenvolvedor JavaScript precisa saber](http://imasters.com.br/front-end/javascript/o-que-todo-desenvolvedor-javascript-precisa-saber/)
+ - [Depois de 20 anos é que as pessoas começaram a levar JavaScript a sério](http://imasters.com.br/front-end/javascript/zeno-rocha-depois-de-20-anos-e-que-as-pessoas-comecaram-a-levar-javascript-a-serio/)
 
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
@@ -172,6 +181,8 @@
  - [Vue.js Slots: Why would you need them?](http://www.skyronic.com/2016/04/13/vue-slots-example/)
  - [Instalación y primeros pasos con Vue.js](https://styde.net/introduccion-a-vue-js/)
  - [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
+ - [Multiple file uploads with Vue.js and Laravel](https://dericcain.com/blog/multiple-file-uploads-with-vue-js-and-laravel)
+ - [VUE.JS: A (RE)INTRODUCTION](http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/)
 
 ## Front-end
  - [HTML](#html)
@@ -217,6 +228,7 @@
  - [Direto ao ponto! Entenda o conceito de MVP](https://blog.designa.com.br/direto-ao-ponto-entenda-o-conceito-de-mvp-3b8dc298e1f4#.2dowd664z)
  - [Se você é ágil, vai gostar de conhecer o Taiga](https://medium.com/@Aerochimps/se-voc%C3%AA-%C3%A9-%C3%A1gil-vai-querer-conhecer-o-taiga-7087c990dc56#.sri3i1txj)
  - [Pequeno glossário ágil](https://medium.com/@Aerochimps/pequeno-gloss%C3%A1rio-%C3%A1gil-c82721d6313f#.tg3qjgogq)
+ - [Princípios ágeis revisitados: técnicas e práticas](http://blog.caelum.com.br/principios-ageis-revisitados-tecnicas-e-praticas/)
 
 ## Scrum
  - [Scrum - Visão Geral](http://www.desenvolvimentoagil.com.br/scrum/) 
@@ -228,6 +240,7 @@
  - [Como funciona o Scrum?](http://www.culturaagil.com.br/como-funciona-o-scrum/)
  - [**Scrum Guide**](http://www.scrumguides.org/scrum-guide.html)
  - [O básico sobre Sprints no Scrum](https://medium.com/@diegoeis/o-b%C3%A1sico-sobre-sprints-no-scrum-c2f2856fcf49#.tmls0yhnp)
+ - [Scrum com Trello](http://www.mindmaster.com.br/scrum-com-trello/)
 
 ## Kanban
  - [Kanbam Pessoal: Como visualizar seu trabalho de forma simples e efetiva](https://medium.com/@lpprodutividade/kanbam-pessoal-como-visualizar-seu-trabalho-de-forma-simples-e-efetiva-9eea24c05939#.o43v4rl1y)
@@ -235,6 +248,8 @@
  - [Yes, You Kanban!](https://medium.com/purple-rock-scissors/yes-you-kanban-307ff0ccc2c4#.875c3x8s7)
  - [Kanban: Do início ao fim!](http://www.culturaagil.com.br/kanban-do-inicio-ao-fim/)
  - [Scrum e/ou Kanban – Por onde começar?](http://blog.aspercom.com.br/2014/09/05/scrum-kanban-por-onde-comecar/)
+ - [Organize seus estudos com a técnica do quadro kanban](http://www.terabytesolucoes.com.br/noticias/organize-seus-estudos-com-a-tecnica-do-quadro-kanban-14031113)
+ - [Kanban: 4 passos para implementar em uma equipe](http://www.devmedia.com.br/kanban-4-passos-para-implementar-em-uma-equipe/30218)
 
 ## TDD
  - [Iniciando com TDD #1 - Minha motivação e primeiro contato](http://phpba.com.br/iniciando-com-tdd-1/)
@@ -257,10 +272,22 @@
  - [**Tentando corrigir minhas deficiências**](https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.htdqvkwkl)
  - [5 motivos para sua empresa usar Slack](https://tecnoblog.net/179267/slack-motivos-para-usar/)
  - [Did you know most people only use 10% of Slack?](https://premium.wpmudev.org/blog/slack-tips/)
+ - [Como usar a ferramenta trello no seu planejamento e realizar as promessas de Ano Novo](http://blog.pr.sebrae.com.br/planejamento/como-utilizar-o-trello-no-seu-planejamento)
+ - [Dicas Para Melhorar A Comunicação Na Sua Empresa](https://br.blog.trello.com/dicas-para-melhorar-a-comunicacao-na-sua-empresa/)
+ - [Dicas e Apps para Trello; como organizar seu trabalho de forma fácil](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/03/dicas-para-trello-saiba-como-organizar-o-trabalho-de-forma-facil.html)
+ - [Como organizar seus arquivos e sua vida nos concursos usando Evernote, Trello, Dropbox e cia.](http://blogdofernandomesquita.com.br/organizar-arquivos-nuvem/)
+ - [Como usar o Trello para organizar sua vida](http://br.blogthinkbig.com/2015/07/04/como-usar-o-trello-para-organizar-sua-vida/)
+ - [Aprenda uma nova língua com as dicas do CEO do Duolingo](https://br.blog.trello.com/aprenda-uma-nova-lingua-com-as-dicas-do-ceo-do-duolinguo/)
+ - [Como Estabelecer, Planejar, e Cumprir as Metas Mais Importantes da Sua Vida](http://br.blog.trello.com/como-estabelecer-planejar-e-cumprir-as-metas-mais-importantes-da-sua-vida/)
+ - [Encontrando melhores formas de trabalhar com o Trello](http://blog.caelum.com.br/encontrando-melhores-formas-trabalhar-com-o-trello/)
+ - [Template Books](https://trello.com/b/SnizA0oY/books)
+ - [Template Retrospective Techniques for Scrum Masters](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators)
+ - [Template Scrum with Trello](https://trello.com/b/ultdy0tY/template-scrum-with-trello)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
  - [Building the optimal user database model for your application](https://www.getdonedone.com/building-the-optimal-user-database-model-for-your-application/)
+ - [MongoDb - Como mudar seu jeito relacional de pensar - Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
 
 ## Git and Github
  - [Tudo que você queria saber sobre git e github, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
@@ -275,12 +302,15 @@
  - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ## Jekyll
+ - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
  - [Sites](#sites-jekyll)
      + [Blog Willian Justen](http://willianjusten.com.br/)
-     + [Raphael Fabeni Front-end Developer](http://www.raphaelfabeni.com.br/)
-     + [WILSON LUIZ PROSDOCIMO](http://wprosdocimo.com.br/)
-     + [Dries Vints Web Developer](https://driesvints.com/)
-     + [Nando Vieira](https://nandovieira.com.br/)
+     + [Blog Raphael Fabeni Front-end Developer](http://www.raphaelfabeni.com.br/)
+     + [Blog WILSON LUIZ PROSDOCIMO](http://wprosdocimo.com.br/)
+     + [Blog Dries Vints Web Developer](https://driesvints.com/)
+     + [Blog Nando Vieira](https://nandovieira.com.br/)
+     + [Blog Deric Cain](https://dericcain.com/)
+     + [Nomadev - O blog de um dev nômade](http://nomadev.com.br/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
