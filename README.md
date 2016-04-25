@@ -201,6 +201,8 @@
  - [**Build a Single Page Time Tracking App with Vue.js, Part II**](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-part-ii)
  - [**Create a GitHub File Explorer Using Vue.js**](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js)
  - [A guestbook using Lumen and Vue.js](https://unnikked.ga/a-guestbook-using-lumen-and-vuejs/)
+ - [**Building a Bookmarking App with Electron, VueJs, and Firebase**](https://coligo.io/bookmarking-app-electron-vuejs-firebase/)
+ - [VueJs: The Basics](https://coligo.io/vuejs-the-basics/)
 
 ## Front-end
  - [HTML](#html)
