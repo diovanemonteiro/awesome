@@ -203,6 +203,8 @@
  - [A guestbook using Lumen and Vue.js](https://unnikked.ga/a-guestbook-using-lumen-and-vuejs/)
  - [**Building a Bookmarking App with Electron, VueJs, and Firebase**](https://coligo.io/bookmarking-app-electron-vuejs-firebase/)
  - [VueJs: The Basics](https://coligo.io/vuejs-the-basics/)
+ - [**SPA with Vue.js and Laravel: Setting Things up**](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-setting-things-up)
+ - [Building a Single Page Application from Scratch with Vue.js and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
 
 ## Front-end
  - [HTML](#html)
@@ -212,6 +214,7 @@
      + [Curso de HTML5 e CSS](http://www.leandroguarino.com.br/index.php?p=curso_html5_css&aula=layout)
  - [CSS](#css)
      + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
+     + [8 Tips to Write CSS You Won't Hate](http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate)
  - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
