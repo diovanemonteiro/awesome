@@ -149,6 +149,7 @@
  - [What Are Laravel 5.0 Facades?](http://code.tutsplus.com/tutorials/what-are-laravel-50-facades--cms-25347)
  - [Step by Step Guide to building your first Laravel Application](https://dotdev.co/step-by-step-guide-to-building-your-first-laravel-application/)
  - [Validate (almost) anything in Laravel](https://murze.be/2015/11/validate-almost-anything-in-laravel/)
+ - [Top 5 reasons why we started to use Laravel](http://redentu.com/top-5-reasons-why-we-started-to-use-laravel)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -182,6 +183,7 @@
  - [7 Fantastic Modern AngularJS Admin Templates](http://themesforangular.com/7-modern-angularjs-admin-templates/)
  - [10+ Free AngularJS and HTML Templates for Your Next Web Application](http://themesforangular.com/10-free-angularjs-templates/)
  - [How to implement loaders for an AngularJS app](https://sc5.io/posts/how-to-implement-loaders-for-an-angularjs-app/)
+ - [Top 7 JavaScript frameworks for efficient front-end-development](http://redentu.com/top-7-javascript-frameworks-for-efficient-front-end-development)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
