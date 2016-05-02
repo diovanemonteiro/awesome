@@ -168,6 +168,7 @@
 
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
+ - [Single Page Application (SPA) usando AngularJS com Web API – Parte 03](http://imasters.com.br/front-end/javascript/single-page-application-spa-usando-angularjs-com-web-api-parte-03/)
 
 ## AngularJS
  - [Themes](#themes)
@@ -217,6 +218,8 @@
  - [CSS](#css)
      + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
      + [8 Tips to Write CSS You Won't Hate](http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate)
+     + [Qual unidade utilizar - Pixel, EM ou REM - Tableless](http://tableless.com.br/unidade-pixels-em-rem/)
+     + [Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex, ch | desenvolvimento para web](http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
  - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
@@ -340,6 +343,7 @@
      + [Blog Nando Vieira](https://nandovieira.com.br/)
      + [Blog Deric Cain](https://dericcain.com/)
      + [Nomadev - O blog de um dev nômade](http://nomadev.com.br/)
+     + [Blog do Patrick Maciel](http://blog.patrickmaciel.com/)
  - [Themes](http://jekyllthemes.org/) 
      + [Hydejack](http://jekyllthemes.org/themes/hydejack/)
  - [Páginas estáticas com Jekyll no Heroku](https://medium.com/@rogeriozambon/p%C3%A1ginas-est%C3%A1ticas-com-jekyll-no-heroku-b903ee25d92e#.g69zhb6ay)
