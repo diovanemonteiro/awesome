@@ -42,6 +42,7 @@
  - [TIPOS DE RETORNOS DO PHP 7: POR QUE NÃO USÁ-LOS?](https://merorafael.wordpress.com/2016/04/17/tipos-de-retornos-do-php-7-por-que-nao-usa-los/)
  - [Some New Tips About PHP7](http://mydnic.be/post/some-new-tips-about-php7)
  - [PHP não presta?!](http://imasters.com.br/linguagens/php/php-nao-presta/)
+ - [Princípios SOLID Parte 2 - Princípio do Aberto para Expansão, Fechado para Modificação](http://code.tutsplus.com/pt/tutorials/solid-part-2-the-openclosed-principle--net-36600)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
