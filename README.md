@@ -209,6 +209,7 @@
  - [VueJs: The Basics](https://coligo.io/vuejs-the-basics/)
  - [**SPA with Vue.js and Laravel: Setting Things up**](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-setting-things-up)
  - [Building a Single Page Application from Scratch with Vue.js and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
+ - [Aprenda Vue com poucas linhas – Introdução básica ao Vue](http://guiferreiracode.com/2016/05/aprenda-vue-com-poucas-linhas-introducao-basica-ao-vue.html)
 
 ## Front-end
  - [HTML](#html)
@@ -365,6 +366,9 @@
  - [Como eu criei meu blog usando Jekyll](http://samuelreichert.com/programming/2015/09/11/how-to-create-jekyll-blog.html)
  - [Escrevendo em Jekyll](http://dialeti.co/2015/02/12/jekyll/)
  - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
+ - [Building a Style Guide with Jekyll × Made Mistakes](https://mademistakes.com/articles/jekyll-style-guide/)
+ - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
+ - [Minimal Mistakes, a Jekyll Theme × Made Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 
 ## Mobile
  - [Ionic](#ionic)
