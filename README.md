@@ -262,6 +262,7 @@
  - [Se você é ágil, vai gostar de conhecer o Taiga](https://medium.com/@Aerochimps/se-voc%C3%AA-%C3%A9-%C3%A1gil-vai-querer-conhecer-o-taiga-7087c990dc56#.sri3i1txj)
  - [Pequeno glossário ágil](https://medium.com/@Aerochimps/pequeno-gloss%C3%A1rio-%C3%A1gil-c82721d6313f#.tg3qjgogq)
  - [Princípios ágeis revisitados: técnicas e práticas](http://blog.caelum.com.br/principios-ageis-revisitados-tecnicas-e-praticas/)
+ - [Os Melhores Livros sobre Métodos Ágeis do Brasil](http://blog.andrefaria.com/os-melhores-livros-sobre-agilidade-metodos-ageis)
 
 ## Scrum
  - [Scrum - Visão Geral](http://www.desenvolvimentoagil.com.br/scrum/) 
@@ -274,6 +275,7 @@
  - [**Scrum Guide**](http://www.scrumguides.org/scrum-guide.html)
  - [O básico sobre Sprints no Scrum](https://medium.com/@diegoeis/o-b%C3%A1sico-sobre-sprints-no-scrum-c2f2856fcf49#.tmls0yhnp)
  - [Scrum com Trello](http://www.mindmaster.com.br/scrum-com-trello/)
+ - [Como implementar Scrum com uma equipe inexperiente?](http://www.lucascoradini.com.br/como-implementar-scrum-com-uma-equipe-inexperiente/)
 
 ## Kanban
  - [Kanbam Pessoal: Como visualizar seu trabalho de forma simples e efetiva](https://medium.com/@lpprodutividade/kanbam-pessoal-como-visualizar-seu-trabalho-de-forma-simples-e-efetiva-9eea24c05939#.o43v4rl1y)
