@@ -210,6 +210,7 @@
  - [**SPA with Vue.js and Laravel: Setting Things up**](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-setting-things-up)
  - [Building a Single Page Application from Scratch with Vue.js and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
  - [Aprenda Vue com poucas linhas – Introdução básica ao Vue](http://guiferreiracode.com/2016/05/aprenda-vue-com-poucas-linhas-introducao-basica-ao-vue.html)
+ - [SPA with Vue.js and Laravel: Preparing Categories & Topics API](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-preparing-categories-topics-api)
 
 ## Front-end
  - [HTML](#html)
@@ -244,6 +245,7 @@
      + [Bootstrap 3: Template de Layout com Três Colunas](http://webdevacademy.com.br/tutoriais/bootstrap-template-layout-tres-colunas/)
      + [Bootstrap 3 Datepicker](http://eonasdan.github.io/bootstrap-datetimepicker/)
      + [Bootstrap Validator](http://eonasdan.github.io/bootstrap-datetimepicker/)
+     + [Desenvolvendo com Bootstrap 3: um framework front-end que vale a pena!](http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena)
  - [Best Front-end frameworks to try in 2016](https://hashnode.com/post/best-front-end-frameworks-to-try-in-2016-cin1unmcn00tvrb535out1y08)
  - [Usability](#usability)
      + [A importância dos protótipos no desenvolvimento de sistemas](http://thiagonasc.com/desenvolvimento-web/a-importancia-dos-prototipos-no-desenvolvimento-de-sistemas)
@@ -373,6 +375,7 @@
  - [Minimal Mistakes, a Jekyll Theme × Made Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 
 ## Mobile
+ - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
  - [Ionic](#ionic)
 	 + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
 	 + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
