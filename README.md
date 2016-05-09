@@ -58,6 +58,7 @@
  - [Laravelista](https://laravelista.com/) - Saiba como usar o Laravel.
  - [Laravel Best Practices](http://www.laravelbestpractices.com/)
  - [Laravel Tips](https://laraveltips.wordpress.com/)
+ - [Just Laravel](http://justlaravel.com/) - All about Laravel
  - [Packages](#packages)
      + [Easy Flash Messages](https://github.com/laracasts/flash)
      + [Eloquent Triple Pivot](https://github.com/jarektkaczyk/Eloquent-triple-pivot)
@@ -151,6 +152,7 @@
  - [Step by Step Guide to building your first Laravel Application](https://dotdev.co/step-by-step-guide-to-building-your-first-laravel-application/)
  - [Validate (almost) anything in Laravel](https://murze.be/2015/11/validate-almost-anything-in-laravel/)
  - [Top 5 reasons why we started to use Laravel](http://redentu.com/top-5-reasons-why-we-started-to-use-laravel)
+ - [**CREATING A FULLY-TESTABLE BOOKS REVIEW APP FROM THE GROUND WITH LARAVEL - PART 1**](http://mguimaraes.co/creating-a-fully-testable-books-review-app-from-the-ground-with-laravel-part-1/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -341,6 +343,7 @@
  - [**Contribuindo em projetos Open Source utilizando git parte 1**](https://medium.com/@pragmaticivan/contribuindo-em-projetos-open-source-utilizando-git-parte-1-d2b160e0abb5#.7wv2mg91w)
  - [**Forking workflow Contribuindo em projetos Open Source utilizando git parte 2**](https://medium.com/@pragmaticivan/forking-workflow-contribuindo-em-projetos-open-source-utilizando-git-parte-2-a1849204d02e#.nm6nxtj83)
  - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+ - [Git Flow – Uma forma legal de organizar repositórios git](http://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
@@ -408,3 +411,4 @@
 
 ## English
  - [Para aprender Inglês… você precisa aprender a ouvir!](https://medium.com/@maestrocursos/para-aprender-ingl%C3%AAs-voc%C3%AA-precisa-aprender-a-ouvir-3a6bd01fc586#.qfa7ssf64)
+ - [Blog Descubra o Mundo](http://blog.descubraomundo.com/)
