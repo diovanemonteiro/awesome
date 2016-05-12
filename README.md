@@ -149,7 +149,7 @@
  - [What’s New in Laravel 5](http://code.tutsplus.com/tutorials/whats-new-in-laravel-5--cms-21842)
  - [20 Useful Laravel Packages Available on CodeCanyon](http://code.tutsplus.com/articles/20-useful-laravel-packages-available-on-codecanyon--cms-25334)
  - [What Are Laravel 5.0 Facades?](http://code.tutsplus.com/tutorials/what-are-laravel-50-facades--cms-25347)
- - [Step by Step Guide to building your first Laravel Application](https://dotdev.co/step-by-step-guide-to-building-your-first-laravel-application/)
+ - [**Step by Step Guide to building your first Laravel Application**](https://dotdev.co/step-by-step-guide-to-building-your-first-laravel-application/)
  - [Validate (almost) anything in Laravel](https://murze.be/2015/11/validate-almost-anything-in-laravel/)
  - [Top 5 reasons why we started to use Laravel](http://redentu.com/top-5-reasons-why-we-started-to-use-laravel)
  - [**CREATING A FULLY-TESTABLE BOOKS REVIEW APP FROM THE GROUND WITH LARAVEL - PART 1**](http://mguimaraes.co/creating-a-fully-testable-books-review-app-from-the-ground-with-laravel-part-1/)
@@ -188,6 +188,7 @@
  - [10+ Free AngularJS and HTML Templates for Your Next Web Application](http://themesforangular.com/10-free-angularjs-templates/)
  - [How to implement loaders for an AngularJS app](https://sc5.io/posts/how-to-implement-loaders-for-an-angularjs-app/)
  - [Top 7 JavaScript frameworks for efficient front-end-development](http://redentu.com/top-7-javascript-frameworks-for-efficient-front-end-development)
+ - [Interceptors in Angularjs and useful examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
@@ -213,6 +214,7 @@
  - [Building a Single Page Application from Scratch with Vue.js and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
  - [Aprenda Vue com poucas linhas – Introdução básica ao Vue](http://guiferreiracode.com/2016/05/aprenda-vue-com-poucas-linhas-introducao-basica-ao-vue.html)
  - [SPA with Vue.js and Laravel: Preparing Categories & Topics API](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-preparing-categories-topics-api)
+ - [**https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh**](https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh)
 
 ## Front-end
  - [HTML](#html)
@@ -322,6 +324,7 @@
  - [Template Books](https://trello.com/b/SnizA0oY/books)
  - [Template Retrospective Techniques for Scrum Masters](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators)
  - [Template Scrum with Trello](https://trello.com/b/ultdy0tY/template-scrum-with-trello)
+ - [**Como fazer listas ajudou na minha produtividade**](https://medium.com/brasil/como-fazer-listas-ajudou-na-minha-produtividade-83ab9bbfc6d5#.mx4k52btt)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
@@ -408,6 +411,10 @@
  - [Várias máquinas dentro de uma — Parte 2](https://medium.com/@henriquemoreno/v%C3%A1rias-m%C3%A1quinas-dentro-de-uma-parte-2-e8fa6de8f4f#.sj0jkbcv8)
  - [Instalando Vagrant no Ubuntu 14.04 para desenvolvedores PHP](https://medium.com/@guiseek/instalando-vagrant-no-ubuntu-14-04-para-desenvolvedores-php-aab3ddfd588d#.mzou6ocmt)
  - [How to install and use Vagrant](https://medium.com/learn-laravel-5/vagrant-eb404fa7725c#.aszoyincg)
+
+## IDEs
+ * [Sublime Text](#sublime-text)
+     - [Best Sublime Text 3 Themes of 2015 and 2016](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
 
 ## English
  - [Para aprender Inglês… você precisa aprender a ouvir!](https://medium.com/@maestrocursos/para-aprender-ingl%C3%AAs-voc%C3%AA-precisa-aprender-a-ouvir-3a6bd01fc586#.qfa7ssf64)
