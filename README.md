@@ -43,6 +43,7 @@
  - [Some New Tips About PHP7](http://mydnic.be/post/some-new-tips-about-php7)
  - [PHP não presta?!](http://imasters.com.br/linguagens/php/php-nao-presta/)
  - [Princípios SOLID Parte 2 - Princípio do Aberto para Expansão, Fechado para Modificação](http://code.tutsplus.com/pt/tutorials/solid-part-2-the-openclosed-principle--net-36600)
+ - [10 Best PHP Frameworks for Web Projects](https://kultprosvet.net/blog/10-best-php-frameworks-web-projects)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
@@ -379,6 +380,7 @@
  - [Building a Style Guide with Jekyll × Made Mistakes](https://mademistakes.com/articles/jekyll-style-guide/)
  - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
  - [Minimal Mistakes, a Jekyll Theme × Made Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
+ - [Jekyll Tips](http://jekyll.tips/)
 
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
@@ -404,6 +406,7 @@
 
 ## Docker
  - [Iniciando com o Docker: dicas práticas para começar a usar agora mesmo](http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/)
+ - [LaraDock](http://laradock.github.io/laradock/)
 
 ## Vagrant
  - [Vagrant](https://medium.com/@joaovagner/vagrant-58e623d131ba#.jwfri0dee)
