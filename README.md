@@ -154,6 +154,10 @@
  - [Validate (almost) anything in Laravel](https://murze.be/2015/11/validate-almost-anything-in-laravel/)
  - [Top 5 reasons why we started to use Laravel](http://redentu.com/top-5-reasons-why-we-started-to-use-laravel)
  - [**CREATING A FULLY-TESTABLE BOOKS REVIEW APP FROM THE GROUND WITH LARAVEL - PART 1**](http://mguimaraes.co/creating-a-fully-testable-books-review-app-from-the-ground-with-laravel-part-1/)
+ - [Easier Date/Time in Laravel and PHP with Carbon](https://scotch.io/tutorials/easier-datetime-in-laravel-and-php-with-carbon)
+ - [SHARING DATA BETWEEN VIEWS USING LARAVEL VIEW COMPOSERS](http://laravelfeed.com/blog/sharing-data-between-views-using-laravel-view-composers)
+ - [TOP 5 REASONS TO USE JAVASCRIPT](http://laravelfeed.com/blog/top-5-reasons-use-javascript)
+ - [MODEL GENERATOR](http://laravelfeed.com/blog/Model-Generator)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -343,11 +347,12 @@
  - [GIST – UM MODO DE COMPARTILHAR BLOCOS DE CÓDIGO](http://www.profissionaisti.com.br/2011/03/gist-um-modo-de-compartilhar-blocos-de-codigo/)
  - [Getting Git right, with tutorials, news and tips](https://www.atlassian.com/git/)
  - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
- - [__Contribuindo em projetos open source com o github__](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+ - [**Contribuindo em projetos open source com o github**](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
  - [**Contribuindo em projetos Open Source utilizando git parte 1**](https://medium.com/@pragmaticivan/contribuindo-em-projetos-open-source-utilizando-git-parte-1-d2b160e0abb5#.7wv2mg91w)
  - [**Forking workflow Contribuindo em projetos Open Source utilizando git parte 2**](https://medium.com/@pragmaticivan/forking-workflow-contribuindo-em-projetos-open-source-utilizando-git-parte-2-a1849204d02e#.nm6nxtj83)
  - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
  - [Git Flow – Uma forma legal de organizar repositórios git](http://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/)
+ - [Contributing to Open Source Software with Git](https://scotch.io/tutorials/contributing-to-open-source-software-with-git)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
