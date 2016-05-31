@@ -159,6 +159,7 @@
  - [TOP 5 REASONS TO USE JAVASCRIPT](http://laravelfeed.com/blog/top-5-reasons-use-javascript)
  - [MODEL GENERATOR](http://laravelfeed.com/blog/Model-Generator)
  - [Using Fractal with Laravel to create an API](https://laravelista.com/laravel-fractal/)
+ - [DreamFactory open source REST API platform hits 2.1 with Laravel](https://laravel-news.com/2016/02/dreamfactory-open-source-rest-api-platform-hits-2-1-with-laravel-sponsor/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -365,6 +366,7 @@
  - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
  - [Git Flow – Uma forma legal de organizar repositórios git](http://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/)
  - [Contributing to Open Source Software with Git](https://scotch.io/tutorials/contributing-to-open-source-software-with-git)
+ - [Git fundamentals](https://laravelista.com/git-fundamentals)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
