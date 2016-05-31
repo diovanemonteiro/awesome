@@ -1,10 +1,14 @@
 # Awesome Web Development.
+
+![Web Development](images/webdevelopment.jpg "Web Development")
+
  > Uma coleção de links, sites favoritos, tutoriais, dicas, postagens, artigos e vídeos sobre diversas tecnologias relacionadas ao desenvolvimento web.
 
 ## Table of Contents
  - [PHP](#php)
  - [Composer](#composer)
  - [Laravel](#laravel)
+ - [Lumen](#lumen)
  - [CakePHP](#cakephp)
  - [JavaScript](#javascript)
  - [Single Page Applications](#single-page-applications)
@@ -16,6 +20,7 @@
  - [Scrum](#scrum)
  - [kanban](#kanban)
  - [TDD](#tdd)
+ - [Design Patterns](design-patterns)
  - [Productivity](#productivity)
  - [Database](#database)
  - [Git and Github](#git-and-github)
