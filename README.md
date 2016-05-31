@@ -220,6 +220,7 @@
  - [Aprenda Vue com poucas linhas – Introdução básica ao Vue](http://guiferreiracode.com/2016/05/aprenda-vue-com-poucas-linhas-introducao-basica-ao-vue.html)
  - [SPA with Vue.js and Laravel: Preparing Categories & Topics API](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-preparing-categories-topics-api)
  - [**https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh**](https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh)
+ - [Laravel Spark - Vue components](http://christoph-rumpel.com/2016/05/Larave-Spark-Using-Vue-Component)
 
 ## Front-end
  - [HTML](#html)
@@ -235,6 +236,7 @@
      + [8 Tips to Write CSS You Won't Hate](http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate)
      + [Qual unidade utilizar - Pixel, EM ou REM - Tableless](http://tableless.com.br/unidade-pixels-em-rem/)
      + [Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex, ch | desenvolvimento para web](http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
+     + [Guia definitivo das pseudoclasses e pseudoelementos das CSS](http://maujor.com/tutorial/guia-definitivo-das-pseudoclasses-e-pseudoelementos-css.php)
  - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
@@ -335,6 +337,9 @@
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
  - [Building the optimal user database model for your application](https://www.getdonedone.com/building-the-optimal-user-database-model-for-your-application/)
  - [MongoDb - Como mudar seu jeito relacional de pensar - Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
+
+## Design Patterns
+ - [How to Simplify Development with the Repository Pattern](http://www.masterzendframework.com/why-the-repository-pattern/)
 
 ## Git and Github
  - [Tudo que você queria saber sobre git e github, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
