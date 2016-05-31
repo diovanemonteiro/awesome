@@ -432,6 +432,7 @@
 ## Docker
  - [Iniciando com o Docker: dicas práticas para começar a usar agora mesmo](http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/)
  - [LaraDock](http://laradock.github.io/laradock/)
+ - [Criando um ambiente de desenvolvimento PHP com Docker Compose](http://www.phprs.com.br/2016/05/criando-um-ambiente-de-desenvolvimento-php-com-docker-compose/)
 
 ## Vagrant
  - [Vagrant](https://medium.com/@joaovagner/vagrant-58e623d131ba#.jwfri0dee)
