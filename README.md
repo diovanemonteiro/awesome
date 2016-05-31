@@ -158,6 +158,10 @@
  - [SHARING DATA BETWEEN VIEWS USING LARAVEL VIEW COMPOSERS](http://laravelfeed.com/blog/sharing-data-between-views-using-laravel-view-composers)
  - [TOP 5 REASONS TO USE JAVASCRIPT](http://laravelfeed.com/blog/top-5-reasons-use-javascript)
  - [MODEL GENERATOR](http://laravelfeed.com/blog/Model-Generator)
+ - [Using Fractal with Laravel to create an API](https://laravelista.com/laravel-fractal/)
+
+## Lumen
+ - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
 
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
@@ -237,6 +241,9 @@
      + [Qual unidade utilizar - Pixel, EM ou REM - Tableless](http://tableless.com.br/unidade-pixels-em-rem/)
      + [Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex, ch | desenvolvimento para web](http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
      + [Guia definitivo das pseudoclasses e pseudoelementos das CSS](http://maujor.com/tutorial/guia-definitivo-das-pseudoclasses-e-pseudoelementos-css.php)
+     + [CSS Best Practices to Follow and Bad Habits to Avoid](http://1stwebdesigner.com/css-best-practices/)
+     + [Good and Bad CSS Practices for Beginners](https://speckyboy.com/2016/05/10/good-bad-css-practices/)
+     + [Writing efficient CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
  - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
