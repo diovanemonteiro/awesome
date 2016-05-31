@@ -242,6 +242,7 @@
      + [BOILERPLATE UM TEMPLATE RÁPIDO PARA SEU PROJETO HTML5](http://www.claudiofelis.com.br/blog/materia/boilerplate-um-template-rapido-html5/)
      + [An Introduction to HTML5 Boilerplate](http://www.sitepoint.com/introduction-html5-boilerplate/)
      + [Using Normalize.css For Homogeneous Development](http://www.hongkiat.com/blog/normalized-css/)
+     + [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
  - [CSS](#css)
      + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
      + [8 Tips to Write CSS You Won't Hate](http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate)
