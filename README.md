@@ -431,6 +431,7 @@
 
 ## DevOps
  - [Os Padrões dos Gigantes da Web – DevOps](http://blog.octo.com/pt-br/os-padroes-dos-gigantes-da-web-devops/)
+ - [Nginx para melhorar o desempenho do seu site](http://www.kinghost.com.br/blog/2016/06/descubra-os-segredos-do-nginx-para-melhorar-o-desempenho-do-seu-site/)
 
 ## Docker
  - [Iniciando com o Docker: dicas práticas para começar a usar agora mesmo](http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/)
