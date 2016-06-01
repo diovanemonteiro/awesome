@@ -1,6 +1,6 @@
 # Awesome Web Development.
 
-![Web Development](images/webdevelopment.jpg "Web Development")
+![Web Development](images/php-ecosystem.gif "Web Development")
 
  > Uma coleção de links, sites favoritos, tutoriais, dicas, postagens, artigos e vídeos sobre diversas tecnologias relacionadas ao desenvolvimento web.
 
