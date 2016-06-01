@@ -408,6 +408,7 @@
  - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
  - [Minimal Mistakes, a Jekyll Theme × Made Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
  - [Jekyll Tips](http://jekyll.tips/)
+ - [Como fiz meu site com Jekyll e GitHub Pages](http://ggio.com.br/blog/como-fiz-meu-site-com-jekyll-e-github-pages/)
 
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
