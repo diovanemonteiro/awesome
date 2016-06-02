@@ -375,6 +375,7 @@
  - [Git Flow – Uma forma legal de organizar repositórios git](http://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/)
  - [Contributing to Open Source Software with Git](https://scotch.io/tutorials/contributing-to-open-source-software-with-git)
  - [Git fundamentals](https://laravelista.com/git-fundamentals)
+ - [Learn Git Branching](http://learngitbranching.js.org/)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
