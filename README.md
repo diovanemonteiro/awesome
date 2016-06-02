@@ -50,6 +50,7 @@
  - [PHP não presta?!](http://imasters.com.br/linguagens/php/php-nao-presta/)
  - [Princípios SOLID Parte 2 - Princípio do Aberto para Expansão, Fechado para Modificação](http://code.tutsplus.com/pt/tutorials/solid-part-2-the-openclosed-principle--net-36600)
  - [10 Best PHP Frameworks for Web Projects](https://kultprosvet.net/blog/10-best-php-frameworks-web-projects)
+ - [Novidade no PHP 5.6: Funções Variádicas e Desempacotamento de Argumentos](http://www.phpit.com.br/artigos/novidades-no-php-5-6-funcoes-variadicas-e-desempacotamento-de-argumentos.phpit)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
