@@ -32,6 +32,8 @@
  - [DevOps](#devops)
  - [Docker](#docker)
  - [Vagrant](#vagrant)
+ - [IDEs](#ides)
+ - [Regex](#regex)
  - [English](#english)
 
 ## PHP
@@ -51,6 +53,7 @@
  - [Princípios SOLID Parte 2 - Princípio do Aberto para Expansão, Fechado para Modificação](http://code.tutsplus.com/pt/tutorials/solid-part-2-the-openclosed-principle--net-36600)
  - [10 Best PHP Frameworks for Web Projects](https://kultprosvet.net/blog/10-best-php-frameworks-web-projects)
  - [Novidade no PHP 5.6: Funções Variádicas e Desempacotamento de Argumentos](http://www.phpit.com.br/artigos/novidades-no-php-5-6-funcoes-variadicas-e-desempacotamento-de-argumentos.phpit)
+ -  [7 coisas simples em PHP que alguns ainda complicam](http://www.phpit.com.br/artigos/7-coisas-simples-em-php-que-alguns-ainda-complicam.phpit)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
@@ -459,6 +462,9 @@
  * [Sublime Text](#sublime-text)
      - [Best Sublime Text 3 Themes of 2015 and 2016](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
  * [How to Edit Consistently Using EditorConfig](http://www.masterzendframework.com/consistent-editing-with-editorconfig/)
+
+## Regex
+* [Entendendo as Expressões Regulares](http://www.phpit.com.br/artigos/entendendo-as-expressoes-regulares.phpit)
 
 ## English
  - [Para aprender Inglês… você precisa aprender a ouvir!](https://medium.com/@maestrocursos/para-aprender-ingl%C3%AAs-voc%C3%AA-precisa-aprender-a-ouvir-3a6bd01fc586#.qfa7ssf64)
