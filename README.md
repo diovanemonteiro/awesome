@@ -15,6 +15,7 @@
  - [AngularJS](#angular)
  - [Vue.js](#vue)
  - [Front-end](#front-end)
+ - [Web Design](#web-design)
  - [Java](#java)
  - [Agile](#agile)
  - [Scrum](#scrum)
@@ -280,6 +281,12 @@
      + [Os equipamentos e ferramentas essenciais de um Web Designer](http://thiagonasc.com/webdesign/os-equipamentos-e-ferramentas-essenciais-de-um-web-designer)
  - [Sobre o básico que você precisa aprender para ser um front-end](https://medium.com/@diegoeis/sobre-o-basico-que-voce-precisa-aprender-para-ser-um-front-end-6f4bf792c7e7#.v07gt7krh)
 
+## Web Design
+ * [Resources](#resources)
+     - [300 AWESOME FREE THINGS FOR ENTREPRENEURS & STARTUPS](https://medium.com/swlh/300-awesome-free-things-e07b3cd5fd5b#.rz84fvhqx)
+     - [These 39 Sites Have Amazing Stock Photos You Can Use For Free](https://medium.com/vantage/these-39-sites-have-amazing-stock-photos-you-can-use-for-free-4ddf3524e1d9#.h88nzj79r)
+     - [365+ Awesome Free Resources for Entrepreneur, Business and Life](https://medium.com/keep-learning-keep-growing/365-awesome-free-resources-for-entrepreneur-business-and-life-a88a79c6be59#.4rk0txt9f)
+
 ## Java
 
 ## Agile
@@ -415,8 +422,8 @@
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
  - [Ionic](#ionic)
-	 + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
-	 + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
+     + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
+     + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
      + [Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
      + [Create a Mobile Application Using WordPress, Ionic, and AngularJS](http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170)
  - [Android](#android)
