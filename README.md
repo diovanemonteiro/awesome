@@ -449,6 +449,7 @@
 ## IDEs
  * [Sublime Text](#sublime-text)
      - [Best Sublime Text 3 Themes of 2015 and 2016](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
+ * [How to Edit Consistently Using EditorConfig](http://www.masterzendframework.com/consistent-editing-with-editorconfig/)
 
 ## English
  - [Para aprender Inglês… você precisa aprender a ouvir!](https://medium.com/@maestrocursos/para-aprender-ingl%C3%AAs-voc%C3%AA-precisa-aprender-a-ouvir-3a6bd01fc586#.qfa7ssf64)
