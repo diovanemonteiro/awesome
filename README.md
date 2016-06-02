@@ -292,6 +292,7 @@
  - [Pequeno glossário ágil](https://medium.com/@Aerochimps/pequeno-gloss%C3%A1rio-%C3%A1gil-c82721d6313f#.tg3qjgogq)
  - [Princípios ágeis revisitados: técnicas e práticas](http://blog.caelum.com.br/principios-ageis-revisitados-tecnicas-e-praticas/)
  - [Os Melhores Livros sobre Métodos Ágeis do Brasil](http://blog.andrefaria.com/os-melhores-livros-sobre-agilidade-metodos-ageis)
+ - [Escalando o Agile na Spotify: exemplo de sucesso de Lean Startup, Scrum e Kanban](https://www.infoq.com/br/articles/spotify-escalando-agile)
 
 ## Scrum
  - [Scrum - Visão Geral](http://www.desenvolvimentoagil.com.br/scrum/) 
