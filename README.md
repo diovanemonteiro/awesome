@@ -173,6 +173,7 @@
  - [DreamFactory open source REST API platform hits 2.1 with Laravel](https://laravel-news.com/2016/02/dreamfactory-open-source-rest-api-platform-hits-2-1-with-laravel-sponsor/)
  - [Using Repository Pattern in Laravel 5](https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/)
  - [Debugging a Laravel web application with PHPStorm on Homestead](https://laravelista.com/debugging-a-laravel-web-application-with-phpstorm-on-homestead)
+ - [API RESTful PHP com Laravel](http://clubedosgeeks.com.br/programacao/php/api-restful-laravel)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
