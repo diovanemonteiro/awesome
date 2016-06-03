@@ -242,6 +242,7 @@
  - [SPA with Vue.js and Laravel: Preparing Categories & Topics API](http://taha-sh.com/blog/spa-with-vuejs-and-laravel-preparing-categories-topics-api)
  - [**https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh**](https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh)
  - [Laravel Spark - Vue components](http://christoph-rumpel.com/2016/05/Larave-Spark-Using-Vue-Component)
+ - [Blog Alan Albuquerque](http://ktquez.com/blog)
 
 ## Front-end
  - [HTML](#html)
