@@ -10,6 +10,7 @@
  - [Laravel](#laravel)
  - [Lumen](#lumen)
  - [CakePHP](#cakephp)
+ - [Zend Framework](#zend-framework)
  - [JavaScript](#javascript)
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angular)
@@ -181,6 +182,10 @@
 ## CakePHP
  - [Deploy da aplicação em CakePHP3 no heroku](https://medium.com/@lemos/deploy-da-aplica%C3%A7%C3%A3o-em-cakephp3-no-heroku-62a5ccaa8762#.ow80ldnni)
  - [Populando sua aplicação em CakePHP 3 com dados de teste](https://medium.com/@lemos/populando-sua-aplica%C3%A7%C3%A3o-em-cakephp-3-com-dados-de-teste-c266b52e9421#.1y166jjpf)
+
+## Zend Framework
+
+ * [Iniciando com Zend Framework 2: Skeleton e ZfcUser](http://www.phpit.com.br/artigos/iniciando-com-zend-framework-2-skeleton-e-zfcuser.phpit)
 
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
