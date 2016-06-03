@@ -11,6 +11,7 @@
  - [Lumen](#lumen)
  - [CakePHP](#cakephp)
  - [Zend Framework](#zend-framework)
+ - [API](#api)
  - [JavaScript](#javascript)
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angular)
@@ -184,8 +185,11 @@
  - [Populando sua aplicação em CakePHP 3 com dados de teste](https://medium.com/@lemos/populando-sua-aplica%C3%A7%C3%A3o-em-cakephp-3-com-dados-de-teste-c266b52e9421#.1y166jjpf)
 
 ## Zend Framework
-
  * [Iniciando com Zend Framework 2: Skeleton e ZfcUser](http://www.phpit.com.br/artigos/iniciando-com-zend-framework-2-skeleton-e-zfcuser.phpit)
+
+## API
+ * [Gerando documentação do seu sistema utilizando a API SAMI](http://www.diegobrocanelli.com.br/php/gerando-documentacao-do-seu-sistema-utilizando-a-api-sami/)
+ * [JSONPlaceholder - Fake Online REST API for Testing and Prototyping](http://jsonplaceholder.typicode.com/)
 
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
