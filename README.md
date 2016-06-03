@@ -416,6 +416,7 @@
  - [Mind the End of Your Line](http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
  - [Blog estático com Jekyll + Amazon Web Service S3](http://www.improdutivo.com/2015/05/25/Blog-estatico-com-Jekyll-e-Amazon-Web-Service-S3/)
  - [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
+ - [Build a Blog with GitHub - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
  - [JEKYLL:SYNTAX HIGHLIGHTING IN GITHUB FAVOURED MARKDOWN CODEBLOCKS](http://blog.championswimmer.in/2015/10/jekyllsyntax-highlighting-in-github-favoured-markdown-codeblocks)
  - [O que é Jekyll - e para que ele serve](http://blog.virtuacreative.com.br/jekyll-for-beginners-introduction.html)
  - [Criando blogs com Jekyll no Windows](http://blog.virtuacreative.com.br/jekyll-github-blog.html)
@@ -428,6 +429,8 @@
  - [Minimal Mistakes, a Jekyll Theme × Made Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
  - [Jekyll Tips](http://jekyll.tips/)
  - [Como fiz meu site com Jekyll e GitHub Pages](http://ggio.com.br/blog/como-fiz-meu-site-com-jekyll-e-github-pages/)
+ - [Blogging tools: O que estou usando](http://laggedhero.net/jekyll/2014/10/30/blogging-tools-what-im-using.html)
+ - [Criando um blog com Octopress e Github Pages](http://tableless.com.br/criando-um-blog-com-octopress-e-github-pages/)
 
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
