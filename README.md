@@ -34,6 +34,7 @@
  - [Vagrant](#vagrant)
  - [IDEs](#ides)
  - [Regex](#regex)
+ - [Jobs](#jobs)
  - [English](#english)
 
 ## PHP
@@ -466,6 +467,10 @@
 
 ## Regex
 * [Entendendo as Expressões Regulares](http://www.phpit.com.br/artigos/entendendo-as-expressoes-regulares.phpit)
+
+## Jobs
+* [SP Desenvolvedor(a) PHP](http://trampos.co/oportunidades/126475-desenvolvedor-php)
+* [Desenvolvedor(a) PHP / Laravel - Pleno ou Sênior](http://bolha.com.br/vaga-desenvolvedor-back-end-php-laravel/)
 
 ## English
  - [Para aprender Inglês… você precisa aprender a ouvir!](https://medium.com/@maestrocursos/para-aprender-ingl%C3%AAs-voc%C3%AA-precisa-aprender-a-ouvir-3a6bd01fc586#.qfa7ssf64)
