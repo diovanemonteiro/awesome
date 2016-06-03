@@ -390,6 +390,7 @@
  - [Contributing to Open Source Software with Git](https://scotch.io/tutorials/contributing-to-open-source-software-with-git)
  - [Git fundamentals](https://laravelista.com/git-fundamentals)
  - [Learn Git Branching](http://learngitbranching.js.org/)
+ - [Git Rebase for Reasonable Developers](https://dotdev.co/git-rebase-for-reasonable-developers-26dc8776dc25#.iee2sskyz)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
