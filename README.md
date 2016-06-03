@@ -215,6 +215,7 @@
  - [Top 7 JavaScript frameworks for efficient front-end-development](http://redentu.com/top-7-javascript-frameworks-for-efficient-front-end-development)
  - [Interceptors in Angularjs and useful examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
  - [AngularJs na prática](https://nicholasess.gitbooks.io/angularjs-na-pratica/content/)
+ - [AngularJS para aplicações de larga escala](http://dsalvagni.com.br/angularjs-para-aplicacoes-de-larga-escala/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
