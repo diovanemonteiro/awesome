@@ -57,6 +57,9 @@
  - [10 Best PHP Frameworks for Web Projects](https://kultprosvet.net/blog/10-best-php-frameworks-web-projects)
  - [Novidade no PHP 5.6: Funções Variádicas e Desempacotamento de Argumentos](http://www.phpit.com.br/artigos/novidades-no-php-5-6-funcoes-variadicas-e-desempacotamento-de-argumentos.phpit)
  -  [7 coisas simples em PHP que alguns ainda complicam](http://www.phpit.com.br/artigos/7-coisas-simples-em-php-que-alguns-ainda-complicam.phpit)
+ -  [Saiba mais sobre o PHP 7](http://geekando.com.br/saiba-mais-sobre-o-php-7/)
+ -  [PHP 7 - 5 Things to know Infographic](http://www.zend.com/en/resources/php7-5-things-to-know-infographic)
+ -  [Instalando múltiplas versões do PHP no Ubuntu 14](http://cafenaveia.blog.br/instalando-multiplas-versoes-php-no-ubuntu-14/)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
