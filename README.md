@@ -176,6 +176,7 @@
  - [Using Repository Pattern in Laravel 5](https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/)
  - [Debugging a Laravel web application with PHPStorm on Homestead](https://laravelista.com/debugging-a-laravel-web-application-with-phpstorm-on-homestead)
  - [API RESTful PHP com Laravel](http://clubedosgeeks.com.br/programacao/php/api-restful-laravel)
+ - [Things I didn't know Laravel could do](https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -405,6 +406,8 @@
  - [Git fundamentals](https://laravelista.com/git-fundamentals)
  - [Learn Git Branching](http://learngitbranching.js.org/)
  - [Git Rebase for Reasonable Developers](https://dotdev.co/git-rebase-for-reasonable-developers-26dc8776dc25#.iee2sskyz)
+ - [**Tudo o que você precisa saber sobre Git**](http://www.obomprogramador.com/2014/11/tudo-o-que-voce-precisa-saber-sobre-git.html)
+ - [**Learn Git in 30 Minutes**](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
