@@ -36,6 +36,7 @@
  - [Vagrant](#vagrant)
  - [IDEs](#ides)
  - [Regex](#regex)
+ - [Linux](#linux)
  - [Jobs](#jobs)
  - [English](#english)
 
@@ -194,6 +195,7 @@
 ## API
  * [Gerando documentação do seu sistema utilizando a API SAMI](http://www.diegobrocanelli.com.br/php/gerando-documentacao-do-seu-sistema-utilizando-a-api-sami/)
  * [JSONPlaceholder - Fake Online REST API for Testing and Prototyping](http://jsonplaceholder.typicode.com/)
+ * [Designing REST API: Best Practices you Should be Following](https://medium.com/@PradyumnaKulkarni/designing-rest-api-best-practices-you-should-be-following-247bf26015a0#.pnnc8p5xc)
 
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
@@ -257,6 +259,8 @@
  - [**https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh**](https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.uevvlo9yh)
  - [Laravel Spark - Vue components](http://christoph-rumpel.com/2016/05/Larave-Spark-Using-Vue-Component)
  - [Blog Alan Albuquerque](http://ktquez.com/blog)
+ - [Vue UI Components](http://vui.github.io/ui/)
+ - [O que é Vuex](http://vuex.vuejs.org/pt/intro.html)
 
 ## Front-end
  - [HTML](#html)
@@ -491,6 +495,10 @@
 
 ## Regex
 * [Entendendo as Expressões Regulares](http://www.phpit.com.br/artigos/entendendo-as-expressoes-regulares.phpit)
+
+## Linux
+* [Guia de referência – Lista de Comandos para Linux
+](http://computeirodadepressao.com/guia-com-mais-de-500-comandos-do-linux-explicados/)
 
 ## Jobs
 * [SP Desenvolvedor(a) PHP](http://trampos.co/oportunidades/126475-desenvolvedor-php)
