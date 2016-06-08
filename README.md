@@ -317,6 +317,8 @@
      - [These 39 Sites Have Amazing Stock Photos You Can Use For Free](https://medium.com/vantage/these-39-sites-have-amazing-stock-photos-you-can-use-for-free-4ddf3524e1d9#.h88nzj79r)
      - [365+ Awesome Free Resources for Entrepreneur, Business and Life](https://medium.com/keep-learning-keep-growing/365-awesome-free-resources-for-entrepreneur-business-and-life-a88a79c6be59#.4rk0txt9f)
      - [Free Stock Photos of Workspaces and Office Desks for Website Hero Images](https://superdevresources.com/free-workspace-hero-images/)
+     - [15 Awesome Free Tools & Resources for Web Developers](https://superdevresources.com/free-web-development-resources/)
+     - [Free Images](https://superdevresources.com/directory/design-resources/free-images/)
 
 ## Java
 
