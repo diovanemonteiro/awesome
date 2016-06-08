@@ -213,6 +213,7 @@
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
  - [Single Page Application (SPA) usando AngularJS com Web API – Parte 03](http://imasters.com.br/front-end/javascript/single-page-application-spa-usando-angularjs-com-web-api-parte-03/)
+ - [15 Awesome Free JavaScript Libraries to Enhance your Web Applications](https://superdevresources.com/free-javascript-libraries-web-apps/)
 
 ## AngularJS
  - [Themes](#themes)
