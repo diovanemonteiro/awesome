@@ -61,6 +61,9 @@
  -  [Saiba mais sobre o PHP 7](http://geekando.com.br/saiba-mais-sobre-o-php-7/)
  -  [PHP 7 - 5 Things to know Infographic](http://www.zend.com/en/resources/php7-5-things-to-know-infographic)
  -  [Instalando múltiplas versões do PHP no Ubuntu 14](http://cafenaveia.blog.br/instalando-multiplas-versoes-php-no-ubuntu-14/)
+ -  [How to choose a PHP framework](https://opensource.com/business/16/6/which-php-framework-right-you)
+ -  [Decoupling — All the best bits of your favourite PHP frameworks.](https://theiconic.engineering/decoupling-all-the-best-bits-of-your-favourite-php-frameworks-f8ac2742a7d7#.xkefoc2jd)
+ -  [PHP CodeSniffer](http://www.diegobrocanelli.com.br/php/php-codesniffer/)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
