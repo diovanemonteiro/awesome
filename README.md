@@ -266,6 +266,7 @@
  - [Blog Alan Albuquerque](http://ktquez.com/blog)
  - [Vue UI Components](http://vui.github.io/ui/)
  - [O que é Vuex](http://vuex.vuejs.org/pt/intro.html)
+ - [Buscador de Cep - Postmon + VueJS + Bootstrap ](http://codepen.io/angelorubin/pen/yYrRQo)
 
 ## Front-end
  - [HTML](#html)
