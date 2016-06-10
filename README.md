@@ -278,6 +278,7 @@
      + [Using Normalize.css For Homogeneous Development](http://www.hongkiat.com/blog/normalized-css/)
      + [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
      + [Sections HTML Elements](http://w3c.github.io/html/sections.html#sections)
+     + [Semantics, structure, and APIs of HTML documents](https://html.spec.whatwg.org/multipage/semantics.html)
  - [CSS](#css)
      + [Top 10 Monthly Articles: CSS](https://medium.mybridge.co/top-10-monthly-articles-css-ba337fcd6051#.l3o8k1mui)
      + [8 Tips to Write CSS You Won't Hate](http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate)
