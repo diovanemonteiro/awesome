@@ -471,6 +471,9 @@
      - https://github.com/TryGhost/Casper
      - https://github.com/cparaiso/clonium
      - https://github.com/dlecina/StayPuf
+     - https://github.com/mihneadb/no-nonsense
+     - https://github.com/germannencinas/Gunter
+     - https://github.com/stsbd/whisper
 
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
