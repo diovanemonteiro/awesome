@@ -28,6 +28,7 @@
  - [Database](#database)
  - [Git and Github](#git-and-github)
  - [Jekyll](#jekyll)
+ - [Ghost](#ghost)
  - [Mobile](#mobile)
  - [Object Oriented](#object-oriented)
  - [Markdown](#markdown)
@@ -462,6 +463,14 @@
  - [Como fiz meu site com Jekyll e GitHub Pages](http://ggio.com.br/blog/como-fiz-meu-site-com-jekyll-e-github-pages/)
  - [Blogging tools: O que estou usando](http://laggedhero.net/jekyll/2014/10/30/blogging-tools-what-im-using.html)
  - [Criando um blog com Octopress e Github Pages](http://tableless.com.br/criando-um-blog-com-octopress-e-github-pages/)
+
+## Ghost
+ * [Themes]
+     - [https://github.com/elenatorro/Bootstrap-Ghost-Theme]
+     - [https://github.com/Reedyn/Draugur]
+     - [https://github.com/TryGhost/Casper]
+     - [https://github.com/cparaiso/clonium]
+     - [https://github.com/dlecina/StayPuf]
 
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
