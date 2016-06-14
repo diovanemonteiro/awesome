@@ -186,6 +186,7 @@
  - [API RESTful PHP com Laravel](http://clubedosgeeks.com.br/programacao/php/api-restful-laravel)
  - [Things I didn't know Laravel could do](https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do)
  - [Instalação do Laravel 5 no Ubuntu 14.10](http://profmarcello.blogspot.com.br/2015/04/instalacao-do-laravel-5-no-ubuntu-1410.html)
+ - [Understanding Laravel Middleware](https://scotch.io/tutorials/understanding-laravel-middleware)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
