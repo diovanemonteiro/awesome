@@ -14,7 +14,8 @@
  - [API](#api)
  - [JavaScript](#javascript)
  - [Single Page Applications](#single-page-applications)
- - [AngularJS](#angular)
+ - [AngularJS](#angularjs)
+ - [Angular 2](#angular-2)
  - [Vue.js](#vue)
  - [Front-end](#front-end)
  - [Web Design](#web-design)
@@ -240,6 +241,9 @@
  - [Interceptors in Angularjs and useful examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
  - [AngularJs na prática](https://nicholasess.gitbooks.io/angularjs-na-pratica/content/)
  - [AngularJS para aplicações de larga escala](http://dsalvagni.com.br/angularjs-para-aplicacoes-de-larga-escala/)
+
+## Angular 2
+ * [Learn Angular 2 for Beginners](https://codek.tv/detail/learn-angularjs-2-tutorial-for-beginners-2016-complete)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
