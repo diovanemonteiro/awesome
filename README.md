@@ -214,6 +214,7 @@
  - [Depois de 20 anos é que as pessoas começaram a levar JavaScript a sério](http://imasters.com.br/front-end/javascript/zeno-rocha-depois-de-20-anos-e-que-as-pessoas-comecaram-a-levar-javascript-a-serio/)
  - [Better JavaScript with ES6, Pt. III: Cool Collections & Slicker Strings](https://scotch.io/tutorials/better-javascript-with-es6-pt-iii-cool-collections-slicker-strings)
  - [Javascript The Right Way](http://jstherightway.org/pt-br/)
+ - [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
 
 ## Single Page Applications
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
