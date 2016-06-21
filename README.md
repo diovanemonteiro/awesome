@@ -67,6 +67,7 @@
  -  [Decoupling — All the best bits of your favourite PHP frameworks.](https://theiconic.engineering/decoupling-all-the-best-bits-of-your-favourite-php-frameworks-f8ac2742a7d7#.xkefoc2jd)
  -  [PHP CodeSniffer](http://www.diegobrocanelli.com.br/php/php-codesniffer/)
  -  [Why Care About PHP Middleware?](https://philsturgeon.uk/2016/05/31/why-care-about-php-middleware/)
+ -  [Hospedando aplicação PHP no Heroku](http://www.phprs.com.br/2016/06/hospedando-aplicacao-php-no-heroku/)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
@@ -189,6 +190,7 @@
  - [Things I didn't know Laravel could do](https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do)
  - [Instalação do Laravel 5 no Ubuntu 14.10](http://profmarcello.blogspot.com.br/2015/04/instalacao-do-laravel-5-no-ubuntu-1410.html)
  - [Understanding Laravel Middleware](https://scotch.io/tutorials/understanding-laravel-middleware)
+ - [**Laravel + AngularJS – sua primeira aplicação**](http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
