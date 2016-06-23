@@ -208,6 +208,7 @@
  * [Gerando documentação do seu sistema utilizando a API SAMI](http://www.diegobrocanelli.com.br/php/gerando-documentacao-do-seu-sistema-utilizando-a-api-sami/)
  * [JSONPlaceholder - Fake Online REST API for Testing and Prototyping](http://jsonplaceholder.typicode.com/)
  * [Designing REST API: Best Practices you Should be Following](https://medium.com/@PradyumnaKulkarni/designing-rest-api-best-practices-you-should-be-following-247bf26015a0#.pnnc8p5xc)
+ * [Microservices Best Practices](https://blog.codeship.com/microservices-best-practices/)
 
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
