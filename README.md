@@ -191,6 +191,8 @@
  - [Instalação do Laravel 5 no Ubuntu 14.10](http://profmarcello.blogspot.com.br/2015/04/instalacao-do-laravel-5-no-ubuntu-1410.html)
  - [Understanding Laravel Middleware](https://scotch.io/tutorials/understanding-laravel-middleware)
  - [**Laravel + AngularJS – sua primeira aplicação**](http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao)
+ - [Domain-Driven Design in Laravel 5](http://code.tutsplus.com/tutorials/domain-driven-design-in-laravel-5--cms-26244)
+ - [INSTALANDO LARAVEL EM AMBIENTE COMPARTILHADO LOCAWEB](http://thiagotmendes.com.br/instalando-laravel-em-ambiente-compartilhado-locaweb/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
