@@ -537,6 +537,7 @@
 
 ## Regex
 * [Entendendo as Expressões Regulares](http://www.phpit.com.br/artigos/entendendo-as-expressoes-regulares.phpit)
+* [O básico sobre Expressões Regulares](http://tableless.com.br/o-basico-sobre-expressoes-regulares/)
 
 ## Linux
 * [Guia de referência – Lista de Comandos para Linux
