@@ -308,6 +308,8 @@
      + [CSS3 – Breve introdução ao RGBA](http://tableless.com.br/css3-breve-introducao-a-rgba/)
      + [Geração de conteúdo estático via CSS](http://tableless.com.br/geracao-estatica-de-conteudo-via-css/)
      + [Propriedade Position do CSS](http://tableless.com.br/propriedade-position-do-css/)
+     + [Animation](https://css-tricks.com/almanac/properties/a/animation/)
+     + [8 efeitos de transição em CSS3 – CSS3 Transitions](http://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/)
  - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
