@@ -186,13 +186,14 @@
  - [DreamFactory open source REST API platform hits 2.1 with Laravel](https://laravel-news.com/2016/02/dreamfactory-open-source-rest-api-platform-hits-2-1-with-laravel-sponsor/)
  - [Using Repository Pattern in Laravel 5](https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/)
  - [Debugging a Laravel web application with PHPStorm on Homestead](https://laravelista.com/debugging-a-laravel-web-application-with-phpstorm-on-homestead)
- - [API RESTful PHP com Laravel](http://clubedosgeeks.com.br/programacao/php/api-restful-laravel)
+ - [**API RESTful PHP com Laravel**](http://clubedosgeeks.com.br/programacao/php/api-restful-laravel)
  - [Things I didn't know Laravel could do](https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do)
  - [Instalação do Laravel 5 no Ubuntu 14.10](http://profmarcello.blogspot.com.br/2015/04/instalacao-do-laravel-5-no-ubuntu-1410.html)
  - [Understanding Laravel Middleware](https://scotch.io/tutorials/understanding-laravel-middleware)
  - [**Laravel + AngularJS – sua primeira aplicação**](http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao)
  - [Domain-Driven Design in Laravel 5](http://code.tutsplus.com/tutorials/domain-driven-design-in-laravel-5--cms-26244)
  - [INSTALANDO LARAVEL EM AMBIENTE COMPARTILHADO LOCAWEB](http://thiagotmendes.com.br/instalando-laravel-em-ambiente-compartilhado-locaweb/)
+ - [**Laravel + AngularJS – Upload de Arquivos**](http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
