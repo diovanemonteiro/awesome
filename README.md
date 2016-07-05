@@ -250,6 +250,7 @@
  - [AngularJS para aplicações de larga escala](http://dsalvagni.com.br/angularjs-para-aplicacoes-de-larga-escala/)
  - [16 Temas Administrativos para AngularJS](http://clubedosgeeks.com.br/programacao/angularjs/16-temas-free-angularjs)
  - [Como criar uma diretiva em AngularJS](http://clubedosgeeks.com.br/sem-categoria/como-criar-uma-diretiva-em-angularjs)
+ - [**Aprendendo AngularJS – minhas leituras**](http://www.itexto.net/devkico/?p=2469)
 
 ## Angular 2
  * [Learn Angular 2 for Beginners](https://codek.tv/detail/learn-angularjs-2-tutorial-for-beginners-2016-complete)
@@ -284,7 +285,7 @@
  - [Vue UI Components](http://vui.github.io/ui/)
  - [O que é Vuex](http://vuex.vuejs.org/pt/intro.html)
  - [Buscador de Cep - Postmon + VueJS + Bootstrap ](http://codepen.io/angelorubin/pen/yYrRQo)
- - [Exprimentando Vue.js – aplicando no /dev/All](http://www.itexto.net/devkico/?p=2500)
+ - [**Exprimentando Vue.js – aplicando no /dev/All**](http://www.itexto.net/devkico/?p=2500)
 
 ## Front-end
  - [HTML](#html)
