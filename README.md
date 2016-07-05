@@ -247,6 +247,8 @@
  - [Interceptors in Angularjs and useful examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
  - [AngularJs na prática](https://nicholasess.gitbooks.io/angularjs-na-pratica/content/)
  - [AngularJS para aplicações de larga escala](http://dsalvagni.com.br/angularjs-para-aplicacoes-de-larga-escala/)
+ - [16 Temas Administrativos para AngularJS](http://clubedosgeeks.com.br/programacao/angularjs/16-temas-free-angularjs)
+ - [Como criar uma diretiva em AngularJS](http://clubedosgeeks.com.br/sem-categoria/como-criar-uma-diretiva-em-angularjs)
 
 ## Angular 2
  * [Learn Angular 2 for Beginners](https://codek.tv/detail/learn-angularjs-2-tutorial-for-beginners-2016-complete)
@@ -310,6 +312,7 @@
      + [Propriedade Position do CSS](http://tableless.com.br/propriedade-position-do-css/)
      + [Animation](https://css-tricks.com/almanac/properties/a/animation/)
      + [8 efeitos de transição em CSS3 – CSS3 Transitions](http://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/)
+     + [Qual a diferença entre Animation e Transition CSS](http://pt.stackoverflow.com/questions/59044/qual-a-diferen%C3%A7a-entre-animation-e-transition-css)
  - [CSS Frameworks](#css-frameworks)
      + [Spectre.css](https://picturepan2.github.io/spectre/)
      + [Primer](http://primercss.io/)
