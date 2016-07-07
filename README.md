@@ -353,6 +353,7 @@
      - [Free Stock Photos of Workspaces and Office Desks for Website Hero Images](https://superdevresources.com/free-workspace-hero-images/)
      - [15 Awesome Free Tools & Resources for Web Developers](https://superdevresources.com/free-web-development-resources/)
      - [Free Images](https://superdevresources.com/directory/design-resources/free-images/)
+     - [Pexels - Best free stock photos in one place](https://www.pexels.com/)
 
 ## Java
 
