@@ -16,7 +16,8 @@
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angularjs)
  - [Angular 2](#angular-2)
- - [Vue.js](#vue)
+ - [Vue.js](#vue-js)
+ - [Node.js](#node-js)
  - [Front-end](#front-end)
  - [Web Design](#web-design)
  - [Java](#java)
@@ -194,6 +195,9 @@
  - [Domain-Driven Design in Laravel 5](http://code.tutsplus.com/tutorials/domain-driven-design-in-laravel-5--cms-26244)
  - [INSTALANDO LARAVEL EM AMBIENTE COMPARTILHADO LOCAWEB](http://thiagotmendes.com.br/instalando-laravel-em-ambiente-compartilhado-locaweb/)
  - [**Laravel + AngularJS – Upload de Arquivos**](http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos)
+ - [Setting up Multi Auth in Laravel 5.2](https://metricloop.com/blog/setting-up-multi-auth-in-laravel-52)
+ - [Get Laravel Route Parameters in Middleware](https://scotch.io/tutorials/get-laravel-route-parameters-in-middleware)
+ - [Laravel 5.3 New Features and Updates](https://scotch.io/tutorials/laravel-5-3-new-features-and-updates)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -286,6 +290,9 @@
  - [O que é Vuex](http://vuex.vuejs.org/pt/intro.html)
  - [Buscador de Cep - Postmon + VueJS + Bootstrap ](http://codepen.io/angelorubin/pen/yYrRQo)
  - [**Exprimentando Vue.js – aplicando no /dev/All**](http://www.itexto.net/devkico/?p=2500)
+
+## Node.js
+ * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 
 ## Front-end
  - [HTML](#html)
