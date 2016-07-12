@@ -260,6 +260,7 @@
 
 ## Angular 2
  * [Learn Angular 2 for Beginners](https://codek.tv/detail/learn-angularjs-2-tutorial-for-beginners-2016-complete)
+ * [Angular 2 – Best Practises to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
 
 ## Vue.js
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
