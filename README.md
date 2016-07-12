@@ -198,6 +198,8 @@
  - [Setting up Multi Auth in Laravel 5.2](https://metricloop.com/blog/setting-up-multi-auth-in-laravel-52)
  - [Get Laravel Route Parameters in Middleware](https://scotch.io/tutorials/get-laravel-route-parameters-in-middleware)
  - [Laravel 5.3 New Features and Updates](https://scotch.io/tutorials/laravel-5-3-new-features-and-updates)
+ - [Improvements to Authentication in Laravel 5.3](https://josephsilber.com/posts/2016/07/10/authentication-improvements-in-laravel-5-3#table-of-contents)
+ - [A Teaser of Laravel 5.3 – Watch Out What This New Version Gets With It](http://www.brainvire.com/a-teaser-of-laravel-5-3-watch-out-what-this-new-version-gets-with-it/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
