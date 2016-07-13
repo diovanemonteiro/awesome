@@ -200,6 +200,7 @@
  - [Laravel 5.3 New Features and Updates](https://scotch.io/tutorials/laravel-5-3-new-features-and-updates)
  - [Improvements to Authentication in Laravel 5.3](https://josephsilber.com/posts/2016/07/10/authentication-improvements-in-laravel-5-3#table-of-contents)
  - [A Teaser of Laravel 5.3 – Watch Out What This New Version Gets With It](http://www.brainvire.com/a-teaser-of-laravel-5-3-watch-out-what-this-new-version-gets-with-it/)
+ - [Laravel 5.2 - User ACL Roles and Permissions with Middleware using entrust from Scratch Tutorial](http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
