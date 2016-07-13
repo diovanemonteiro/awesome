@@ -257,6 +257,8 @@
  - [16 Temas Administrativos para AngularJS](http://clubedosgeeks.com.br/programacao/angularjs/16-temas-free-angularjs)
  - [Como criar uma diretiva em AngularJS](http://clubedosgeeks.com.br/sem-categoria/como-criar-uma-diretiva-em-angularjs)
  - [**Aprendendo AngularJS – minhas leituras**](http://www.itexto.net/devkico/?p=2469)
+ - [LEARN ABOUT THE BEST PRACTICES FOR BUILDING ANGULARJS APPS](http://www.design3edge.com/2016/07/11/learn-about-the-best-practices-for-building-angularjs-apps/)
+ - [ingle Page Application Login Example AngularJS](http://www.vetbossel.in/single-page-application-login-example-angularjs/)
 
 ## Angular 2
  * [Learn Angular 2 for Beginners](https://codek.tv/detail/learn-angularjs-2-tutorial-for-beginners-2016-complete)
