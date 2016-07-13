@@ -475,6 +475,7 @@
  - [Git Rebase for Reasonable Developers](https://dotdev.co/git-rebase-for-reasonable-developers-26dc8776dc25#.iee2sskyz)
  - [**Tudo o que você precisa saber sobre Git**](http://www.obomprogramador.com/2014/11/tudo-o-que-voce-precisa-saber-sobre-git.html)
  - [**Learn Git in 30 Minutes**](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+ - [**Git Cheatsheet**](http://ndpsoftware.com/git-cheatsheet.html)
 
 ## Jekyll
  - [Jekyll - Transforme seu texto simples em sites estáticos e blogs](http://jekyll-brasil.github.io/)
