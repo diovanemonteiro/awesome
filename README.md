@@ -298,6 +298,10 @@
  - [O que é Vuex](http://vuex.vuejs.org/pt/intro.html)
  - [Buscador de Cep - Postmon + VueJS + Bootstrap ](http://codepen.io/angelorubin/pen/yYrRQo)
  - [**Exprimentando Vue.js – aplicando no /dev/All**](http://www.itexto.net/devkico/?p=2500)
+ - [Extraindo o CSS de componentes VueJS para um arquivo separado](https://medium.com/@adams_alves/extraindo-o-css-de-componentes-vuejs-para-um-arquivo-separado-bb9e0553415a#.x9b6iosm8)
+ - [VueJS series. Part 1](https://medium.com/tldr-tech/vuejs-series-part-1-a452b1a63818#.jt70skbeq)
+ - [Quick-n-dirty way to deploy Vue + Webpack apps on Heroku](https://medium.com/@sagarjauhari/quick-n-dirty-way-to-deploying-vue-webpack-apps-on-heroku-4ab964ee536#.v5n9lqgnp)
+ - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
