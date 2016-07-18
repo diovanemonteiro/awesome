@@ -266,6 +266,7 @@
  * [Angular 2 – Best Practises to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
 
 ## Vue.js
+ - [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
  - [Vue.js News](https://vuejs-news.com/)
  - [Build an App with Vue.js a Lightweight Alternative to AngulaurJS](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs)
  - [Using Vue.js for non SPA’s](https://medium.com/@weblee/using-vue-js-for-non-spa-s-c2bd93f69d32#.c2ij4b5uy)
