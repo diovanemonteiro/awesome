@@ -515,6 +515,12 @@
  - [Como fiz meu site com Jekyll e GitHub Pages](http://ggio.com.br/blog/como-fiz-meu-site-com-jekyll-e-github-pages/)
  - [Blogging tools: O que estou usando](http://laggedhero.net/jekyll/2014/10/30/blogging-tools-what-im-using.html)
  - [Criando um blog com Octopress e Github Pages](http://tableless.com.br/criando-um-blog-com-octopress-e-github-pages/)
+ - [JEKYLL: CONSTRUINDO UM BLOG COM JEKYLL](http://fennawake.github.io/jekyll/desenvolvimento/automatizadores/2015/09/22/iniciando-com-jekyll.html)
+ - [Como criei meu blog com Jekyll](http://malvesgo.github.io/criando-blog-com-jekyll/)
+ - [Falando um pouco mais sobre o Jekyll](https://raphabarreto.com.br/2016/07/13/falando-sobre-jekyll/)
+ - [Como fazer um blog usando o Jekyll](http://vitorcapretz.me/blog/como-fazer-um-blog-usando-o-jekyll/)
+ - [Iniciando com Jekyll](http://devmateusmedeiros.com.br/iniciando-com-jekyll/)
+ - [Jekyll e Github Pages](http://www.victormartins.com.br/post/jekyll-e-github-pages/)
 
 ## Ghost
  * [Themes](#themes)
