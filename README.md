@@ -302,6 +302,9 @@
  - [VueJS series. Part 1](https://medium.com/tldr-tech/vuejs-series-part-1-a452b1a63818#.jt70skbeq)
  - [Quick-n-dirty way to deploy Vue + Webpack apps on Heroku](https://medium.com/@sagarjauhari/quick-n-dirty-way-to-deploying-vue-webpack-apps-on-heroku-4ab964ee536#.v5n9lqgnp)
  - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/)
+ - [Simple guide to authoring open-source Vue.js components](http://codetunes.com/2016/simple-guide-to-authoring-open-source-vue-js-components/)
+ - [**Conheça o Vue.js, um framework JavaScript para criação de componentes web reativos**](http://imasters.com.br/framework/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos)
+ - [**CRUD básico com Vue.js e json-server #2**](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-2/)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
