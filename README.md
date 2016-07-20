@@ -217,6 +217,7 @@
  * [JSONPlaceholder - Fake Online REST API for Testing and Prototyping](http://jsonplaceholder.typicode.com/)
  * [Designing REST API: Best Practices you Should be Following](https://medium.com/@PradyumnaKulkarni/designing-rest-api-best-practices-you-should-be-following-247bf26015a0#.pnnc8p5xc)
  * [Microservices Best Practices](https://blog.codeship.com/microservices-best-practices/)
+ * [Quer testar sua API? Guzzle e PHPUnit ao resgate (parte 01)](https://lukzgois.github.io/programa%C3%A7%C3%A3o/2016/07/18/testando-apis-guzzle-phpunit-pt-1.html)
 
 ## JavaScript
  - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
@@ -305,6 +306,7 @@
  - [Simple guide to authoring open-source Vue.js components](http://codetunes.com/2016/simple-guide-to-authoring-open-source-vue-js-components/)
  - [**Conheça o Vue.js, um framework JavaScript para criação de componentes web reativos**](http://imasters.com.br/framework/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos)
  - [**CRUD básico com Vue.js e json-server #2**](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-2/)
+ - [Vue.js — De amante casual pra uma relação estável](https://medium.com/@wesleysaraujo/vue-js-de-amante-casual-pra-uma-rela%C3%A7%C3%A3o-est%C3%A1vel-ddb1d796da07#.84jlbwdiq)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
