@@ -458,6 +458,7 @@
  - [Template Retrospective Techniques for Scrum Masters](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators)
  - [Template Scrum with Trello](https://trello.com/b/ultdy0tY/template-scrum-with-trello)
  - [**Como fazer listas ajudou na minha produtividade**](https://medium.com/brasil/como-fazer-listas-ajudou-na-minha-produtividade-83ab9bbfc6d5#.mx4k52btt)
+ - [Tools of the Trade: Software we love (or tolerate) at Tighten](https://blog.tighten.co/tools-of-the-trade-software-we-love-or-tolerate-at-tighten)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
