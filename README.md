@@ -308,6 +308,7 @@
  - [**CRUD básico com Vue.js e json-server #2**](http://www.vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-2/)
  - [Vue.js — De amante casual pra uma relação estável](https://medium.com/@wesleysaraujo/vue-js-de-amante-casual-pra-uma-rela%C3%A7%C3%A3o-est%C3%A1vel-ddb1d796da07#.84jlbwdiq)
  - [Create an App in VueJS 2](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/)
+ - [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
