@@ -310,6 +310,10 @@
  - [Create an App in VueJS 2](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/)
  - [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
  - [Tutorial express de Vue.js en español (4). Creación de componentes.](https://jsjutsu.com/blog/2016/07/tutorial-express-vuejs-4/)
+ - [Getting Started With Vue.js](https://www.sitepoint.com/getting-started-with-vue-js/)
+ - [What’s New in Vue.js 1.0](https://www.sitepoint.com/whats-new-in-vue-js-1-0/)
+ - [Vue-form-generator](http://icebob.github.io/vue-form-generator/)
+ - [VueStrap - Bootstrap components built with Vue.js.](https://yuche.github.io/vue-strap/)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
