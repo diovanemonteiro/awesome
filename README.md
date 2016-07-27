@@ -463,6 +463,8 @@
  - [Template Scrum with Trello](https://trello.com/b/ultdy0tY/template-scrum-with-trello)
  - [**Como fazer listas ajudou na minha produtividade**](https://medium.com/brasil/como-fazer-listas-ajudou-na-minha-produtividade-83ab9bbfc6d5#.mx4k52btt)
  - [Tools of the Trade: Software we love (or tolerate) at Tighten](https://blog.tighten.co/tools-of-the-trade-software-we-love-or-tolerate-at-tighten)
+ - [10 mandamentos para desenvolvedores alcançarem o equilíbrio entre a vida pessoal e profissional](http://blog.livecoding.tv/2016/07/11/10-mandamentos-para-desenvolvedores-alcancarem-o-equilibrio-entre-vida-pessoal-e-profissional/)
+ - [10 hábitos que acabam com a produtividade de um programador](http://blog.livecoding.tv/2016/03/28/10-habitos-que-acabam-com-a-produtividade-de-um-programador/)
 
 ## Database
  - [Dicas para trabalhar com modelos de dados grandes](http://imasters.com.br/banco-de-dados/dicas-para-trabalhar-com-modelos-de-dados-grandes)
@@ -538,6 +540,8 @@
  - [Como fazer um blog usando o Jekyll](http://vitorcapretz.me/blog/como-fazer-um-blog-usando-o-jekyll/)
  - [Iniciando com Jekyll](http://devmateusmedeiros.com.br/iniciando-com-jekyll/)
  - [Jekyll e Github Pages](http://www.victormartins.com.br/post/jekyll-e-github-pages/)
+ - [3 ways to specify categories and tags in Jekyll](http://tech.nitoyon.com/en/blog/2013/04/17/jekyll-pluralize/)
+ - [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/)
 
 ## Ghost
  * [Themes](#themes)
