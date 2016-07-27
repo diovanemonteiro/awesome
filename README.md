@@ -69,6 +69,7 @@
  -  [PHP CodeSniffer](http://www.diegobrocanelli.com.br/php/php-codesniffer/)
  -  [Why Care About PHP Middleware?](https://philsturgeon.uk/2016/05/31/why-care-about-php-middleware/)
  -  [Hospedando aplicação PHP no Heroku](http://www.phprs.com.br/2016/06/hospedando-aplicacao-php-no-heroku/)
+ -  [O PHP está morto?](http://blog.livecoding.tv/2016/07/26/php-esta-morto/)
  
 ## Composer
  - [Five Composer Tips Every PHP Developer Should Know](https://nomadphp.com/2016/04/12/five-composer-tips-every-php-developer-know/)
