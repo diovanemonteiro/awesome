@@ -543,6 +543,10 @@
  - [Jekyll e Github Pages](http://www.victormartins.com.br/post/jekyll-e-github-pages/)
  - [3 ways to specify categories and tags in Jekyll](http://tech.nitoyon.com/en/blog/2013/04/17/jekyll-pluralize/)
  - [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/)
+ - [Adding Disqus to a Jekyll Blog](http://sgeos.github.io/jekyll/disqus/2016/02/14/adding-disqus-to-a-jekyll-blog.html)
+ - [Adding comments to Jekyll blog](http://blog.webjeda.com/jekyll-comments/)
+ - [Adding Disqus to Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
+ - [Adding Disqus Comments To Jekyll Blog](http://www.web2sons.xyz/2016/04/29/adding_disqus_comments_to_jekyll.html)
 
 ## Ghost
  * [Themes](#themes)
