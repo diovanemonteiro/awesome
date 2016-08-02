@@ -316,6 +316,7 @@
  - [What’s New in Vue.js 1.0](https://www.sitepoint.com/whats-new-in-vue-js-1-0/)
  - [Vue-form-generator](http://icebob.github.io/vue-form-generator/)
  - [VueStrap - Bootstrap components built with Vue.js.](https://yuche.github.io/vue-strap/)
+ - [Announcing Vuedo: An open source project built with Laravel and Vue.js](https://dotdev.co/announcing-vuedo-an-open-source-project-built-with-laravel-and-vue-js-84f371409401#.bxh4zyw2y)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
