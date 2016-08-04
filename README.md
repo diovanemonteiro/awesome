@@ -588,6 +588,12 @@
  - [CONFIGURANDO UM VPS PARA HOSPEDAGEM DE SITE – PARTE 1: INTRODUÇÃO](http://fatorbinario.com/configurando-um-vps-para-hospedagem-de-site-parte-1-introducao/)
  - [VPS Digital Ocean: primeiros passos com hospedagem Linux](https://mariano.eng.br/vps-digital-ocean-primeiros-passos-hospedagem-sites-linux/)
  - [Hospedagem na Digital Ocean](http://icaromelo.com/hospedagem-na-digital-ocean/)
+ - [Setting up PHP 7 Servers with Laravel Forge and DigitalOcean](https://www.sitepoint.com/setting-up-php-7-servers-with-laravel-forge-and-digitalocean/)
+ - [Deploy PHP Apps Easily with Laravel Forge](https://scotch.io/tutorials/deploy-php-apps-easily-with-laravel-forge)
+ - [How To Host Laravel 5.2 On Cloud](https://www.cloudways.com/blog/host-laravel-5-2-on-cloud/)
+ - [How to Install Laravel with an Nginx Web Server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-laravel-with-an-nginx-web-server-on-ubuntu-14-04)
+ - [Instalando Laravel 5 na DigitalOcean](https://rafaell-lycan.com/2015/instalando-laravel-digital-ocean/)
+ - [How To Install Laravel On DigitalOcean](https://www.cloudways.com/blog/install-laravel-on-digitalocean/)
 
 ## Docker
  - [Iniciando com o Docker: dicas práticas para começar a usar agora mesmo](http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/)
