@@ -202,6 +202,8 @@
  - [Improvements to Authentication in Laravel 5.3](https://josephsilber.com/posts/2016/07/10/authentication-improvements-in-laravel-5-3#table-of-contents)
  - [A Teaser of Laravel 5.3 – Watch Out What This New Version Gets With It](http://www.brainvire.com/a-teaser-of-laravel-5-3-watch-out-what-this-new-version-gets-with-it/)
  - [Laravel 5.2 - User ACL Roles and Permissions with Middleware using entrust from Scratch Tutorial](http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html)
+ - [Build Scalable Newsfeeds with PHP 7 and Laravel – in 60 Minutes](http://blog.getstream.io/build-scalable-newsfeeds-with-php-7-and-laravel-in-60-minutes)
+ - [WHAT’S NEW IN LARAVEL 5.3 RELEASE](http://imrealashu.in/code/laravel/whats-new-in-laravel-5-3/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
