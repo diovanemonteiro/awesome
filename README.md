@@ -204,6 +204,7 @@
  - [Laravel 5.2 - User ACL Roles and Permissions with Middleware using entrust from Scratch Tutorial](http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html)
  - [Build Scalable Newsfeeds with PHP 7 and Laravel – in 60 Minutes](http://blog.getstream.io/build-scalable-newsfeeds-with-php-7-and-laravel-in-60-minutes)
  - [WHAT’S NEW IN LARAVEL 5.3 RELEASE](http://imrealashu.in/code/laravel/whats-new-in-laravel-5-3/)
+ - [PHP framework Laravel selects Vue.js as default JavaScript framework](http://react-etc.net/entry/php-framework-laravel-selects-vue-js-as-default-javascript-framework)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
