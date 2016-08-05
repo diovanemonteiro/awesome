@@ -566,6 +566,8 @@
 
 ## Mobile
  - [Nativo x Híbrido discussão final parte 01](http://imasters.com.br/desenvolvimento/nativo-x-hibrido-discussao-final-parte-01/)
+ - [O que são Progressive Web Apps?](http://arquiteturadeinformacao.com/mobile/o-que-sao-progressive-web-apps/)
+ - [Um fluxograma para você decidir entre App ou Site Mobile](http://arquiteturadeinformacao.com/mobile/um-fluxograma-para-voce-decidir-entre-app-ou-site-mobile/)
  - [Ionic](#ionic)
      + [How to Deploy Hybrid Mobile App using Ionic Framework on Heroku](https://medium.com/@nomanyaqoob/how-to-deploy-hybrid-mobile-app-using-ionic-framework-on-heroku-889c2600805b#.w2045s6ge)
      + [Ambiente de Desenvolvimento Ionic Framework no Ubuntu 14.04 (com Vagrant)](https://medium.com/@matheuslao/ambiente-de-desenvolvimento-ionic-framework-no-ubuntu-14-04-com-vagrant-72d85d1ce7eb#.687q7o93a)
