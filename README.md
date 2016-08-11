@@ -205,6 +205,8 @@
  - [Build Scalable Newsfeeds with PHP 7 and Laravel – in 60 Minutes](http://blog.getstream.io/build-scalable-newsfeeds-with-php-7-and-laravel-in-60-minutes)
  - [WHAT’S NEW IN LARAVEL 5.3 RELEASE](http://imrealashu.in/code/laravel/whats-new-in-laravel-5-3/)
  - [PHP framework Laravel selects Vue.js as default JavaScript framework](http://react-etc.net/entry/php-framework-laravel-selects-vue-js-as-default-javascript-framework)
+ - [Backup/Restore All Databases In Laravel Homestead](https://medium.com/laravel-news/backup-restore-all-databases-in-laravel-homestead-41475a3d7d7a#.shqr4lx6m)
+ - [Backing Up Laravel Homestead Databases](https://gilbert.pellegrom.me/backing-up-laravel-homestead-databases/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
