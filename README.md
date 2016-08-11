@@ -322,6 +322,11 @@
  - [Vue-form-generator](http://icebob.github.io/vue-form-generator/)
  - [VueStrap - Bootstrap components built with Vue.js.](https://yuche.github.io/vue-strap/)
  - [Announcing Vuedo: An open source project built with Laravel and Vue.js](https://dotdev.co/announcing-vuedo-an-open-source-project-built-with-laravel-and-vue-js-84f371409401#.bxh4zyw2y)
+ - [How popular is VueJS in the industry?](https://www.quora.com/How-popular-is-VueJS-in-the-industry)
+ - [Getting started with Vue.js](http://www.amitavroy.com/justread/content/articles/getting-started-with-vue-js/)
+ - [The Majesty Of Vue.js](https://leanpub.com/vuejs/c/Summerdays?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
+ - [Vue.js examples with code](http://vuejs-examples.netlify.com/#!/)
+ - [Vue.js File Upload](https://codepen.io/Atinux/pen/qOvawK)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
