@@ -207,6 +207,7 @@
  - [PHP framework Laravel selects Vue.js as default JavaScript framework](http://react-etc.net/entry/php-framework-laravel-selects-vue-js-as-default-javascript-framework)
  - [Backup/Restore All Databases In Laravel Homestead](https://medium.com/laravel-news/backup-restore-all-databases-in-laravel-homestead-41475a3d7d7a#.shqr4lx6m)
  - [Backing Up Laravel Homestead Databases](https://gilbert.pellegrom.me/backing-up-laravel-homestead-databases/)
+ - [Laravel 5 - Multiple Images Uploading using dropzone.js example with demo](http://itsolutionstuff.com/post/laravel-5-multiple-images-uploading-using-dropzonejs-example-with-demoexample.html)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -327,6 +328,7 @@
  - [The Majesty Of Vue.js](https://leanpub.com/vuejs/c/Summerdays?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
  - [Vue.js examples with code](http://vuejs-examples.netlify.com/#!/)
  - [Vue.js File Upload](https://codepen.io/Atinux/pen/qOvawK)
+ - [Memory card game with VueJS](http://codepen.io/icebob/full/RRLvAg)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
