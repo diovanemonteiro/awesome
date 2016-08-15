@@ -329,6 +329,7 @@
  - [Vue.js examples with code](http://vuejs-examples.netlify.com/#!/)
  - [Vue.js File Upload](https://codepen.io/Atinux/pen/qOvawK)
  - [Memory card game with VueJS](http://codepen.io/icebob/full/RRLvAg)
+ - [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
