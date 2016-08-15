@@ -101,7 +101,7 @@
  - [Important features of Laravel which make it the finest PHP framework ever](http://www.conversionbug.com/important-features-of-laravel-which-make-it-the-finest-php-framework-ever)
  - [Eloquent Create, Update, New...the Untold Story](http://codebyjeff.com/blog/2016/04/eloquent-create-update-new-the-untold-story)
  - [Adding Foreign Key References Using a Laravel Migration](http://www.easylaravelbook.com/blog/2016/03/31/adding-foreign-key-references-using-a-laravel-migration/)
- - [Intro & Referências de Conteúdo Sobre Laravel](https://medium.com/@cbcaio/intro-refer%C3%AAncias-de-conte%C3%BAdo-66485ecdadf8#.m6srndghi)]
+ - [Intro & Referências de Conteúdo Sobre Laravel](https://medium.com/@cbcaio/intro-refer%C3%AAncias-de-conte%C3%BAdo-66485ecdadf8#.m6srndghi)
  - [Setting up UUIDs in Laravel 5+](https://medium.com/@steveazz/setting-up-uuids-in-laravel-5-552412db2088#.v173beman)
  - [How to craft a digital e-shop with Laravel – Part1](https://www.codetutorial.io/how-to-craft-a-digital-e-shop-with-laravel/)
  - [A Guide to Using Eloquent ORM in Laravel](https://scotch.io/tutorials/a-guide-to-using-eloquent-orm-in-laravel)
@@ -127,7 +127,7 @@
  - [Configuring Multiple Laravel Homestead Sites and Databases](http://www.easylaravelbook.com/blog/2016/03/23/configuring-multiple-laravel-homestead-sites-and-databases/)
  - [Handling Laravel's ModelNotFoundException (Nonexistent Records)](http://www.easylaravelbook.com/blog/2016/03/29/handling-laravels-modelnotfoundexception-nonexistent-records/)
  - [Laravel 5 and AngularJS token based authentication Part 2](https://www.codetutorial.io/laravel-and-angularjs-token-based-authentication-part-2/)
- - [https://blog.sriraman.in/laravel-eloquent-vs-fluent-query-builder/](https://blog.sriraman.in/laravel-eloquent-vs-fluent-query-builder/)
+ - [Laravel Eloquent vs Fluent Query Builder](https://blog.sriraman.in/laravel-eloquent-vs-fluent-query-builder/)
  - [Por que facades são um problema seu e não do Laravel?](https://medium.com/by-vinicius-reis/por-que-facades-%C3%A9-um-problema-seu-e-n%C3%A3o-do-laravel-8672bb80c74c#.txahrylkr)
  - [Trabalhando com seeds no Laravel 5](https://medium.com/by-vinicius-reis/trabalhando-com-seeds-no-laravel-5-142829ddc32e#.mrbab174g)
  - [Quick Start Guide: Laravel 5, vue.js & Bootstrap 3](https://asked.io/quick-start-guide--laravel-5--vue-js---bootstrap-3)
@@ -208,6 +208,7 @@
  - [Backup/Restore All Databases In Laravel Homestead](https://medium.com/laravel-news/backup-restore-all-databases-in-laravel-homestead-41475a3d7d7a#.shqr4lx6m)
  - [Backing Up Laravel Homestead Databases](https://gilbert.pellegrom.me/backing-up-laravel-homestead-databases/)
  - [Laravel 5 - Multiple Images Uploading using dropzone.js example with demo](http://itsolutionstuff.com/post/laravel-5-multiple-images-uploading-using-dropzonejs-example-with-demoexample.html)
+ - [6 Reasons to Move to Laravel Homestead](https://www.sitepoint.com/6-reasons-move-laravel-homestead/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
