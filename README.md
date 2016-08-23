@@ -209,6 +209,7 @@
  - [Backing Up Laravel Homestead Databases](https://gilbert.pellegrom.me/backing-up-laravel-homestead-databases/)
  - [Laravel 5 - Multiple Images Uploading using dropzone.js example with demo](http://itsolutionstuff.com/post/laravel-5-multiple-images-uploading-using-dropzonejs-example-with-demoexample.html)
  - [6 Reasons to Move to Laravel Homestead](https://www.sitepoint.com/6-reasons-move-laravel-homestead/)
+ - [DevClass Videos](http://devclass.co/topics/13/Laravel)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -327,7 +328,7 @@
  - [How popular is VueJS in the industry?](https://www.quora.com/How-popular-is-VueJS-in-the-industry)
  - [Getting started with Vue.js](http://www.amitavroy.com/justread/content/articles/getting-started-with-vue-js/)
  - [The Majesty Of Vue.js](https://leanpub.com/vuejs/c/Summerdays?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
- - [Vue.js examples with code](http://vuejs-examples.netlify.com/#!/)
+ - [Vue.js examples with code](http://vuejs-examples.netlify.com/)
  - [Vue.js File Upload](https://codepen.io/Atinux/pen/qOvawK)
  - [Memory card game with VueJS](http://codepen.io/icebob/full/RRLvAg)
  - [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
