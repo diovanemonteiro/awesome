@@ -210,6 +210,10 @@
  - [Laravel 5 - Multiple Images Uploading using dropzone.js example with demo](http://itsolutionstuff.com/post/laravel-5-multiple-images-uploading-using-dropzonejs-example-with-demoexample.html)
  - [6 Reasons to Move to Laravel Homestead](https://www.sitepoint.com/6-reasons-move-laravel-homestead/)
  - [DevClass Videos](http://devclass.co/topics/13/Laravel)
+ - [HOW TO INSTALL LARAVEL 5 APPLICATION IN DIFFERENT VERSIONS](https://laradevtips.com/2016/08/24/how-to-install-laravel-application-5-and-4/)
+ - [What's new in Laravel 5.3](http://www.discoversdk.com/blog/whats-new-in-laravel-5.3)
+ - [Laravel Review](http://www.discoversdk.com/products/laravel#/overview)
+ - [Laravel vs CakePHP](http://www.discoversdk.com/blog/laravel-vs-cakephp)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -332,6 +336,7 @@
  - [Vue.js File Upload](https://codepen.io/Atinux/pen/qOvawK)
  - [Memory card game with VueJS](http://codepen.io/icebob/full/RRLvAg)
  - [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
+ - [6 Best JavaScript Frameworks to Learn In 2016](http://www.discoversdk.com/blog/6-best-javascript-frameworks-to-learn-in-2016)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
