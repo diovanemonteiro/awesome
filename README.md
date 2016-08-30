@@ -253,6 +253,8 @@
  - [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
  - [Single Page Application (SPA) usando AngularJS com Web API – Parte 03](http://imasters.com.br/front-end/javascript/single-page-application-spa-usando-angularjs-com-web-api-parte-03/)
  - [15 Awesome Free JavaScript Libraries to Enhance your Web Applications](https://superdevresources.com/free-javascript-libraries-web-apps/)
+ - [Single Page Applications: Onde vivem e o que comem](https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de#.idk4t7oj5)
+ - [A ERA das Single Page Applications](https://medium.com/@monica85rodrigues/a-era-das-single-page-applications-9d133f260b01#.9gy33kj5r)
 
 ## AngularJS
  - [Themes](#themes)
@@ -344,6 +346,8 @@
  - [Countdown Timer using Vue.js](http://fareez.info/blog/countdown-timer-using-vuejs/)
  - [Create your own Autocomplete using Vue.js](http://fareez.info/blog/create-your-own-autocomplete-using-vuejs/)
  - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs)
+ - [Vue.js — Construindo um SPA (Single Page Application) com vue-cli, vue-router, vue-resouce e Vuex (Parte 1)](https://medium.com/@wesleysaraujo/vue-js-construindo-um-spa-single-page-application-com-vue-cli-vue-router-vue-resouce-e-vue-ex-116bf877e158#.5qac8ruhw)
+ - [Top 7 reasons to try Vue.js in 2016](https://medium.com/front-end-hacking/top-7-reasons-to-try-vue-js-in-2016-8c9255e2aa92#.a5yv16v28)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
