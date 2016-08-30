@@ -214,6 +214,9 @@
  - [What's new in Laravel 5.3](http://www.discoversdk.com/blog/whats-new-in-laravel-5.3)
  - [Laravel Review](http://www.discoversdk.com/products/laravel#/overview)
  - [Laravel vs CakePHP](http://www.discoversdk.com/blog/laravel-vs-cakephp)
+ - [Easy and Fast Emails with Laravel 5.3 Mailables](https://scotch.io/tutorials/easy-and-fast-emails-with-laravel-5-3-mailables)
+ - [The Ultimate Guide to Sending Email in Laravel](https://scotch.io/tutorials/ultimate-guide-on-sending-email-in-laravel)
+ - [Brief Overview Of Design Patterns Used in Laravel](https://www.dunebook.com/brief-overview-of-design-patterns-used-in-laravel)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
