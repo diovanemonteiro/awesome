@@ -340,6 +340,10 @@
  - [Memory card game with VueJS](http://codepen.io/icebob/full/RRLvAg)
  - [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
  - [6 Best JavaScript Frameworks to Learn In 2016](http://www.discoversdk.com/blog/6-best-javascript-frameworks-to-learn-in-2016)
+ - [Hello World in Vue.js](https://alligator.io/vuejs/hello-world-vuejs)
+ - [Countdown Timer using Vue.js](http://fareez.info/blog/countdown-timer-using-vuejs/)
+ - [Create your own Autocomplete using Vue.js](http://fareez.info/blog/create-your-own-autocomplete-using-vuejs/)
+ - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
