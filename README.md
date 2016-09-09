@@ -16,8 +16,8 @@
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angularjs)
  - [Angular 2](#angular-2)
- - [Vue.js](#vue-js)
- - [Node.js](#node-js)
+ - [Vue.js](#vuejs)
+ - [Node.js](#nodejs)
  - [Front-end](#front-end)
  - [Web Design](#web-design)
  - [Java](#java)
@@ -217,6 +217,19 @@
  - [Easy and Fast Emails with Laravel 5.3 Mailables](https://scotch.io/tutorials/easy-and-fast-emails-with-laravel-5-3-mailables)
  - [The Ultimate Guide to Sending Email in Laravel](https://scotch.io/tutorials/ultimate-guide-on-sending-email-in-laravel)
  - [Brief Overview Of Design Patterns Used in Laravel](https://www.dunebook.com/brief-overview-of-design-patterns-used-in-laravel)
+ - [Make migration command: did you know about parameters?](http://laraveldaily.com/make-migration-know-parameters/)
+ - [Auth: login with username instead of email](http://laraveldaily.com/auth-login-with-username-instead-of-email/)
+ - [Laravel 5.2 Authentication Custom User Providers](https://blog.georgebuckingham.com/laravel-52-auth-custom-user-providers-drivers/)
+ - [Custom Authentication (SignIn / SignUp) in Laravel](http://justlaravel.com/custom-authentication-laravel/)
+ - [Simple and Easy Laravel Login Authentication](https://scotch.io/tutorials/simple-and-easy-laravel-login-authentication)
+ - [Laravel 5 Whoops](http://blog.spohess.com.br/2015/09/01/laravel-5-whoops/)
+ - [Laravel Auth](http://blog.spohess.com.br/2015/08/26/laravel-auth/)
+ - [Creating a Modular Application in Laravel 5.1](http://kamranahmed.info/blog/2015/12/03/creating-a-modular-application-in-laravel/)
+ - [Creating a database and migrating our URL shortener’s table](https://www.dunebook.com/build-a-link-shortner-app-using-laravel/)
+ - [ADD ROLE-BASED PERMISSIONS IN LARAVEL](https://www.dunebook.com/add-role-based-permissions-to-laravel-in-laravel-5-1/)
+ - [Building Web Applications From Scratch With Laravel](http://code.tutsplus.com/tutorials/building-web-applications-from-scratch-with-laravel--net-25517)
+ - [EASY WAY TO MANAGE OR ADD MODULES IN LARAVEL 5.1](https://www.dunebook.com/easy-to-manage-or-add-modules-in-laravel-5-1/)
+ - [Laravel 5.3: Migração Suave na Nave](https://blog.codecasts.com.br/laravel-5-3-migra%C3%A7%C3%A3o-suave-na-nave-e498ea429cf7#.od872g1zp)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -348,6 +361,7 @@
  - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs)
  - [Vue.js — Construindo um SPA (Single Page Application) com vue-cli, vue-router, vue-resouce e Vuex (Parte 1)](https://medium.com/@wesleysaraujo/vue-js-construindo-um-spa-single-page-application-com-vue-cli-vue-router-vue-resouce-e-vue-ex-116bf877e158#.5qac8ruhw)
  - [Top 7 reasons to try Vue.js in 2016](https://medium.com/front-end-hacking/top-7-reasons-to-try-vue-js-in-2016-8c9255e2aa92#.a5yv16v28)
+ - [Conheça o Vue.js, um framework JavaScript para criação de componentes web reativos](http://imasters.com.br/front-end/javascript/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
