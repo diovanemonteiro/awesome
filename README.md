@@ -230,6 +230,10 @@
  - [Building Web Applications From Scratch With Laravel](http://code.tutsplus.com/tutorials/building-web-applications-from-scratch-with-laravel--net-25517)
  - [EASY WAY TO MANAGE OR ADD MODULES IN LARAVEL 5.1](https://www.dunebook.com/easy-to-manage-or-add-modules-in-laravel-5-1/)
  - [Laravel 5.3: Migração Suave na Nave](https://blog.codecasts.com.br/laravel-5-3-migra%C3%A7%C3%A3o-suave-na-nave-e498ea429cf7#.od872g1zp)
+ - [Laravel Collections: PHP Arrays On Steroids](https://scotch.io/tutorials/laravel-collections-php-arrays-on-steroids)
+ - [Code Bright: Eloquent Collections](https://daylerees.com/codebright-eloquent-collections/)
+ - [10 less-known (but awesome!) Laravel Collections methods](http://laraveldaily.com/10-less-known-but-awesome-laravel-collections-methods/)
+ - [Learn TDD in Laravel](http://learntdd.in/laravel/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
