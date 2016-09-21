@@ -7,7 +7,7 @@
 ## Table of Contents
  - [PHP](#php)
  - [Composer](#composer)
- - [Laravel](/blob/master/source/laravel.md)
+ - [Laravel](/source/laravel.md)
  - [Lumen](#lumen)
  - [CakePHP](#cakephp)
  - [Zend Framework](#zend-framework)
@@ -16,7 +16,7 @@
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angularjs)
  - [Angular 2](#angular-2)
- - [Vue.js](/blob/master/source/vuejs.md)
+ - [Vue.js](/source/vuejs.md)
  - [Node.js](#nodejs)
  - [Front-end](#front-end)
  - [Web Design](#web-design)
