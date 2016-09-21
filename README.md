@@ -7,7 +7,7 @@
 ## Table of Contents
  - [PHP](#php)
  - [Composer](#composer)
- - [Laravel](#laravel)
+ - [Laravel](/blob/master/source/laravel.md)
  - [Lumen](#lumen)
  - [CakePHP](#cakephp)
  - [Zend Framework](#zend-framework)
@@ -16,7 +16,7 @@
  - [Single Page Applications](#single-page-applications)
  - [AngularJS](#angularjs)
  - [Angular 2](#angular-2)
- - [Vue.js](#vuejs)
+ - [Vue.js](/blob/master/source/vuejs.md)
  - [Node.js](#nodejs)
  - [Front-end](#front-end)
  - [Web Design](#web-design)
@@ -368,7 +368,7 @@
  - [Top 7 reasons to try Vue.js in 2016](https://medium.com/front-end-hacking/top-7-reasons-to-try-vue-js-in-2016-8c9255e2aa92#.a5yv16v28)
  - [Conheça o Vue.js, um framework JavaScript para criação de componentes web reativos](http://imasters.com.br/front-end/javascript/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos)
  - [Vue.js não é um Angular simplificado](https://blog.codecasts.com.br/vue-js-nao-e-um-angular-simplificado-6394c18cc689#.7u4bix5ez)
- - [[Prévia] Ambientum: Laravel e VueJS 100% Dockerizados](https://blog.codecasts.com.br/ambientum-laravel-e-vuejs-100-dockerizados-733ebb4b1ffb#.vwalawdlq)
+ - [[Prévia] Ambientum: Laravel e VueJS 100% Dockerizados](https://blog.codecasts.com.br/ambientum-laravel-e-vuejs-100-dockerizados-733ebb4b1ffb#.vwalawdl)q
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
