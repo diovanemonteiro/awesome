@@ -234,6 +234,7 @@
  - [Code Bright: Eloquent Collections](https://daylerees.com/codebright-eloquent-collections/)
  - [10 less-known (but awesome!) Laravel Collections methods](http://laraveldaily.com/10-less-known-but-awesome-laravel-collections-methods/)
  - [Learn TDD in Laravel](http://learntdd.in/laravel/)
+ - [How to import CSV data to local database in laravel](http://justlaravel.com/import-csv-data-store-database/)
 
 ## Lumen
  - [Build an API with Lumen and Fractal](https://laravelista.com/build-an-api-with-lumen-and-fractal/)
@@ -366,6 +367,8 @@
  - [Vue.js — Construindo um SPA (Single Page Application) com vue-cli, vue-router, vue-resouce e Vuex (Parte 1)](https://medium.com/@wesleysaraujo/vue-js-construindo-um-spa-single-page-application-com-vue-cli-vue-router-vue-resouce-e-vue-ex-116bf877e158#.5qac8ruhw)
  - [Top 7 reasons to try Vue.js in 2016](https://medium.com/front-end-hacking/top-7-reasons-to-try-vue-js-in-2016-8c9255e2aa92#.a5yv16v28)
  - [Conheça o Vue.js, um framework JavaScript para criação de componentes web reativos](http://imasters.com.br/front-end/javascript/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos)
+ - [Vue.js não é um Angular simplificado](https://blog.codecasts.com.br/vue-js-nao-e-um-angular-simplificado-6394c18cc689#.7u4bix5ez)
+ - [[Prévia] Ambientum: Laravel e VueJS 100% Dockerizados](https://blog.codecasts.com.br/ambientum-laravel-e-vuejs-100-dockerizados-733ebb4b1ffb#.vwalawdlq)
 
 ## Node.js
  * [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
