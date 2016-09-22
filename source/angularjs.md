@@ -1,4 +1,4 @@
-![AngularJS](../images/angularjs.jpg "AngularJS")
+![AngularJS](/images/angularjs.jpg "AngularJS")
 
 # Themes 
  * [Transform](http://iarouse.com/admin-transform-alt/v2/index.html#/dashboard)
