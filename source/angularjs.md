@@ -1,6 +1,7 @@
+![AngularJS](../images/angularjs.jpg "AngularJS")
+
 # Themes 
-  * [Themes](#themes)
-     * [Transform](http://iarouse.com/admin-transform-alt/v2/index.html#/dashboard)
+ * [Transform](http://iarouse.com/admin-transform-alt/v2/index.html#/dashboard)
 
 # Tutorials
 
