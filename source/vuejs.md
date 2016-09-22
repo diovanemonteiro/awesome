@@ -1,6 +1,7 @@
 # Blogs
 
  * [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
+ * [Codecasts](https://blog.codecasts.com.br/tagged/vuejs)
 
 # Tutorials
 
@@ -19,3 +20,6 @@
  * [Form Validation using Vue.js 2](https://dotdev.co/form-validation-using-vue-js-2-35abd6b18c5d#.6ccrxciyo)
  * [Vee-Validate](http://vee-validate.logaretm.com/)
  * [Vue.js for Interactive Web Interfaces](http://vegibit.com/vue-js-for-interactive-web-interfaces/)
+ * [Vuex a implementação da arquitetura flux de forma descomplicada](https://medium.com/@Juscilan/vuex-a-implementa%C3%A7%C3%A3o-da-arquitetura-flux-de-forma-descomplicada-98bcc979de2f#.u25e4nxrm)
+ * [Laravel JWT Auth with Vue.js](http://jimfrenette.com/2016/09/laravel-vuejs-jwt-auth/)
+ * [**DATA FLOW IN VUE AND VUEX**](https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/)
