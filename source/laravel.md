@@ -1,4 +1,4 @@
-![Laravel](../images/laravel_logo.jpg "Laravel")
+![Laravel](../images/laravel_logo.png "Laravel")
 
 # Laravel Feed
 
