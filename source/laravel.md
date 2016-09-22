@@ -1,3 +1,5 @@
+![Laravel](../images/laravel_logo.jpg "Laravel")
+
 # Laravel Feed
 
  * [Laravel JWT Auth with Vue.js](http://jimfrenette.com/2016/09/laravel-vuejs-jwt-auth/)
