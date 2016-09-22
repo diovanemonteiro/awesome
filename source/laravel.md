@@ -24,6 +24,7 @@
  * [Scotch.io](https://scotch.io/tag/laravel)
  * [Itsolutionstuff](http://itsolutionstuff.com/)
  * [Matt Stauffer](https://mattstauffer.co/blog)
+ * [Codecasts](https://blog.codecasts.com.br/tagged/laravel)
  * [Tutsnare](http://tutsnare.com/category/tutorials/laravel/)
  * [Easylaravelbook](http://www.easylaravelbook.com/blog/)
  * [Neontsunami](https://www.neontsunami.com/tags/laravel)
@@ -81,7 +82,7 @@
  * [How to Use Laravel Config Files](https://scotch.io/tutorials/how-to-use-laravel-config-files)
  * [How to setup table schema with Laravel migration](http://www.codechewing.com/library/setup-table-schema-laravel-migration/)
  * [Laravel 5.3 - import export csv and excel file into database](http://itsolutionstuff.com/post/laravel-53-import-export-csv-and-excel-file-into-databaseexample.html)
- * [Build search functionality with Laravel Scout and Vue.js](https://scotch.io/tutorials/build-search-functionality-with-laravel-scout-and-vue-js)
+ * [**Build search functionality with Laravel Scout and Vue.js**](https://scotch.io/tutorials/build-search-functionality-with-laravel-scout-and-vue-js)
  * [**Creating your first Laravel app and adding authentication**](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
  * [Bruno Škvorc: work at SitePoint, Laravel’s popularity and Freelancing](http://laraveldaily.com/bruno-skvorc-work-sitepoint-laravel-popularity-freelancing/)
  * [10 Fresh Laravel Packages – September 2016](http://laraveldaily.com/10-fresh-laravel-packages-september-2016/)
@@ -101,6 +102,7 @@
  * [Create Form Elements Using Laravel and Bootstrap](http://vegibit.com/create-form-elements-using-laravel-and-bootstrap/)
  * [Laravel File Structure](http://vegibit.com/laravel-file-structure/)
  * [What is a Laravel Interface?](http://vegibit.com/what-is-a-laravel-interface/)
+ * [Docker, Rancher, & Laravel: Easy & Safe Scalability!](https://medium.com/@asked_io/docker-rancher-laravel-easy-safe-scalability-4e6eb8758232#.phqqd12yq)
 
 # Laravel Tips
  * [Laravel 5 Tutorial : How to use Validation in Laravel 5.3](http://www.hc-kr.com/2016/09/laravel-5-how-to-use-validation.html)
