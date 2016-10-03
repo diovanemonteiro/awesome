@@ -23,3 +23,8 @@
  * [Vuex a implementação da arquitetura flux de forma descomplicada](https://medium.com/@Juscilan/vuex-a-implementa%C3%A7%C3%A3o-da-arquitetura-flux-de-forma-descomplicada-98bcc979de2f#.u25e4nxrm)
  * [Laravel JWT Auth with Vue.js](http://jimfrenette.com/2016/09/laravel-vuejs-jwt-auth/)
  * [**DATA FLOW IN VUE AND VUEX**](https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/)
+ * [WHY VUE (NOT REACT) IS THE NEW JQUERY](http://anyonecanlearntocode.com/blog_posts/why-vue-not-react-is-the-new-jquery)
+ * [Learn Vue.js by building a to-do list app](https://ayoisaiah.com/vuejs-todolist-app/)
+ * [Laravel Development with Elixir + Vue + Hot Reloading](https://medium.com/@jilsonthomas/laravel-development-with-elixir-vue-hot-reloading-a598ad2670f8#.i4e11pcxe)
+ * [THE PRACTICAL GUIDE TO BUILDING DATA DRIVEN WEB APPS WITH VUE.JS](https://medium.com/@nohkachi/the-practical-guide-to-building-data-driven-web-apps-with-vue-js-32bd03c1a5a9#.hka9z5nbo)
+ * [Make your own Autocomplete Component quickly using Vue.js](https://medium.com/@fareez_ahamed/make-your-own-autocomplete-component-quickly-using-vue-js-21a642e8b140#.lzhadvcfp)
