@@ -28,3 +28,13 @@
  * [Laravel Development with Elixir + Vue + Hot Reloading](https://medium.com/@jilsonthomas/laravel-development-with-elixir-vue-hot-reloading-a598ad2670f8#.i4e11pcxe)
  * [THE PRACTICAL GUIDE TO BUILDING DATA DRIVEN WEB APPS WITH VUE.JS](https://medium.com/@nohkachi/the-practical-guide-to-building-data-driven-web-apps-with-vue-js-32bd03c1a5a9#.hka9z5nbo)
  * [Make your own Autocomplete Component quickly using Vue.js](https://medium.com/@fareez_ahamed/make-your-own-autocomplete-component-quickly-using-vue-js-21a642e8b140#.lzhadvcfp)
+ * [Building a README generator with Vue.js](https://dotdev.co/building-a-readme-generator-with-vue-js-b653cd1638d8#.v4jaewscq)
+ * [Understanding Vue.js](https://medium.com/@hectorlorenzo/understanding-vue-js-7c3cd5fb074c#.ugxz5z49y)
+ * [Build a Simple Todo App with Vue.js and Vuex 2.0](https://medium.com/@paadams/build-a-simple-todo-app-with-vue-js-1778ae175514#.x079efwn2)
+ * [Top 7 reasons to try Vue.js in 2016](https://medium.com/front-end-hacking/top-7-reasons-to-try-vue-js-in-2016-8c9255e2aa92#.5xzl6g9as)
+ * [Vue.js — De amante casual pra uma relação estável](https://medium.com/@wesleysaraujo/vue-js-de-amante-casual-pra-uma-rela%C3%A7%C3%A3o-est%C3%A1vel-ddb1d796da07#.l8jhb0fun)
+ * [Working with Vue.js](https://medium.com/@hismithy/working-with-vue-js-986ea498b43d#.ri5kjgugp)
+
+# Meetups
+
+ * [Como foi o primeiro Meetup de Vue.js em São Paulo](https://medium.com/@Juscilan/como-foi-o-primeiro-meetup-de-vue-js-em-s%C3%A3o-paulo-6b2ba50a7bdc#.uq450awpi)
