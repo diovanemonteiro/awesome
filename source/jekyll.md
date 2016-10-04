@@ -37,10 +37,15 @@
  - [Adding comments to Jekyll blog](http://blog.webjeda.com/jekyll-comments/)
  - [Adding Disqus to Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
  - [Adding Disqus Comments To Jekyll Blog](http://www.web2sons.xyz/2016/04/29/adding_disqus_comments_to_jekyll.html)
+ - [Why we used Jekyll with Github Pages for our website](https://medium.com/14islands-stories/reasons-we-used-jekyll-with-github-pages-for-our-website-941a33c1eac4#.nt8fwujyx)
+ - [Jekyll 3.2.1: how I approached the awesome theme system overcoming initial fears](https://medium.com/@fedtti/jekyll-themes-175e9c7ea873#.h9zi473md)
+ - [How to Create a Blog with Jekyll and GitHub Page](https://medium.com/@satorusasozaki/how-to-create-a-blog-with-jekyll-and-github-page-d6470ab32369#.pvon1ngmh)
+ - [10 Reasons why you should choose Jekyll for your new blog](https://medium.com/@manojkarthick/10-reasons-why-you-should-choose-jekyll-for-your-new-blog-226a7b08aa2c#.x8hx6h72g)
+ - [Why is my blog inactive — Jekyll Problems](https://medium.com/@ammarshah/why-is-my-blog-inactive-jekyll-problems-24b325e1bd26#.fgnw1rw8d)
 
 # Themes
 
- - [Jekyll Themes](http://jekyllthemes.org/) 
+ - [Jekyll Themes](http://jekyllthemes.org) 
  - [Hydejack](http://jekyllthemes.org/themes/hydejack/)
 
 # Sites 
