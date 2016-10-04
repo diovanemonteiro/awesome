@@ -528,6 +528,7 @@
  - [**Tudo o que você precisa saber sobre Git**](http://www.obomprogramador.com/2014/11/tudo-o-que-voce-precisa-saber-sobre-git.html)
  - [**Learn Git in 30 Minutes**](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
  - [**Git Cheatsheet**](http://ndpsoftware.com/git-cheatsheet.html)
+ - [Lesser known Git commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60#.azc0gtipl)
 
 ## Ghost
  * [Themes](#themes)
