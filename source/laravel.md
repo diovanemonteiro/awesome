@@ -105,6 +105,9 @@
  * [Laravel File Structure](http://vegibit.com/laravel-file-structure/)
  * [What is a Laravel Interface?](http://vegibit.com/what-is-a-laravel-interface/)
  * [Docker, Rancher, & Laravel: Easy & Safe Scalability!](https://medium.com/@asked_io/docker-rancher-laravel-easy-safe-scalability-4e6eb8758232#.phqqd12yq)
+ * [Write a Decent API Already!](https://metricloop.com/blog/write-a-decent-api-already)
+ * [**Installing Bourbon and Neat with Laravel Elixir**](https://laravel-news.com/2016/10/installing-bourbon-neat-laravel-elixir)
+ * [Building a news app from scratch: Part 1 (Setup)](https://medium.com/building-a-news-app-using-laravel/building-a-news-app-from-scratch-part-1-setup-2d2c0bffc2eb#.tnbib8fge)
 
 # Laravel Tips
  * [Laravel 5 Tutorial : How to use Validation in Laravel 5.3](http://www.hc-kr.com/2016/09/laravel-5-how-to-use-validation.html)
