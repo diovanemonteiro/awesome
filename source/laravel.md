@@ -109,6 +109,7 @@
 # Laravel Tips
  * [Laravel 5 Tutorial : How to use Validation in Laravel 5.3](http://www.hc-kr.com/2016/09/laravel-5-how-to-use-validation.html)
  * [Why You Must Using Laravel the Best PHP Framework?](http://www.hc-kr.com/2016/06/why-you-using-laravel-best-php-framework.html)
+ * [How to check uploaded file is empty or not in Laravel 5.3?](http://itsolutionstuff.com/post/how-to-check-uploaded-file-is-empty-or-not-in-laravel-53example.html)
 
 # Laravel Conferences
  * [Laracon 2016 Summary - Day One](https://auth0.com/blog/laracon-summary-day-1/)
