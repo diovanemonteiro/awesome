@@ -42,6 +42,10 @@
  - [How to Create a Blog with Jekyll and GitHub Page](https://medium.com/@satorusasozaki/how-to-create-a-blog-with-jekyll-and-github-page-d6470ab32369#.pvon1ngmh)
  - [10 Reasons why you should choose Jekyll for your new blog](https://medium.com/@manojkarthick/10-reasons-why-you-should-choose-jekyll-for-your-new-blog-226a7b08aa2c#.x8hx6h72g)
  - [Why is my blog inactive — Jekyll Problems](https://medium.com/@ammarshah/why-is-my-blog-inactive-jekyll-problems-24b325e1bd26#.fgnw1rw8d)
+ - [Build a Blog with Jekyll and GitHub Pages](https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages)
+ - [Working with upcoming posts in Jekyll](http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html)
+ - [How to Create Post Draft In Jekyll](http://www.hongkiat.com/blog/jekyll-draft/)
+ - [Jekyll Drafts](https://gist.github.com/benbalter/5555992)
 
 # Themes
 
