@@ -108,11 +108,27 @@
  * [Write a Decent API Already!](https://metricloop.com/blog/write-a-decent-api-already)
  * [**Installing Bourbon and Neat with Laravel Elixir**](https://laravel-news.com/2016/10/installing-bourbon-neat-laravel-elixir)
  * [Building a news app from scratch: Part 1 (Setup)](https://medium.com/building-a-news-app-using-laravel/building-a-news-app-from-scratch-part-1-setup-2d2c0bffc2eb#.tnbib8fge)
+ * [Laravel 5.2: Getting started](http://vaguelyuseful.info/2016/02/15/laravel-5-2-getting-started/)
+ * [What is New in Laravel 5.3? Part 1 Small Changes](http://devmarketer.io/learn/new-laravel-5-3-part1-small-changes/)
+ * [**Ultimate Guide: Deploy Laravel 5.3 App on LEMP Stack (Ubuntu 16 and Nginx)**](http://devmarketer.io/learn/deploy-laravel-5-app-lemp-stack-ubuntu-nginx/)
+ * [How to Play Around with Laravel 5.3 before Release](http://devmarketer.io/learn/play-around-laravel-5-3-release/)
+ * [The simple guide to deploy Laravel 5 application on shared hosting](https://medium.com/laravel-news/the-simple-guide-to-deploy-laravel-5-application-on-shared-hosting-1a8d0aee923e#.eb1w27pj4)
+ * [Building a Laravel Project Deploy Script](http://rizqi.id/deploy-script-for-laravel-projects)
+ * [Understanding the Laravel Service Container](https://dotdev.co/understanding-laravel-service-container-bd488ca05280#.fqgbh69c9)
+ * [Laravel 5.3 - Customize pagination templates example from scratch](http://itsolutionstuff.com/post/laravel-53-customize-pagination-templates-example-from-scratchexample.html)
+ * [Extending Laravel Socialite to Work with Google API Client](http://devartisans.com/articles/extending-laravel-socilaite-google-api-client)
+ * [Laravel 5 Google OAuth authentication using Socialite Package](http://itsolutionstuff.com/post/laravel-5-google-oauth-authentication-using-socialite-packageexample.html)
+ * [Laravel 5.2 Socialite Google Login (Part 3)](https://blog.damirmiladinov.com/laravel/laravel-5.2-socialite-google-login.html#.V_0__-UrLct)
+ * [LARAVEL 5 + GOOGLE APIS CLIENT LIBRARY](https://duplexcrux.wordpress.com/2015/04/18/laravel-5-google-apis-client-library/)
+ * [Google API - Service account connection - Laravel 5](https://laracasts.com/discuss/channels/tips/google-api-service-account-connection-laravel-5)
 
 # Laravel Tips
  * [Laravel 5 Tutorial : How to use Validation in Laravel 5.3](http://www.hc-kr.com/2016/09/laravel-5-how-to-use-validation.html)
  * [Why You Must Using Laravel the Best PHP Framework?](http://www.hc-kr.com/2016/06/why-you-using-laravel-best-php-framework.html)
  * [How to check uploaded file is empty or not in Laravel 5.3?](http://itsolutionstuff.com/post/how-to-check-uploaded-file-is-empty-or-not-in-laravel-53example.html)
+
+# Laravel Packages
+ * [Laravel Inspector](https://github.com/lsrur/inspector)
 
 # Laravel Conferences
  * [Laracon 2016 Summary - Day One](https://auth0.com/blog/laracon-summary-day-1/)
